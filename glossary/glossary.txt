@@ -1,0 +1,207 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+flip-off	flip-off	0 de 3. No está en glosarios. Hay video en https://youtu.be/WPJjxnH4WdY
+instrumentation laboratory	Instrumentation Laboratory	Es nombre propio. Producen la prueba de homeostasis ACL TOP™
+OCS	Procedimiento unificado de trabajo corporativo	Corporate Standard Operating Procedure (no usar sigla); ver Standard Operating Procedure
+RACI	definiciones de responsabilidades, aprobación, consultantes y personas informadas	responsible, approval, consulted, informed (no usamos sigla) GT 8-22
+GMP	buenas prácticas de fabricación
+CU	UC	uniformidad del contenido GT 8-22
+ATP	ATP	protocolo de transferencia analítica; GT 8-22; 3 de 3
+retain sample	muestra de reserva	IATE: Francés: échantillon de réference; alemán. rückstellprobe, Schiedsprobe 0 de 3 10-22 GT
+SAR	SAR	Relación estructura-actividad. Nitrosamine Risk-Assessment Micardis Plus. GT 10-22 3 de 3
+seed train	tren semilla	Varias instancias. Una poco confiable: https://www.facebook.com/profile.php?id=100063756175365. 0 de 3 GT 11-22
+beef extract	extracto cárnico bovino	AISLAMIENTO Y CARACTERIZACIÓN PARCIAL DE UNA BACTERIOCINA PRODUCIDA POR Pediococcus sp. 347, DE ORIGEN CÁRNICO, Wagner Luiz Moreira Dos Santos, MADRID, 1993 1 de 3 GT 11-22
+bind elute chromatography	cromatografía en modo unión/elución	https://es.frwiki.wiki/wiki/%C3%89lution
+i.V.	firma apoderada	in Vollmacht (en firmas)
+CCIT	pruebas de integridad del sistema de cierre del envase	Container Closure Integrity Testing GT 3 de 3 12-22
+CAPA	acciones correctivas y preventivas	corrective actions preventive actions
+AI	ingesta aceptable	acceptable intake, Nitrosamine impurities in human medicinal products, Procedure number: EMEA/H/A-5(3)/1490; GT 01-23
+CEP	certificado de idoneidad CEP	European procedure for a certificate of suitability of monographs of the European pharmacopoeia, gt 1-23 3 de 3
+MDD	dosis diara máxima	maximum daily dose, GT 3 de 3 01-23
+CHMP	Comité de Medicamentos de Uso Humano	sigla, CHMP, EMA/338312/2016 Rev. 3 3 de 3 GT 01-23
+PAES	estudio de efectividad posterior a la autorización	postauthorization efficacy study
+BB	buffer blanco	Blank buffer
+dithiothreitol	ditiotreitol	ANMAT: DECLARACIÓN DE CONFORMIDAD - ANMAT helena.anmat.gob.ar gt 6-23
+homoscedasticity	homocedasticidad	wikipedia: En estadística se dice que un modelo predictivo presenta homocedasticidad cuando la varianza del error condicional a las variables
+residual plot	gráfico de valores residuales	Seminario de doctorado (UBA), TÉCNICAS AVANZADAS DE INVESTIGACIÓN SOCIAL; MODELOS DE REGRESIÓN Y CORRELACIÓN, Módulo 3 A
+Study Number	Número de estudio	en carátulas
+rotating viscometer	viscosímetro rotatorio	Farmacopea, Anmat Libro segundo, CARBOXIMETILCELULOSA, SÓDICA 9004-32-4
+IR	de liberación inmediata	immediate release 3 de 3 surge de documento de BI GT 07-23
+ISTD	Est. int.	Estándar interno 3 de 3 B: GT 07-23
+IS	est. int.	parece abreviatura de estándar interno 2 de 3 B: GT 7-23
+leading coefficient	coeficiente del término de mayor grado	es la definición de wikipedia para los polinomios. Desconozco si hay otra denominación en español 1 de 3 B: GT 7-23
+DAD	detector de arreglo de diodos	diode-array detector. Pese a que matriz sería más correcto. 2 de 3 GT 07-23
+formic acid	ácido fórmico	un componente de la miel, Wiki, 3 de 3 GT 7-23
+m/z	masa/carga	relación masa-carga (mass-to-charge)  es.wikipedia.org/wiki/Relación_masa_carga pocas páginas en español, nada anmat para m/z 02 de 3 gt 7-23
+matrix sample	muestra de la matriz	La matriz es todo lo que no es el analito. 3 de 3 GT 7-23
+matrix sample	muestra de la matriz	La matriz es todo lo que no es el analito. 3 de 3 GT 7-23
+AP	procedimiento analítico	analytical procedure, GT 7-23 3 de 3
+(variation)|(\1)s	variación|variaciones
+dilution(s)?	diluci(ón)?(ones)?
+Assessment and control of DNA reactive(mutagenic) impurities in pharmaceuticals to limit potential carcinogenic risk	Evaluación y control de impurezas reactivas al ADN – mutagénicas- en fármacos, para limitar el potencial de riesgo carcinogénico	Directiva M7 (R1) de la ICH, Novedades Internacionales y Nacionales en Seguridad de Medicamentos Diciembre de 2021, Departamento de Farmacovigilancia y Gestión de Riesgo Administración Nacional de Medicamentos, Alimentos y Tecnología Médica 3 de 3 GT 8-23
+Hypersil Phenyl	Hypersil Phenil	Marca comercial de columna
+flip-off	flip-off	0 de 3. No está en glosarios. Hay video en https://youtu.be/WPJjxnH4WdY
+instrumentation laboratory	Instrumentation Laboratory	Es nombre propio. Producen la prueba de homeostasis ACL TOP™
+OCS	Procedimiento unificado de trabajo corporativo	Corporate Standard Operating Procedure (no usar sigla); ver Standard Operating Procedure
+RACI	definiciones de responsabilidades, aprobación, consultantes y personas informadas	responsible, approval, consulted, informed (no usamos sigla) GT 8-22
+GMP	buenas prácticas de fabricación
+CU	UC	uniformidad del contenido GT 8-22
+ATP	ATP	protocolo de transferencia analítica; GT 8-22; 3 de 3
+retain sample	muestra de reserva	IATE: Francés: échantillon de réference; alemán. rückstellprobe, Schiedsprobe 0 de 3 10-22 GT
+SAR	SAR	Relación estructura-actividad. Nitrosamine Risk-Assessment Micardis Plus. GT 10-22 3 de 3
+seed train	tren semilla	Varias instancias. Una poco confiable: https://www.facebook.com/profile.php?id=100063756175365. 0 de 3 GT 11-22
+beef extract	extracto cárnico bovino	AISLAMIENTO Y CARACTERIZACIÓN PARCIAL DE UNA BACTERIOCINA PRODUCIDA POR Pediococcus sp. 347, DE ORIGEN CÁRNICO, Wagner Luiz Moreira Dos Santos, MADRID, 1993 1 de 3 GT 11-22
+bind elute chromatography	cromatografía en modo unión/elución	https://es.frwiki.wiki/wiki/%C3%89lution
+i.V.	firma apoderada	in Vollmacht (en firmas)
+CCIT	pruebas de integridad del sistema de cierre del envase	Container Closure Integrity Testing GT 3 de 3 12-22
+CAPA	acciones correctivas y preventivas	corrective actions preventive actions
+AI	ingesta aceptable	acceptable intake, Nitrosamine impurities in human medicinal products, Procedure number: EMEA/H/A-5(3)/1490; GT 01-23
+CEP	certificado de idoneidad CEP	European procedure for a certificate of suitability of monographs of the European pharmacopoeia, gt 1-23 3 de 3
+MDD	dosis diara máxima	maximum daily dose, GT 3 de 3 01-23
+CHMP	Comité de Medicamentos de Uso Humano	sigla, CHMP, EMA/338312/2016 Rev. 3 3 de 3 GT 01-23
+PAES	estudio de efectividad posterior a la autorización	postauthorization efficacy study
+BB	buffer blanco	Blank buffer
+dithiothreitol	ditiotreitol	ANMAT: DECLARACIÓN DE CONFORMIDAD - ANMAT helena.anmat.gob.ar gt 6-23
+homoscedasticity	homocedasticidad	wikipedia: En estadística se dice que un modelo predictivo presenta homocedasticidad cuando la varianza del error condicional a las variables
+residual plot	gráfico de valores residuales	Seminario de doctorado (UBA), TÉCNICAS AVANZADAS DE INVESTIGACIÓN SOCIAL; MODELOS DE REGRESIÓN Y CORRELACIÓN, Módulo 3 A
+Study Number	Número de estudio	en carátulas
+rotating viscometer	viscosímetro rotatorio	Farmacopea, Anmat Libro segundo, CARBOXIMETILCELULOSA, SÓDICA 9004-32-4
+IR	de liberación inmediata	immediate release 3 de 3 surge de documento de BI GT 07-23
+ISTD	Est. int.	Estándar interno 3 de 3 B: GT 07-23
+IS	est. int.	parece abreviatura de estándar interno 2 de 3 B: GT 7-23
+leading coefficient	coeficiente del término de mayor grado	es la definición de wikipedia para los polinomios. Desconozco si hay otra denominación en español 1 de 3 B: GT 7-23
+DAD	detector de arreglo de diodos	diode-array detector. Pese a que matriz sería más correcto. 2 de 3 GT 07-23
+formic acid	ácido fórmico	un componente de la miel, Wiki, 3 de 3 GT 7-23
+m/z	masa/carga	relación masa-carga (mass-to-charge)  es.wikipedia.org/wiki/Relación_masa_carga pocas páginas en español, nada anmat para m/z 02 de 3 gt 7-23
+matrix sample	muestra de la matriz	La matriz es todo lo que no es el analito. 3 de 3 GT 7-23
+matrix sample	muestra de la matriz	La matriz es todo lo que no es el analito. 3 de 3 GT 7-23
+AP	procedimiento analítico	analytical procedure, GT 7-23 3 de 3
+(variation)|(\1)s	variación|variaciones
+dilution(s)?	diluci(ón)?(ones)?
+Assessment and control of DNA reactive(mutagenic) impurities in pharmaceuticals to limit potential carcinogenic risk	Evaluación y control de impurezas reactivas al ADN – mutagénicas- en fármacos, para limitar el potencial de riesgo carcinogénico	Directiva M7 (R1) de la ICH, Novedades Internacionales y Nacionales en Seguridad de Medicamentos Diciembre de 2021, Departamento de Farmacovigilancia y Gestión de Riesgo Administración Nacional de Medicamentos, Alimentos y Tecnología Médica 3 de 3 GT 8-23
+Hypersil Phenyl	Hypersil Phenil	Marca comercial de columna
+Pool Hold	espera de la mezcla	[tiempo de], en cromatografía, aparece como ultrafiltración/diafiltración 0 de 3, GT 8-23. Seguir investigando. Esto está tomado de una TM
+EPR	RED	Essential performance requirements - Requisitos esenciales de desempeño 0 de 3 B GT 09-23
+IFU	MdE	Instructions for Use - Modo de empleo (solo en listado de siglas) 0 de 3 B GT 9-23
+NRS	norma de referencia primaria	NRP (usar sigla solo en listado) 0 de 3 B: GT 9-23
+reovirus	reovirus	3 de 3 B: gt 9-23. Diccionario médico. Clínica Universidad de Navarra.
+RNS	funda de aguja rígida	FAR 0 de 3 B: gt 9-23 (solo en listado de siglas)
+RTTQ	Calificación del transporte en tiempo real	Cal. tr. TR (solo en lsitado de siglas) 0 de 3 B. gt 9-23
+SIP	vaporización, esterilización y desinfección en el sitio	Steaming, Sterilization & Sanitization-In-Place (SES en listado de siglas) 0 de 3 GT 9-23
+SM	fabricación estéril	SE en listado de siglas 0 de 3 GT 9-23
+SNS	sano y salvo	S&S en listado de siglas 0 de 3 GT 9-23
+SPC	Preac. sec.	preacondicionamiento secuencial - sequential pre-conditioning 0 de 3 B: gt 9-23
+SVP	partículas subvisibles	P. subv. en listado de siglas 0 de 3 GT 9-23
+TSS	estudio de simulación de transporte	Est. sim. tr. en listado de siglas 0 de 3 GT 9-23
+WS	norma de referencia de trabajo	working reference standard. N. ref. tr. en listado de siglas 0 de 3 GT 9-23
+needle safety device	dispositivo de seguridad de aguja	0 de 3 GT 9-23
+NSD	dispositivo de seguridad de aguja	needle safety device 0 de 3 GT 9-23
+PFS-NSD-1	PFS-NSD-1	Spesolimab solution for injection in pre-filled syringe 150 mg/syringe (Needle safety device 1 mL format: dispositivo de seguridad de aguja, en formato de 1 ml)
+finger flange	lengüeta de apoyo	https://images.app.goo.gl/x95gNB5V8ftdGrdJ7 3 de 3 (ver imagen) B: GT 9-23
+break loose	de desprendimiento	-force - fuerza-; fuerza que hace mover un émbolo. https://www.proz.com/kudoz/english-to-spanish/engineering-industrial/2163991-break-loose-force.html#12646790Break loose; También: https://csanalytical.com/breakloose-and-glide/ Break-Loose Force, or initiating force, is defined as the amount of maximum force required to dislodge the plunger from its resting position in the barrel of the syringe. Español: https://www.mecmesin.com/es/publications/fuerza-de-desprendimiento-y-deslizamiento-del-%C3%A9mbolo-de-la-jeringa 3 de 3 B: GT 9-23
+anti-counterfeiting feature	medidas antifalsificación	https://www.lillylatam.com/seguridad/antifalsificacion , 3. in Antifalsificación de medicamentos - Laboratorio Chile | Teva, 4. https://es.wikipedia.org/wiki/Medicamento_falsificado,5. https://www.lilly.es/medicamentos/seguridad/anti-falsificacion  6.https://www.farmaceuticos.com/noticias/el-sistema-antifalsificacion-de-medicamentos-cumple-su-primer-ano-aun-mayor-seguridad-para-los-pacientes/ 7.https://www.pharmatech.es/noticias/20171122/medidas-antifalsificacion-medicamentos 8.https://www.redaccionmedica.com/secciones/industria/el-piloto-europeo-de-alertas-anti-falsificacion-de-farmacos-antes-de-2023-5891 2 de 3 GT 9-23
+RABS	sistema de acceso restringido con barrera	Restricted Access Barrier System. SARB en listado de siglas 3 de 3 GT 9-23
+tub	baño de agua	https://www.cromtek.cl/2020/05/07/uso-de-bano-de-laboratorio/ 2 de 3 GT 9-23
+SCT	umbral de seguridad	safety concern threshold. En listado de siglas U de tox. 3 de 3 GT 9-23
+PDE	exposición diaria permitida	permitted day exposure. EDP en listado de siglas. 3 de 3 GT 9-23
+Pool Hold	espera de la mezcla	[tiempo de], en cromatografía, aparece como ultrafiltración/diafiltración 0 de 3, GT 8-23. Seguir investigando. Esto está tomado de una TM
+EPR	RED	Essential performance requirements - Requisitos esenciales de desempeño 0 de 3 B GT 09-23
+IFU	MdE	Instructions for Use - Modo de empleo (solo en listado de siglas) 0 de 3 B GT 9-23
+NRS	norma de referencia primaria	NRP (usar sigla solo en listado) 0 de 3 B: GT 9-23
+reovirus	reovirus	3 de 3 B: gt 9-23. Diccionario médico. Clínica Universidad de Navarra.
+RNS	funda de aguja rígida	FAR 0 de 3 B: gt 9-23 (solo en listado de siglas)
+RTTQ	Calificación del transporte en tiempo real	Cal. tr. TR (solo en lsitado de siglas) 0 de 3 B. gt 9-23
+SIP	vaporización, esterilización y desinfección en el sitio	Steaming, Sterilization & Sanitization-In-Place (SES en listado de siglas) 0 de 3 GT 9-23
+SM	fabricación estéril	SE en listado de siglas 0 de 3 GT 9-23
+SNS	sano y salvo	S&S en listado de siglas 0 de 3 GT 9-23
+SPC	Preac. sec.	preacondicionamiento secuencial - sequential pre-conditioning 0 de 3 B: gt 9-23
+SVP	partículas subvisibles	P. subv. en listado de siglas 0 de 3 GT 9-23
+TSS	estudio de simulación de transporte	Est. sim. tr. en listado de siglas 0 de 3 GT 9-23
+WS	norma de referencia de trabajo	working reference standard. N. ref. tr. en listado de siglas 0 de 3 GT 9-23
+needle safety device	dispositivo de seguridad de aguja	0 de 3 GT 9-23
+NSD	dispositivo de seguridad de aguja	needle safety device 0 de 3 GT 9-23
+PFS-NSD-1	PFS-NSD-1	Spesolimab solution for injection in pre-filled syringe 150 mg/syringe (Needle safety device 1 mL format: dispositivo de seguridad de aguja, en formato de 1 ml)
+finger flange	lengüeta de apoyo	https://images.app.goo.gl/x95gNB5V8ftdGrdJ7 3 de 3 (ver imagen) B: GT 9-23
+digest agar	agar digerido	Ph. Arg 7ma edición 3 de 3 B: gt 9-23
+C/R	confianza y seguridad	conficence and reliability [level] 3 de 3 Gt 9-23
+hose barb	espiga para manguera	google images 2 de 3 B GT 9-23
+Inductively Coupled Plasma	plasma acoplado inductivamente	https://es.wikipedia.org/wiki/ICP-MS, ICP-MS (Espectrometría de Masas con Plasma Acoplado Inductivamente) es una técnica de análisis inorgánico elemental e isotópico capaz de determinar y cuantificar la mayoría de los elementos de la tabla periódica en un rango dinámico lineal de 6 órdenes de magnitud (ng/L –mg/L) además de poder llevar a cabo la determinación de los elementos en un análisis multielemental que provee la composición de la muestra 3 de 3 GT 9-23
+European federation of pharmaceutical industries and associations	Federación Europea de Industrias y Asociaciones Farmascéuticas	https://gaz.wiki/wiki/es/European_Federation_of_Pharmaceutical_Industries_and_Associations
+EFPIA	EFPIA	Se mantiene así la sigla. Federación Europea de Industrias y Asociaciones Farmacéuticas https://gaz.wiki/wiki/es/European_Federation_of_Pharmaceutical_Industries_and_Associations 3 de 3 GT 9-23
+Biolot	biolote
+de-aerator	desaireador	varias páginas de publicidad 1 de 3; GT 10-23
+holding vessel	tanque de espera	Proz foro: Estos tanques se califican de "holding" porque sirven, en una fase intermedia de la fabricación, para conservar el producto durante un determinado lapso de tiempo cuando existe una "ruptura" en la continuidad de la cadena de fabricación, es decir, cuando por alguna razón es preciso esperar para proseguir el proceso. https://www2.proz.com/kudoz/english-to-spanish/medical-pharmaceuticals/3466135-holding-vessel.html?phpv_redirected=1 3 de 3 GT 10-23
+gel mass	masa de gel	Correlation of Wedge Temperature and Gelatin Molecular Weight of Gel Mass Aged from 0 to 105 Hours during Encapsulation; Patente AU2016354140B2; patente en español ES2302926T3; 1 de 3. GT 10-23
+Encapsulator	encapsuladora	Aparece más en femenino en sitios comerciales 1 de 3 GT 10-23
+CEC	comité de eventos clínicos
+pre-DM	prediabetes	https://www.google.com/url?q=http://www.clinica-unr.com.ar/2015-web/Posgrado/Graduados/Prediabetes_Baltasar_Finucci_Curi.pdf&sa=U&ved=2ahUKEwim7smVh8mCAxWrqpUCHQDFCz0QFnoECAcQAg&usg=AOvVaw05m65gJaoL2JYA1pKLzM7a 3 de 3 GT 11-23
+capping	fijación de un límite máximo	IATE 751905 1 de 3, porque es en contexto de budgetary expenditure. GT 11-23
+IRT	tecnología IRT	interactive response technology. Podemos especificar tecnología de respuesta interactiva IRT, What is Interactive Response Technology (IRT)? - Suvoda www.suvoda.com › insights › blog  2 de 3 GT 11-23
+ICF	formulario de consentimiento informado	Informed Consent Form 3 de 3 Gt 11-23
+ISF	archivo del centro investigador	Investigator Site File (doc. de referencia BI 1245-0110--1-15--study-report) 3 de 3 GT 11-23
+TMF	archivo maestro del ensayo	Trial Master File 3 de 3 GT 11-23
+ExSC	Comité de Dirección Ejecutiva	3 de 3, B: GT 11-23, Surge del documento de trabajo. La traducción es general de Iate
+EOT	fin del tratamiento	as in EOT visit. 3 de 3 GT 11-23
+TSAP	plan de análisis estadístico del ensayo	TSAP en listado de siglas y tablas; 3 de 3; GT 11-23
+CRO	empresa investigadora contratada	Contract Research Organisation. 1245-0110--1-15--Study report 3 de 3. GT 11-23
+CRA	monitor de ensayos clínicos	clinical research associate; 3  de 3 GT 11-23 www.inesem.es/revistadigital/biosanitario/que-es-un-cra-o-monitor-de-ensayo-clinicos/; www.pharmiweb.com/article/what-does-a-clinical-research-associate-cra-do
+charter	acta de adjudicación de eventos	siempre que corresponda a Event Adjudication Charter 0 de 3, GT 11-23
+IRB	Comité de Revisión Institucional	Institutional Review Board 3 de 3 GT 11-23
+α-spending function	función de gasto α	función de O'Brien-Fleming y Pocock. Es para pruebas secuenciales https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0034-98872000000800014 3 de 3 B GT 11-23
+PKS	grupo farmacocinético	en tablas y listado de siglas: GPK
+CDISC	consorcio CDISC	Clinical Data Interchange Standards Consortium (Consorcio de estándares para el intercambio de datos clínicos) 3 de 3 GT 11-23
+CIF	función de incidencia acumulativa	cumulative incidence function. Para listado de siglas: FIC 3 de 3 GT 11-23
+ARBs	BRA	bloqueadores del receptor de la angiotensina; https://www.argentina.gob.ar/sites/default/files/06-informe-sacubitrilo-valsartan-1.pdf; también https://www.bago.com.ar/vademecum/bibliografia/antagonistas-del-receptor-de-la-angiotensina-ii-solos-y-en-combinacion-con-hidroclorotiaz 2 de 3, GT
+parametric joint gamma-frailty model	modelo de fragilidad conjunta paramétrica con distribución gamma	https://www.researchgate.net/publication/235632992_parfm_Parametric_Frailty_Models_in_R; búsqueda monolingüe en inglés ; 2 de 3 GT 11-23.
+win ratio	cociente de ganancias	sin referencias en ningún lado. 0 de 3 GT 11-23
+KCCQ	cuestionario KCCQ	Cuestionario de cardiomiopatía de la Ciudad de Kansas 3 DE 3  GT 11-23
+FU	seguimiento	Follow Up
+SDV	verificación de datos fuente	source data verification (en formularios, por ejemplo) 3 de 3 GT 11-23
+Data Handling Report	Informe de Gestión de Datos	0 de 3. Creo que es propio de BI GT 11-23
+SCR	grupo seleccionado	En tablas, Gr. Sel.; 2 de 3 (dudas con el español) GT 11-23
+ATC	ATC	WHO Anatomical Therapeutic Chemical classification. Clasificación anatómica, terapéutica y química; https://www.argentina.gob.ar/anmat/farmacovigilancia/programas
+bootstrapping	proceso de bootstrapping	no hay traducción fiable. https://espanol.libretexts.org/Estadisticas/Estadisticas_Introductorias/Libro%3A_Estad%C3%ADsticas_Visuales_Usa_R!_(Shipunov)/10%3A_Fragmentos_del_Ap%C3%A9nd 0 de 3 GT 11-23
+cumulative incidence	incidencia acumulada	https://doi.org/10.4067/s0034-98872023000100072 3 de 3 GT 11-23
+all-cause mortality	mortalidad por todas las causas	https://doi.org/10.54817/ic.v63n3a07
+all-cause	por todas las causas	en muerte... hospitalización... http://www.scielo.edu.uy/scielo.php?script=sci_arttext&pid=S1688-12492009000100005&lang=es 2 de 3 GT 11-23
+clinical summary score	puntuación clínica resumen	https://www.revespcardiol.org/es-validacion-version-espanola-del-kansas-articulo-S0300893210000047 2 de 3. Pocas fuentes en español. GT 11-23
+overall summary score	puntuación general resumen	ver clinical summary score 1 de 3 GT 11-23
+total symptom score	puntuación sintomatológica total	sin referencias 0 de 3 GT 11-23
+homogenate	homogeneizado	n. IATE 3 de 3 GT 12-23
+soft agar	agar blando	https://espanol.libretexts.org/Biologia/Microbiolog%C3%ADa/Microbiolog%C3%ADa_(OpenStax)/06:_Pat%C3%B3genos_acelulares/6.03:_Aislamiento 3 de 3 GT 12-23
+envelope	envoltura	en envoltura celular, envoltura de lipolisacáridos Wikipedia 2 de 3 GT 12-23
+lipid-polysaccharide	lipopolisacárido	GT 3 de 3 (búsquedas DDG) 12-23
+SOS system	sistema SOS	TIP Revista Especializada en Ciencias Químico-Biológicas, 8(2):99-105, 2005 3 de 3 GT 12-23
+overuse	uso excesivo	IATE; cf abuse 3 de 3 Gt 12-23
+LPI	información local para el paciente	local patient information, 3 de 3, gt 12-23
+NMI	INM	solo en listado de siglas. Impureza no mutagénica GT 3 de 3 1-24
+PTS	síndrome postrombótico	post-thrombiti syndrome 3 de 3 GT 01-24
+NVAF	fibrilación auricular no valvular	NVAF en listado de siglas 3 de 3 GT 1-24
+CRNMBE	complicación hemorrágica no grave pero con relevancia clínica	dejaremos sigla en inglés para listado. 3 de 3 GT 1-24
+DAT	tratamiento antitrombótico dual	debería estar en listado de siglas. Es Dabigatran dual antithrombotic therapy (dabigatran + clopidogrel or tricagelor)
+TAT	tratamiento antitrombótico triple	debería estar en listado de siglas: Triple antithrombotic therapy (warfarin + clopidogrel or ticagrelor) 3 de 3 gt 1-24
+PG	Guía para el médico prescriptor	Prescriptor's Guide. Es traducción propia 0 de 3 Gt 1-24
+PAC	Ficha del paciente	Patient Alert Card Ver BI-2023 3 de 3 GT 1-24
+Prescriber Guide	Guía para el médico prescriptor	0 de 3. GT 1-24
+RMM	medida de minimización de riesgos	Risk Minimization Measure
+CAD	coronariopatía	coronary artery disease 3 de 3 GT 1-24
+CSR	informe de estudio clínico	clinical study report 3 de 3 GT 1-24
+PS	puntaje de propensión	Propensity Score 2 de 3 (aclara una usuaria de Proz que puntaje no se usa en España, sin embargo, dejamos puntaje porque ya lo teníamos consignado así), sacado de ProZ, ver propensity score en Truly Glossary. GT 1-24
+SEAP	plan de análisis estadístico y epidemiológico	statistical and epidemiological analysis plan 3 de 3 GT 1-24
+PMS	farmacovigilancia posterior a la comercialización	postmarketing surveillance; www.fda.gov/drugs/surveillance/postmarketing-surveillance-programs; traducción nuestra 2 de 3 GT 1-24
+SEASK	del sudeste asiático y Corea del Sur	parece un término de BI, porque aparece en búsquedas relacionado a BI. www.mycareersfuture.gov.sg/job/healthcare/human-pharma-digital-content-manager-seask-boehringer-ingelheim-singapore-df880261ed8a62c6d9d57eae 3 de 3 GT 1-24
+PSM	emparejamiento por puntaje de propensión	PSM matching 3 de 3 GT 1-24
+NOAC	anticoagulante oral novedoso	Novel oral anticoagulant. La sigla está bien, pero hay que ver la traducción. 1 de 3. GT 1-24
+DOAC	anticoagulante oral directo	direct oral antiicoagulant 3 de 3 Gt 1-24
+PFP	Programa de Familiarización con el Producto	Product Familiarisation Program 3 de 3 GT 1-24
+ACS	síndrome coronario agudo	acute coronary syndrome, 3 de 3 GT 1-24
+SUPAC	guía SUPAC	Scale-Up and Postapproval Changes. Aparece como Guía SUPAC en SUPACboletin.anmat.gob.ar › agosto_2021 › Dispo_6877-21
+primary stroke center	centro de atención primaria de ACV	https://www.strokeinfo.org/differences-between-a-primary-vs-comprehensive-stroke-center/ . Atienden emegencias de ACV pero no cuentan con equipamientos de imágenes
+comprehensive stroke center	centro integral de ACV	https://www.strokeinfo.org/differences-between-a-primary-vs-comprehensive-stroke-center/ Cuenta con tecnología especializada de imágenes. GT 5-24 2 de 3
+bolus	bolo	Anmat Disp 8928. GT 5-24 3 de 3
+CTA	angiografía por TAC	CT angiography. 2 de 3 (ver preposición). GT 5-24
+ESD	alta temprana contenida	Early supported discharge. En casos de ACV. Traducción acuñada por mí. 1 de 3. GT 5-24
+SnS subassembly	subunidad SnS	SnS viene de Safe'n'Sound
+PFS	Jeringa prellenada	GT 9-23, ver BI2024
+pre-filled	prellenada	GT 9-23, ver BI2024
+EFF	lengüeta de apoyo extendida	extended finger flange. Dejamos la sigla en inglés solo eventualmente 3 de 3 GT Speso
+PR	émbolo	plunger rod. No usamos sigla en inglés. GT 6-24
