@@ -1,0 +1,2967 @@
+------- 1 - Términos	BI2024
+Español - lengua meta	English - lengua fuente	BI2024
+respiración diafragmática	abdominal breathing	BI2024
+perímetro abdominal	abdominal girth	BI2024
+capacidad para conducir y usar máquinas	ability to drive and use machines	BI2024
+biodisponibilidad absoluta	absolute bioavailability	BI2024
+estructura absoluta	absolute structure	BI2024
+absorbancia	absorbance	BI2024
+factor de absorbancia	absorbance factor	BI2024
+absorción	absorption	BI2024
+banda de absorción	absorption band	BI2024
+absorción, distribución, metabolismo, y eliminación	absorption, distribution, metabolism, excretion	BI2024
+coeficiente de absortividad	absorptivity coefficient	BI2024
+goma arábiga 	acacia	BI2024
+estudios de estabilidad en condiciones aceleradas	accelerated stability studies	BI2024
+niveles aceptables de calidad	acceptable quality levels	BI2024
+criterio de aceptación	acceptance criterion	BI2024
+criterios de aceptación	acceptance criteria 	BI2024
+factor de acumulación	accumulation factor	BI2024
+exactitud	accuracy	BI2024
+fragmento acéntrico	acentric fragment	BI2024
+acesulfamo potásico	acesulfame potassium	BI2024
+acetanilida	acetanilide	BI2024
+ácido acético glacial	acetic acid glacial	BI2024
+anhídrido acético	acetic anhydride	BI2024
+acetona	acetone	BI2024
+acetonitrilo	acetonitrile	BI2024
+ ácido acetilsalicílico	acetylsalicylic acid	BI2024
+dolor	ache	por lo general, es un dolor continuo y fijo en la cabeza, la espalda, los oídos, las muelas o el estómago; ver pain)	BI2024
+concentración alcanzada	achieved concentration	BI2024
+muestra sometida a alteración química por ácido	acid stressed sample	BI2024
+grupo de picos de especies ácidas	acidic peak group	BI2024
+solución ácida	acidic solution	BI2024
+acidificante	acidifier	BI2024
+síndrome de inmunodeficiencia adquirida  	acquired immunodeficiency syndrome	BI2024
+tiempo de tromboplastina parcial activada 	activated partial thromboplastin time 	BI2024
+mutación activadora 	activating mutation	BI2024
+aluminio óxido activo ácido	active aluminium oxide, acid	BI2024
+comparador activo	active comparator	BI2024
+entidad activa	active entity	BI2024
+contenido del principio activo	active ingredient content	BI2024
+degradación del principio activo	active ingredient degradation	BI2024
+rendimiento de principio activo	active ingredient yield	BI2024
+metabolito activo	active metabolite	BI2024
+ingrediente farmacéutico activo	active pharmaceutical ingredient	BI2024
+principio activo	active pharmaceutical ingredient	BI2024
+principio activo	active substance	BI2024
+principio activo	drug substance	BI2024
+principio activo	active ingredient	BI2024
+grupo de tratamiento activo	active treatments group	BI2024
+infección de tuberculosis activa 	active tuberculosis infection	BI2024
+impurezas reales	actual impurities	BI2024
+pulsar, accionar	actuate	BI2024
+accionamiento, pulsación	actuation	un aerosol)	BI2024
+síndrome coronario agudo	acute coronary syndrome	BI2024
+brote agudo 	acute flare	BI2024
+brote agudo 	flare	BI2024
+agregar	add 	BI2024
+anexo/s	addendum	BI2024
+anexo/s	addenda	BI2024
+aditivo	additive	BI2024
+adenosina difosfato	adenosine diphosphate	BI2024
+adenosina trifosfato	adenosine triphosphate	BI2024
+evaluar	adjudicate	BI2024
+comité evaluador	adjudication committee	BI2024
+auxiliar	adjuvant	BI2024
+complementario	adjuvant	BI2024
+tratamiento complementario	adjuvant therapy	BI2024
+tratamiento posquirúrgico	adjuvant therapy	BI2024
+administrar por sonda nasogástrica	administer by gavage	BI2024
+administrar por vía oral 	administer orally	BI2024
+administración 	administration	BI2024
+glándulas suprarrenales	adrenal glands	BI2024
+adrenorreceptor	adrenoreceptor	BI2024
+adriamicina	adriamycin	BI2024
+adsorción	adsorption	BI2024
+absorción y tránsito gastrointestinal en compartimentos, versión avanzada   	advanced compartment absorption and transit	BI2024
+modelo de absorción y tránsito gastrointestinal en compartimentos, versión avanzada [modelo ACAT] 	advanced compartment absorption and transit model [ACAT model] 	BI2024
+agente fortuito	adventitious agent	BI2024
+reacción adversa al medicamento	adverse drug reaction	BI2024
+evento adverso	adverse event	BI2024
+reacción adversa	adverse reaction	BI2024
+aireación	aeration	referida a un compuesto)	BI2024
+partícula fina y aerodinámica	aerodynamic fine particle 	BI2024
+aflatoxina	aflatoxin	BI2024
+grumos	agglomerates	referido a las partículas)	BI2024
+agregómetro	aggregometer	BI2024
+factores de concordancia 	agreement factors	BI2024
+velocidad del flujo de aire	air flow rate	BI2024
+tamizadora a chorro de aire	air jet sieve	BI2024
+suministro de aire	air supply	BI2024
+tubo de suministro de aire	air supply tube	BI2024
+secar al aire 	air-dry	BI2024
+limitación del flujo de aire	airflow limitation	BI2024
+vías respiratorias	airway	BI2024
+obstrucción de las vías respiratorias	airway obstruction	BI2024
+obstrucción de las vías respiratorias	obstruction of airways	BI2024
+criterio de información de Akaike	Akaike information criterion	BI2024
+alanina aminotransferasa	alanine aminotransferase	BI2024
+rata albina	albino rat	BI2024
+albúmina/globulina [A/G]	albumin/globulin [A/G]	BI2024
+relación albúmina-globulina	albumin/globulin ratio	BI2024
+aldehído	aldehyde	BI2024
+aldolasa	aldolase	BI2024
+alifático	aliphatic 	BI2024
+alícuotas de las soluciones	aliquots of the solutions	BI2024
+rojo alizarina 	alizarin red 	BI2024
+metales alcalinos	alkali metals	BI2024
+metales alcalinotérreos	alkaline earths	BI2024
+fosfatasa alcalina	alkaline phosphatase	BI2024
+alquino	alkyne	BI2024
+alergeno	allergen 	BI2024
+alfa-tocoferol todo racémico	all-rac-alpha-tocopheryl acetate 	BI2024
+alfa-tocoferol acetato	alpha tocopherol acetate	BI2024
+propelente alternativo	alternate propellant	BI2024
+blíster de aluminio/aluminio	alu/alu blister	BI2024
+lámina de aluminio	aluminium foil	BI2024
+laca de aluminio	aluminium lake	BI2024
+laminado de aluminio	aluminium laminated 	BI2024
+matraz aforado de vidrio de color ámbar	amber volumetric glass flask	BI2024
+condiciones de temperatura y humedad ambiente	ambient conditions	BI2024
+modificar	amend	referido a estudios clínicos)	BI2024
+la prueba de Ames arrojó un resultado negativo	Ames negative	BI2024
+prueba de Ames	Ames test	BI2024
+amida	amid	BI2024
+grupo amida	amide group	BI2024
+amidina 	amidin 	BI2024
+cloruro de amina	amine chloride	BI2024
+aminobenzoico	aminobenzoyl	BI2024
+amoníaco	ammonia	BI2024
+amonio	ammonium	BI2024
+acetato de amonio	ammonium acetate	BI2024
+fosfato diácido de amonio 	ammonium dihydrogen phosphate	BI2024
+fosfato ácido de amonio 	ammonium hydrogen phosphate	BI2024
+sulfato de amonio	ammonium sulphate	BI2024
+convertidor analógico a digital	analog to digital converter	BI2024
+convertidor A/D 	A/D converter	BI2024
+análisis de covarianza	analysis of covariance	BI2024
+modelo de análisis de covarianza [modelo ANCOVA]	analysis of covariance modelling [ANCOVA modelling]	BI2024
+modelo de análisis de covarianza [modelo ANCOVA]	analysis of covariance model [ANCOVA model]	BI2024
+análisis de varianza 	analysis of variance	BI2024
+analista	analyst 	BI2024
+gerente	analyst 	decidir según el contexto o consultar)	BI2024
+analito 	analyte 	BI2024
+balanza analítica	analytical balance	BI2024
+datos analíticos	analytical data 	BI2024
+Departamento de Desarrollo Analítico	Analytical Development Department	Analytical Development Department) 	BI2024
+umbral de evaluación analítica	analytical evaluation threshold	BI2024
+grado analítico	analytical grade	BI2024
+precisión analítica 	analytical precision 	BI2024
+procedimiento analítico	analytical procedure	BI2024
+especificación analítica	analytical specification	BI2024
+anafilaxis	anaphylaxis	BI2024
+química terapéutica anatómica	anatomical therapeutic chemical	BI2024
+impactador de cascada Andersen	Andersen Cascade Impactor	BI2024
+bloqueador del receptor de angiotensina II	angiotensin II receptor blocker	BI2024
+enzima convertidora de angiotensina	angiotensin-converting enzyme	BI2024
+sección angular	angular section	BI2024
+anhídrido	anhydride	BI2024
+anhidra/o	anhydrous	BI2024
+sal anhidra	anhydrous salt	BI2024
+anilina	aniline	BI2024
+bioterio	animal facility	BI2024
+cuidado de los animales	animal husbandry	BI2024
+intercambio aniónico	anion exchange	BI2024
+brecha aniónica	anion gap	BI2024
+reactivo de anisaldehído	anisaldehyde reagent	BI2024
+anticoncepción anovulatoria	anovulatory contraception	BI2024
+efecto antagonista	antagonistic effect	BI2024
+antiadherente	anti-adherent	BI2024
+antiadherente	antiadherent	BI2024
+antibióticos 	antibiotics	BI2024
+anticuerpo	antibody	BI2024
+anticoagulante	anticoagulant	BI2024
+tratamiento anticoagulante 	anticoagulant therapy	BI2024
+anticonvulsivo 	anticonvulsant 	BI2024
+anticuerpos antifármaco	anti-drug antibodies	BI2024
+anticuerpo antifosfolípido 	antiphospholipid antibody	BI2024
+antiproliferativo	anti-proliferative	BI2024
+tratamiento antirretroviral 	antiretroviral therapy 	BI2024
+antisepsia	antisepsis	BI2024
+antidisolvente	antisolvent	BI2024
+prueba de Ápgar	Apgar test	BI2024
+apical a basolateral [AP-BL y basolateral a apical [BL-AP]	apical to basolateral [AP-BL] and basolateral to apical [BL-AP]	BI2024
+equipo	apparatus	BI2024
+aspecto	appearance	BI2024
+aspecto	aspect 	BI2024
+Aspecto. Resistencia al aplastamiento. Contenido de agua. Disolución. Degradación del principio activo. Valoración.	Appearance. Resistance to Crushing. Water Content. Dissolution. Active ingredient degradation. Assay.	BI2024
+anexo/s	appendix	BI2024
+anexo/s	appendices	BI2024
+solicitante	applicant	BI2024
+agentes orales aprobados para su utilización contra la diabetes	approved oral antidiabetic agents	BI2024
+dosis letal aproximada	approximate lethal dose	BI2024
+aprotinina	aprotinin	BI2024
+recubrimiento acuoso	aqueous film-coating	BI2024
+humor acuoso	aqueous fluid	BI2024
+sistema homogéneo acuoso	aqueous one-phase system	BI2024
+ácido araquidónico	arachidonic acid	BI2024
+aragonita	aragonite	BI2024
+área bajo la curva	area under the curve	BI2024
+0‑24h)]  	area under the curve from time zero to 24 h post-dose [AUC	área bajo la curva entre 0 y las 24 horas posteriores a la dosis [AUC (0‑24h)]	BI2024
+0‑24h,ss)]  	area under the curve from time zero to 24 h post-dose, at steady‑state conditions [AUC	área bajo la curva entre 0 y las 24 horas posteriores a la dosis en condiciones de equilibrio [AUC (0‑24h,ss)]  	BI2024
+área bajo la curva entre cero e infinito [AUC0-inf] 	area under the curve from time zero to infinite [AUC0-inf] 	BI2024
+arginina	arginine	BI2024
+media aritmética	arithmetic mean	en estadística)	BI2024
+grupo	arm	BI2024
+presión arterial	arterial blood pressure	BI2024
+error de lectura 	artifact	BI2024
+tal cual	as is  	BI2024
+ácido ascórbico	ascorbic acid	BI2024
+cenizas	ash	BI2024
+reducir a cenizas	to ash	BI2024
+aspartamo	aspartame	BI2024
+aspartato aminotransferasa	aspartate aminotransferasa	BI2024
+aspecto 	aspect	BI2024
+aspecto 	appearance	BI2024
+contenido, valoración	assay	referido a determinaciones cuantitativas)	BI2024
+ensayo, prueba, análisis	assay	en sentido general)	BI2024
+evaluación - evaluar mediante visualización vertical contra un fondo blanco 	assessment - to carry out the assessment by viewing vertically against a white background	BI2024
+una hora antes de la dosis	at 1hour pre-dose	BI2024
+a escala piloto	at pilot scale	BI2024
+a escala de producción	at production scale	BI2024
+de manera aleatoria	at random	BI2024
+fibrilación auricular	atrial fibrillation	BI2024
+comunicación interauricular	atrial septal defect	BI2024
+auriculoventricular [A-V]	atrio-ventricular [A-V]	BI2024
+reflexión total atenuada	attenuated total reflection	BI2024
+hiperuricemia	augmented blood uric acid levels	BI2024
+balanza de alimentación automática	automatic feeder balance	BI2024
+autofosforilación	autophosphorylation	BI2024
+procesador de muestras automático 	autosampler	BI2024
+umbral de validación automática	autothreshold validation	BI2024
+coadyuvante	auxiliary agent	BI2024
+promedio [prom.]	average	BI2024
+área promedio del pico	average peak area	cromatografía)	BI2024
+peso promedio	average weight	BI2024
+virus de la eritoblastosis aviar 	avian erythroblastosis virus 	BI2024
+azaperona	azaperone	BI2024
+destilación azeotrópica	azeotropic distillation	BI2024
+superficie de fondo	background lawn	BI2024
+medicación de base	background medication	BI2024
+espectros de fondo	background scan	BI2024
+espectros de fondo	background spectrum	BI2024
+contenido de agua subyacente	background water content	BI2024
+bacterias	bacterial pathogens	BI2024
+receptor de reconocimiento de patrones bacterianos 	bacterial pattern recognition receptor 	BI2024
+Ames Test)	bacterial reverse mutation assay	análisis de mutación inversa bacteriana (prueba de Ames)	BI2024
+filtro para la retención de las bacterias	bacteria-retaining filter	BI2024
+toxicidad bacteriana	bacteriotoxicity	BI2024
+sistema de expresión basado en los baculovirus	baculovirus expression vector system	de proteínas)	BI2024
+bar	bar	BI2024
+bares	bars 	referido a la unidad de medición)	BI2024
+sometido a alteración química por base	base stressed	BI2024
+muestra sometida a alteración química por base	base stressed sample	BI2024
+inicial	baseline	referido a un valor)	BI2024
+línea de base	baseline	referido a cromatografía)	BI2024
+índice de disnea inicial	baseline dyspnea index	BI2024
+mutaciones por sustitución de pares de bases 	base-pair substitutions	BI2024
+perro Beagle de BASF	BASF Beagle dog	BI2024
+grupo de picos de especies básicas 	basic peak group	BI2024
+dispositivo de sujeción de las cestas 	basket apparatus	BI2024
+método de cesta	basket method	BI2024
+partida	batch	a diferencia de lot, se refiere al producto que se produce en grandes cantidades de una sola vez)	BI2024
+número de partida	batch number	BI2024
+vaso de precipitados	beaker	BI2024
+divisor de haz	beamsplitter	BI2024
+divisor de haz	beam splitter	BI2024
+prueba rápida	bedside test	BI2024
+debajo del límite de cuantificación	below quantification limit	BI2024
+aguja curva	bent needle	BI2024
+cloruro de benzalconio	benzalkonium chloride	BI2024
+solución de cloruro de benzalconio	benzalkonium chloride solution	BI2024
+benzoxazinona	benzoxazinone	BI2024
+alcohol bencílico	benzyl alcohol	BI2024
+benzoato bencílico	benzyl benzoate	BI2024
+en el mejor de los casos	best-case scenario	BI2024
+en el mejor de los casos	best case scenario	BI2024
+beta caroteno	beta carotene	BI2024
+agonistas beta2 	beta2 agonists	BI2024
+Betatab	Betatab	referido a la marca registrada)	BI2024
+borde biselado	bevel-edged	BI2024
+borde biselado	bevel edged 	BI2024
+número de BI	BI number	BI2024
+logo de la torre de BI	BI tower logo 	BI2024
+Código de BI	BI-/Study No. 	BI2024
+Núm. de estudio	BI-/Study No. 	BI2024
+valoración biamperométrica de Karl Fischer	biamperometric Karl Fischer titration	BI2024
+bicapa	bilayered	BI2024
+bicapa	bi-layered	BI2024
+bacteria gramnegativa resistente a la bilis	bile-tolerant gram-negative bacteria	BI2024
+eliminación biliar	biliary excretion	BI2024
+mezclador del contenedor	bin blender	BI2024
+mezclador del contenedor	bin mixer	BI2024
+e.g.: binding of spesolimab to IL-36R) 	binding	unión (por ej.: la unión de espesolimab al IL-36R) 	BI2024
+referido a los comprimidos)	binding agent	BI2024
+aglutinante	binder	referido a los comprimidos)	BI2024
+biodisponibilidad	bioavailability	BI2024
+biocarga	bioburden	BI2024
+estudio de bioequivalencia	bioequivalence study	BI2024
+biomarcadores	biomarkers	BI2024
+Sistema de Clasificación Biofarmacéutica 	Biopharmaceutical Classification System 	BI2024
+cultivos en biorreactores	bioreactor cultures	BI2024
+medios biorrelevantes	biorelevant media	BI2024
+biotina	biotin	BI2024
+biotransformación	biotransformation	BI2024
+fecha de la primera autorización	birth date	de un medicamento)	BI2024
+dos veces al día [b.i.d.]	bis in die [b.i.d.]	BI2024
+preparación blanco	blank preparation	BI2024
+solución blanco	blank solution 	BI2024
+hemorragia	bleeding	BI2024
+hemorragia	bleeding episode	BI2024
+combinar	blend 	p. ej., diferentes partidas molidas)	BI2024
+mezclar	blend 	referido a un comprimido)	BI2024
+blíster	blister	BI2024
+blísteres	blisters	BI2024
+tira de blíster	blister card	BI2024
+tira de blíster	blister strip 	BI2024
+distensión abdominal 	bloating	BI2024
+bloquear la señalización del IL-36R	block IL36R signalling	BI2024
+capacidad bloqueadora	blocking ability	BI2024
+sistema amortiguador de la sangre	blood buffer system	BI2024
+glóbulos sanguíneos	blood cells	BI2024
+colesterolemia	blood cholesterol level	BI2024
+concentración en sangre	blood concentration	BI2024
+hemocultivo	blood culture	BI2024
+torrente sanguíneo	blood flow	BI2024
+torrente sanguíneo	bloodstream	BI2024
+torrente sanguíneo	blood stream	BI2024
+glucemia	blood glucose level	BI2024
+barrera placentaria	blood placenta barrier	BI2024
+tensión arterial	blood pressure	BI2024
+recuento de reticulocitos	blood reticulocyte count	BI2024
+uricemia	blood uric acid	BI2024
+barrera hematoencefálica	blood-brain barrier	BI2024
+linfocitos b	B-lymphocytes	BI2024
+cuerpo	body	referido al comprimido)	BI2024
+pletismografía corporal	body plethysmography	BI2024
+peso corporal	body weight [b.wt.]	BI2024
+Boehringer Ingelheim	Boehringer Ingelheim	BI2024
+frotis de médula ósea	bone marrow smear	BI2024
+configuración límite	borderline setting	BI2024
+escala de Borg	Borg scale	BI2024
+frasco	bottle	BI2024
+base	bottom	de la columna de tamices)	BI2024
+fase inferior	bottom phase	BI2024
+seroalbúmina bovina	bovine serum albumin	BI2024
+diseño de análisis de extremos	bracketing 	BI2024
+aminoácidos de cadena ramificada	branched-chain amino acids	BI2024
+Agencia Nacional de Vigilancia Sanitaria de Brasil	Brazilian Health Regulatory Agency	BI2024
+fraccionar	break	referido a un comprimido)	BI2024
+deformación	breaking strain	BI2024
+fuerza de rotura	breaking strength	BI2024
+punto crítico	breakpoint 	BI2024
+lactancia	breast-feeding 	BI2024
+dificultad respiratoria	breathing discomfort	BI2024
+resumen acotado	brief summary	BI2024
+clorhidrato de bromhexina	bromhexine hydrochloride 	BI2024
+bromhidrina	bromhydrine	BI2024
+bromuro	bromide	BI2024
+bromo	bromine	BI2024
+verde de bromocresol	bromocresol green	BI2024
+bromohidrina	bromohydrine	BI2024
+perfil de broncodilatación	bronchodilating profile	BI2024
+broncoprotección	bronchoprotection	BI2024
+efecto broncoprotector	bronchoprotective effect	BI2024
+castaño	brown	BI2024
+ocre	brown yellow 	BI2024
+ácido débil	buffer acid 	BI2024
+base débil	buffer alkali	BI2024
+capacidad amortiguadora	buffer capacity	BI2024
+disolución amortiguadora 	buffer solution 	BI2024
+estabilizador del pH	buffer substance	BI2024
+densidad aparente	bulk density	BI2024
+producto a granel	bulk product	BI2024
+propiedades intensivas	bulk properties	BI2024
+volumen del granel	bulk volume	BI2024
+mechero	burner 	BI2024
+ardor	burning	BI2024
+ardor	burning pain	BI2024
+butanol	butanol	BI2024
+butanona	butanone	BI2024
+butendioato	butendioate	BI2024
+metacrilato de butilo	butylmethylacrylate	BI2024
+productos secundarios	by-products 	BI2024
+cámara	cabinet	referido a una tamizadora sónica)	BI2024
+precinto	cable binder	BI2024
+carbonato de calcio	calcium carbonate	BI2024
+fosfato monoácido de calcio anhidro	calcium hydrogen phosphate, anhydrous	BI2024
+estearato de calcio	calcium stearate	BI2024
+calculado en base anhidra	calculated with reference to anhydrous substance	BI2024
+jeringa calibrada 	calibrated syringe 	BI2024
+curva de calibración	calibration curve	BI2024
+curva de calibración	calibration plot 	BI2024
+calibrador	calliper	BI2024
+buje de leva	cam bushing	BI2024
+tapa	cap	de una jeringa)	BI2024
+revestimiento interior	cap liner	referido a la tapa de un medicamento)	BI2024
+factor de capacidad	capacity factor	BI2024
+tubo capilar	capillary	BI2024
+electroforesis capilar en gel	capillary gel electrophoresis	BI2024
+electroforesis capilar en gel en condiciones reductoras	capillary gel electrophoresis reduced	BI2024
+enfoque isoeléctrico capilar	capillary isoelectric focusing	BI2024
+of the layer of a tablet) 	capping	desprendimiento	BI2024
+of the layer of a tablet) 	capping	decapado (referido a los comprimidos) 	BI2024
+casquete de la cápsula	capsule cap flesh	BI2024
+encapsuladora 	capsule filling machine	BI2024
+carbono 14	carbon-14	BI2024
+carbonildiimidazol	carbonyldiimidazole	BI2024
+carcinogénico	carcinogenetic	referido a un carcinógeno)	BI2024
+cancerígeno	carcinogenic	BI2024
+carcinogenia	carcinogenicity	BI2024
+acción cancerígena	carcinogenicity	BI2024
+cirrosis hepática de origen cardíaco 	cardiac cirrhosis	BI2024
+auscultación cardíaca	cardiac exam	BI2024
+auscultación cardíaca	cardiac examination	BI2024
+insuficiencia cardíaca 	cardiac failure	BI2024
+gasto cardíaco	cardiac output	BI2024
+cardiovascular	cardiovascular	BI2024
+cera de carnauba	carnauba wax	BI2024
+soporte	carrier 	en cromatografía - puede ser almidón, celulosa, etc.)	BI2024
+presión del gas portador	carrier gas pressure	cromatografía)	BI2024
+producto residual	carry over product	BI2024
+arrastre	carryover 	referido a las impurezas)	BI2024
+envase 	carton	BI2024
+encajadora	cartoning machine	BI2024
+encajadora	cartoner	BI2024
+cartucho	cartridge	BI2024
+Chemical Abstracts Service, CAS).	CAS number	BI2024
+Número según el CAS - Servicio de información de sustancias químicas	Chemical Abstracts Service number	Chemical Abstracts Service, CAS).	BI2024
+impactador de cascadas 	cascade impactor	BI2024
+parte inferior del compartimento	case bottom part	BI2024
+ficha del paciente	case card	BI2024
+historia clínica	case history	BI2024
+historia clínica	medical record	BI2024
+referido a estudios clínicos)	case report forms	BI2024
+formulario de notificación de casos	case record form	referido a estudios clínicos)	BI2024
+parte superior del compartimento	case upper part	BI2024
+catalizador 	catalyst	BI2024
+cromatografía de intercambio catiónico	cation exchange chromatography	BI2024
+célula número 1221	Cell #1221	BI2024
+densidad celular 	cell density	BI2024
+línea celular	cell line	BI2024
+ensayo celular	cell-based assay	BI2024
+celulosa	cellulose	BI2024
+cartón de celulosa	cellulose cardboard	BI2024
+Centro de Evaluación e Investigación de Medicamentos	Center for Drug Evaluation and Research	Center for Drug Evaluation and Research)	BI2024
+Sistema nervioso central	Central nervous system	BI2024
+accidente cerebrovascular	cerebrovascular accident	BI2024
+certificado de autorización	certificate of clearance 	BI2024
+Identificación de la carga	charge identification	BI2024
+Identificación de la carga	charge ID 	BI2024
+variante de carga	charge variant	BI2024
+variante de carga	charge isoform	BI2024
+detector de aerosol cargado	charged aerosol detector	en cromatografía)	BI2024
+cepa de ratón de Charles River Laboratories y Naval Medical Research Institute [Crl:NMRI]	Charles River Laboratories	BI2024
+cepa de ratón de Charles River Laboratories y Naval Medical Research Institute [Crl:NMRI]	Naval Medical Research Institute mouse strain [Crl:NMRI]	BI2024
+cepa de rata de Charles River Laboratories	Charles River Laboratories	BI2024
+Wistar Hannover [Crl:WI(Han)]	Wistar Hannover rat strain [Crl:WI(Han)]	BI2024
+control de los equipos para pesar 	check-weighing equipment  	BI2024
+Nombre según el CAS 	Chemical Abstract Name 	Servicio de información de sustancias químicas, Chemical Abstract Service)	BI2024
+Servicio de información de sustancias químicas	Chemical Abstracts Service	Chemical Abstracts Service, CAS).	BI2024
+degradación química	chemical degradation	BI2024
+nombre químico	chemical name 	BI2024
+reactividad química	chemical reactivity	BI2024
+sustancias químicas	chemicals	BI2024
+Chemikaliengesetz	Chemikaliengesetz	Ley sobre productos químicos) 	BI2024
+a prueba de niños	child-resistant	BI2024
+línea celular de ovario de hámster chino	Chinese hamster ovary cell line	BI2024
+centro quiral	chiral center 	BI2024
+cromatografía líquida de alta resolución quiral [C-HPLC]	chiral high performance liquid chromatography [C-HPLC]	BI2024
+cloruro	chloride	BI2024
+cloro	chlorine	BI2024
+clorometilo	chloromethyl	BI2024
+colina	choline	BI2024
+valoración cromatográfica 	chromatographic assay	BI2024
+pureza cromatográfica	chromatographic purity	BI2024
+determinación por cromatografía	chromatography determination	BI2024
+grado de cromatografía 	chromatography grade	BI2024
+pico cromatográfico	chromatography peak	BI2024
+configuración cromatográfica	chromatography setup	BI2024
+ensayo LAL cromogénico	chromogenic LAL assay	BI2024
+ensayo de lisado de amebocitos de Limulus cromogénico	chromogenic limulus amebocyte lysate assay	BI2024
+cromóforo	chromophore	BI2024
+ruptura de cromosomas	chromosome breakage	BI2024
+enfermedad pulmonar obstructiva crónica	chronic obstructive pulmonary disease	BI2024
+ciclesonida 	ciclesonide	BI2024
+ciclesonida isobutirato 	ciclesonide isobutyrate	BI2024
+aproximadamente [aprox.]	circa 	BI2024
+metabolito circulante	circulating metabolite	BI2024
+período de uso declarado	claimed use period	BI2024
+sujetar con la traba	clamp	referido a la columna de tamices)	BI2024
+claritromicina	clarithromycin	BI2024
+claridad, claro	clarity	BI2024
+limpidez, límpido	clear	BI2024
+lucidez mental	clarity of thought	BI2024
+campana de flujo laminar clase 100	class 100 laminar flow hood	BI2024
+clastógeno	clastogen	BI2024
+vapor limpio	clean steam	BI2024
+higiene	cleanliness	BI2024
+limpieza 	clean-up	BI2024
+limpieza 	cleaning	BI2024
+desobstrucción de las vías respiratorias	clearing of airways	BI2024
+escisión	cleavage	BI2024
+zona climática	climatic zone	BI2024
+eficacia clínica	clinical efficacy	BI2024
+resumen clínico	clinical overview	BI2024
+generalidades clínicas	clinical overview statements	BI2024
+planta piloto para investigación clínica	clinical pilot facility   	BI2024
+signo clínico	clinical sign	BI2024
+estudio clínico	clinical study	BI2024
+estudio clínico de fase I	clinical study phase I	BI2024
+estudio clínico de fase II	clinical study phase II	BI2024
+estudio clínico de fase III	clinical study phase III 	BI2024
+ensayo clínico 	clinical trial 	BI2024
+Informe del ensayo clínico	clinical trial report	BI2024
+infección activa clínicamente importante 	clinically important active infection 	BI2024
+sitio de corte	clipping site	BI2024
+cerrar herméticamente	close tightly	BI2024
+lisis de un coágulo	clot lysis	BI2024
+prueba de coagulación	coagulation assay	BI2024
+material de grano grueso	coarse material	BI2024
+cloruro de cobalto 	cobalt chloride	BI2024
+coelución	co-elution	referido a cromatografía)	BI2024
+ligandos relacionados	cognate ligands	BI2024
+estudio de cohortes	cohort study 	BI2024
+placa colectora	collection plate	BI2024
+molino coloidal	colloidal mill	BI2024
+dióxido de silicio coloidal	colloidal silicon dioxide	BI2024
+línea celular de adenocarcinoma de colon 	colonic adenocarcinoma cell line 	BI2024
+unidades formadoras de colonias 	colony forming units 	BI2024
+comparación colorimétrica	colourimetric comparison	BI2024
+colorante	colouring agent	BI2024
+cristal incoloro con forma de placas 	colourless platelike crystal 	BI2024
+cabeza de la columna	column head	BI2024
+horno de la columna	column oven	BI2024
+relleno de la columna	column packing	BI2024
+lote de relleno de la columna	column packing lot	BI2024
+válvula de intercambio de la columna	column switching device	BI2024
+escalada de temperatura de la columna	column temperature ramp  	BI2024
+conjunto de datos combinados	combined dataset	BI2024
+Comité de Medicamentos para Consumo Humano y Subcomisión de calidad	Committee for Medicinal Products for Human Use and Quality Working Party 	BI2024
+Comité de Medicamentos de Origen Vegetal 	Committee on Herbal Medicinal Products	BI2024
+medio de HAM F12/DMEM estándar	common HAM`s F12/DMEM medium	BI2024
+Información fundamental del producto, de uso interno 	Company Core Data Sheet	BI2024
+estándar interno de referencia 	company reference standard	BI2024
+incluido/a en la Farmacopea	compendial	BI2024
+referencia farmacopeica	compendial reference	BI2024
+terminar 	complete	BI2024
+hemograma completo	complete blood count	BI2024
+hemograma completo	full blood count	BI2024
+necropsia completa	complete necropsy	BI2024
+prueba de integridad	completeness check	BI2024
+valoración complejométrica	complexometric titration	BI2024
+un criterio o una especificación)	comply with	BI2024
+cumplir con	conform to 	un criterio o una especificación)	BI2024
+conjunto de episodios cardiovasculares agudos	composite of cardiovascular events	BI2024
+criterio de valoración compuesto	composite outcome	BI2024
+estructura de covarianza de simetría compuesta	compound symmetry covariance structure	BI2024
+mezcla comprimida	compressed blend	BI2024
+compresión	compression	BI2024
+estudio de compresión	compression trial	BI2024
+concentrado para solución para infusión	concentrate for solution for infusion 	BI2024
+cociente de concentración de radioactividad relacionada con el fármaco entre los glóbulos sanguíneos y el plasma [CC/CP]	concentration ratio of drug-related radioactivity between blood cells and plasma [CC/CP]	BI2024
+e.g.: these vaccines should not be given concurrently with …).	concurrently	simultáneamente (por ejemplo: estas vacunas no deben administrarse simultáneamente con…).	BI2024
+patología	condition	sentido restringido)	BI2024
+condición	condition	sentido amplio)	BI2024
+confianza	confidence	referido a estadística y a medición y calibración de equipos)	BI2024
+intervalo de confianza	confidence interval	BI2024
+límite superior del intervalo de confianza	confidence interval upper bound 	BI2024
+un criterio o una especificación)	conform to	BI2024
+cumplir con	comply with	un criterio o una especificación)	BI2024
+variables de distorsión	confounding factors	BI2024
+insuficiencia cardíaca congestiva	congestive heart failure	BI2024
+metabolitos conjugados	conjugated metabolites	BI2024
+coherente	consistent	BI2024
+coherencia	consistent	referido a la lógica)	BI2024
+consistente	consistent	BI2024
+consistencia	consistency	referido a una sustancia)	BI2024
+Cuidado de la Salud del Consumidor	Consumer Health Care	BI2024
+consumo	consumption	BI2024
+dejar en contacto	contact	una mezcla)	BI2024
+envase y sistema de cierre	container closure	BI2024
+envase y sistema de cierre	system	BI2024
+prueba de integridad del cierre del envase	container closure integrity test	BI2024
+uniformidad del contenido	content uniformity	BI2024
+infusión intravenosa continua	continuous intravenous infusion	BI2024
+sistema de cierre plástico de rosca continua articulado	continuous thread, multi-part plastic screw closure	BI2024
+tapa de cierre de rosca continua	continuous threaded closure	BI2024
+contraindicaciones	contraindications	BI2024
+placa de enfriamiento	cooling plate	BI2024
+rampa de enfriamiento	cooling ramp	BI2024
+agua de refrigeración	cooling water	BI2024
+copolímero	copolymer	BI2024
+copolividona	copolyvidone, copovidone	BI2024
+sulfato de cobre anhidro	copper sulphate anhydrous	BI2024
+precipitar de manera conjunta	co-precipitate	BI2024
+precipitar de manera conjunta	coprecipitate	BI2024
+de un comprimido)	core	BI2024
+núcleo	tablet core	de un comprimido)	BI2024
+diámetro del núcleo	core diameter	de un comprimido)	BI2024
+almidón de maíz	corn starch	BI2024
+enfermedad coronaria	coronary artery disease	BI2024
+cardiopatía coronaria	coronary heart disease	BI2024
+medidas correctivas y preventivas	corrective actions and preventive actions	BI2024
+análisis de correlación	correlation analysis	BI2024
+corticoesteroide 	corticosteroid	BI2024
+papel satinado	couche paper	BI2024
+culombio	coulomb	BI2024
+culombímetro	coulombmeter	BI2024
+culombimetría	coulombmetry	BI2024
+unidades [unid.]	count 	BI2024
+constante de acoplamiento	coupling constant	BI2024
+unión covalente	covalent binding	BI2024
+estructura de covarianza	covariance structure	BI2024
+portada	cover page	BI2024
+lámina de recubrimiento	covering foil	BI2024
+dolor de tipo cólico	cramping pain	BI2024
+dolor de tipo cólico	cramp-like pain	BI2024
+proteína C reactiva	C-reactive protein	BI2024
+creatina-cinasa	creatine kinase	BI2024
+depuración de la creatinina	creatinine clearance 	BI2024
+tapa metálica	crimp cap 	de un vial)	BI2024
+crimpadora	crimper	BI2024
+crimpadora	crimping machine	BI2024
+medicina intensiva	critical care medicine	BI2024
+en estado crítico	critical condition	BI2024
+atributos críticos de calidad	critical quality attributes	BI2024
+cromolín	cromolyn	BI2024
+crospovidona	crospovidone	BI2024
+estudio clínico de grupos cruzados	cross-over clinical study	BI2024
+estudio clínico de grupos cruzados	crossover clinical study	BI2024
+frecuencias de las señales	crosspeaks	en espectroscopía)	BI2024
+sin procesar	crude	por ejemplo, referido a datos)	BI2024
+resistencia al aplastamiento 	crushing strength	BI2024
+morfología cristalina	crystal morphology	BI2024
+estructura cristalina	crystal structure	BI2024
+agua de cristalización	crystal water	BI2024
+cristalinidad	crystallinity	BI2024
+resultados cristalográficos	crystallographic results 	BI2024
+centrímetro cúbico 	cubic centimeter 	BI2024
+centrímetro cúbico 	cubic centimetre	BI2024
+lista completa	cumulative list	BI2024
+tartrato cúprico	cupric tartrate	BI2024
+versión actual	current version	BI2024
+ajuste de curvas	curve fittings	BI2024
+fecha límite	cut off date	BI2024
+fecha límite	cut-off date	BI2024
+cianocobalamina	cyanocobalamin	BI2024
+sin ciclamato	cyclamate free	BI2024
+cicloergometría	cycle ergometry	BI2024
+ciclohexano	cyclohexane	BI2024
+ciclofosfamida	cyclophosphamide	BI2024
+ciclosporina	cyclosporine	BI2024
+mono cynomolgus	Cynomolgus monkey	BI2024
+cisteína 	cysteine 	BI2024
+Citocromo P450 	Cytochrome P-450 [CYP-450]	BI2024
+conjunto de datos	data pooling	BI2024
+Comité de vigilancia de datos y seguridad 	Data Safety Monitoring Board 	BI2024
+finalización de la carga en la base de datos 	database lock	BI2024
+fecha de inicio del estudio de estabilidad	date placed on stability	BI2024
+en espectrometría de masas)	daughter ion	BI2024
+ion producto	product ion	en espectrometría de masas)	BI2024
+bajorrelieve de los comprimidos	debossing of the tablets	BI2024
+árbol de toma de decisiones 	decision tree 	BI2024
+disminución	decrease	BI2024
+disminución del deterioro renal	decreased renal impairment	BI2024
+trombosis venosa profunda	deep vein thrombosis	BI2024
+notificación de objeciones	deficiency letter	BI2024
+desgasificar	degas	BI2024
+patrón de degradación	degradation pattern	BI2024
+productos de degradación	degradation products	BI2024
+to be)	degrade into small peptides and amino acids	degradar(se) en pequeños péptidos y aminoácidos	BI2024
+grados de libertad	degrees of freedom	referido a estadística)	BI2024
+desionizada	deionized	BI2024
+dosis administrada	delivered dose	BI2024
+desmineralizar	demineralize	BI2024
+desnaturalización	denaturation	BI2024
+ácido desoxirribonucleico	deoxyribonucleic acid	BI2024
+unión de ácido desoxirribonucleico a microesferas magnéticas	deoxyribonucleic acid binding to magnetic beads 	BI2024
+Departamento de Ciencias Analíticas	Department of Analytical Sciences	Department of Analytical Sciences) 	BI2024
+Departamento de Farmacocinética y Metabolismo de Medicamentos	Department of Drug Metabolism and Pharmacokinetics	Department of Drug Metabolism and Pharmacokinetics)	BI2024
+Departamento de Servicios de Datos Médicos	Department of Medical Data Services	Department of Medical Data Services) 	BI2024
+Departamento de Seguridad Farmacológica Preclínica	Department of Non-Clinical Drug Safety	Department of Non-Clinical Drug Safety)	BI2024
+defosforilación	dephosphorylation	BI2024
+agotamiento	depletion	BI2024
+disminución	depletion	BI2024
+secante de 30 unidades	desiccant 30 counts	BI2024
+sobre del secante	desiccant packet	BI2024
+desecador	desiccator	BI2024
+diseño del experimento 	design of experiment 	BI2024
+Solicitud de designación	Designation Request	BI2024
+límite de detección	detection limit	BI2024
+resolución de detección	detection resolution	BI2024
+evaluar, medir	determine	BI2024
+caracterizar	determine	BI2024
+Farmacopea alemana	Deutsches Arzneibuch	Deutsches Arzneibuch),	BI2024
+desarrollo	development	BI2024
+partidas del desarrollo	development batches         	BI2024
+genética del desarrollo	Development Genetics	BI2024
+dispositivo	device	BI2024
+retinopatía diabética	diabetic retinitis	BI2024
+mutágeno de diagnóstico	diagnostic mutagen	BI2024
+diamina	diamine 	BI2024
+tensión arterial diastólica	diastolic arterial pressure	BI2024
+ingesta alimentaria de referencia	dietary reference intake	BI2024
+medidor de diferencia de presión	differential pressure meter	BI2024
+mezcladora por difusión	diffusion mixer	BI2024
+digoxina	digoxin	BI2024
+dihidrato	dihydrate	BI2024
+diluyente	diluent	BI2024
+dimetilamina	dimethyl amine	BI2024
+detector de matriz de diodos	diode array detector	BI2024
+detector de matriz de diodos	diode-array detector	BI2024
+descargar al aire	discharge to waste	BI2024
+decoloración	discolouration	BI2024
+interrupción	discontinuation	BI2024
+interrumpir	discontinue	referido a un tratamiento)	BI2024
+consideraciones finales	discussion	si no es un subtítulo de un artículo científico)	BI2024
+discusión	discussion	si es un subtítulo de un artículo centífico)	BI2024
+consideraciones finales y conclusión	discussion and conclusion	BI2024
+disgregación	disintegration	BI2024
+desintegración	disintegration	BI2024
+desintegración	disintegration	BI2024
+puede ser según el contexto: disgregación	disintegration	BI2024
+edetato disódico	disodium edetate	BI2024
+dispersabilidad	dispersibility	BI2024
+dispersable	dispersible	BI2024
+dispositivo de dispersión 	dispersing device 	BI2024
+vesícula biliar desplazada	displaced gall bladder	BI2024
+predisposición	disposition	a padecer una enfermedad)	BI2024
+disposición	disposition	distribución, metabolismo y eliminación) (en farmacocinética)	BI2024
+índice de disposición	disposition index	distribución, metabolismo y eliminación) (en farmacocinética)	BI2024
+constante de disociación 	dissociation constant 	BI2024
+equipo de disolución	dissolution apparatus	BI2024
+cinética de disolución	dissolution kinetics	BI2024
+velocidad de disolución	dissolution rate	BI2024
+agua destilada	distilled water	BI2024
+distribución en sangre	distribution in blood	BI2024
+dosis	dosage	BI2024
+posología	dosage	BI2024
+dosificación 	dosage	BI2024
+posología y administración	dosage and administration	BI2024
+forma farmacéutica	dosage form	BI2024
+presentación	dosage form	BI2024
+intervalo de administración	dosage interval	BI2024
+intervalo de administración	dosing interval 	BI2024
+concentración	dosage strength	BI2024
+dosis	dose	BI2024
+toma	dose	BI2024
+aumento de la dosis	dose escalation	BI2024
+posología	dose regimen	BI2024
+ajuste de la dosis	dose titration	BI2024
+absorción rápida	dose-dumping	referido a un medicamento de liberación prolongada)	BI2024
+dosier	dossier	BI2024
+estudio clínico doble ciego	double blind clinical study	BI2024
+estudio clínico con doble simulación	double dummy	BI2024
+estudio clínico con doble simulación	double-dummy clinical study	BI2024
+envase de plástico de pared doble	double walled plastic container	BI2024
+ajuste descendiente de la dosis	down titration	BI2024
+descenso	downregulate	BI2024
+posterior	downstream	BI2024
+en fases posteriores	downstream	referido a la activación de las vías proinflamatorias y profibróticas)	BI2024
+activación en las fases posteriores	downstream activation	BI2024
+equivalentes de vía descendente	downstream equivalents	BI2024
+transformación de vía descendente 	downstream fate 	BI2024
+versión preliminar	draft	BI2024
+reactivo de Dragendorff	Dragendorff reagent	BI2024
+Dräger	Dräger	volúmetro)	BI2024
+desecada/o	dried 	referido a sustancias orgánicas)	BI2024
+deshidratada/o	dried 	referido a químicos)	BI2024
+deriva	drift	BI2024
+velocidad de goteo	dripping speed	BI2024
+gota	droplet	BI2024
+gotero	dropper	BI2024
+embudo de goteo	dropping funnel	BI2024
+análisis de electroquimioluminescencia de extrapolación del medicamento	drug bridging electrochemiluminescence assay 	BI2024
+fármaco potencial	drug candidate	BI2024
+farmacodependencia	drug dependence	BI2024
+Equipo Complementario de Descubrimiento de Medicamentos 	Drug Discovery Support	BI2024
+bomba de eflujo de medicamentos	drug efflux pump	BI2024
+concentración	drug load	BI2024
+Archivo general del medicamento	Drug Master File	BI2024
+pacientes sin tratamiento farmacológico previo	drug naive patients	BI2024
+pacientes sin tratamiento farmacológico previo	drug näive patients	BI2024
+medicamento 	drug product	BI2024
+medicamento 	drug	BI2024
+exantema medicamentoso	drug rash	BI2024
+síndrome de reacción al fármaco con eosinofilia y síntomas sistémicos 	drug reaction with eosinophilia and systemic symptoms syndrome	BI2024
+soluciones medicamentosas	drug solutions	BI2024
+principio activo	drug substance 	BI2024
+farmacovigilancia	drug surveillance	BI2024
+farmacovigilancia	pharmacovigilance	BI2024
+interacción medicamentosa 	drug-drug interaction	BI2024
+asociada/o a la ingesta del medicamento	drug-induced 	BI2024
+provocado/a por el medicamento 	drug-induced 	BI2024
+relación fármaco/excipiente	drug-to-excipient ratio	BI2024
+granulación en seco	dry granulation	BI2024
+inhalador de polvo seco	dry powder inhalator	BI2024
+gel de sílice seco	dry silica gel	BI2024
+secador 	dryer 	BI2024
+amarillo opaco 	dull-yellow 	BI2024
+espectro simulado	dummy scan	BI2024
+capuchón	dust cap 	de un inhalador)	BI2024
+permanencia	dwell	BI2024
+tiempo de permanencia	dwell time	BI2024
+volumen de permanencia	dwell volume	BI2024
+fuga mediante tinción	dye leakage	BI2024
+colorante	dyer	BI2024
+absorción dinámica de vapor	dynamic vapor absorption	BI2024
+índice de disnea	dyspnea index	BI2024
+índice de disnea	dyspnoea index	BI2024
+Impurezas individuales	Each individual impurity	BI2024
+ensayo clínico de fase I temprana	early phase I clinical trial 	BI2024
+ensayo clínico de fase II temprana	early phase II clinical trial	BI2024
+pasos iniciales	early steps	BI2024
+edetato	edetate	BI2024
+eficacia 	efficacy	BI2024
+criterio de valoración de la eficacia	efficacy endpoint	BI2024
+Ensayo Effisayil‑1	Effisayil-1 trial	BI2024
+transportador de eflujo glicoproteína P	efflux transporter P-glycoprotein	BI2024
+derrame	effusion	BI2024
+elastómero	elastomer	BI2024
+electrocardiograma	electrocardiogram	BI2024
+ionización por electrospray	electrospray ionization	BI2024
+análisis elemental	elemental analysis	BI2024
+paciente que cumple con los criterios de inclusión	eligible patient	BI2024
+eluido	eluate	BI2024
+eluyente	eluent	BI2024
+fase móvil	eluent	referido a cromatografía)	BI2024
+toxicidad embriofetal	embryo-fetal toxicity	BI2024
+toxicidad embriofetal	embryo-foetal toxicity	BI2024
+desarrollo embrionario	embryonic development	BI2024
+emulsionante 	emulsifier	BI2024
+pureza enantiomérica	enantiomeric purity	BI2024
+etapa de encapsulado	encapsulation step	BI2024
+IgG endógena	endogenous IgG	BI2024
+endotermia	endotherm	BI2024
+criterio de valoración	endpoint	referido a estudios clínicos)	BI2024
+punto final	endpoint	en química). También: conclusión (de un estudio clínico o de un período de observación)	BI2024
+valor extremo	end-point	en un rango de valores)	BI2024
+tiempo de resistencia	endurance time	BI2024
+consumo de energía	energy uptake 	en la molienda)	BI2024
+inclusión	enrolment	BI2024
+incorporación	enrolment	referido a los sujetos de un estudio clínico)	BI2024
+alimentación por sonda nasogástrica	enteral nutrition	BI2024
+alimentación por sonda nasogástrica	tube feeding	BI2024
+recirculación enterohepática	enterohepatic recycling	BI2024
+entalpía	enthalpy	BI2024
+catálisis enzimática	enzymatic catalysis	BI2024
+autoinducción enzimática	enzyme autoinduction	BI2024
+complejo enzima-inhibidor	enzyme-inhibitor complex	BI2024
+ensayo de inmunoadsorción enzimática	enzyme-linked immunosorbent assay	BI2024
+complejo enzima-sustrato	enzyme-substrate complex	BI2024
+receptor del factor de crecimiento epidérmico - inhibidor de la cinasa de tirosina [EGFR-TKI]	epidermal growth factor receptor - tyrosine kinase inhibitor [EGFR-TKI]	BI2024
+receptor del factor de crecimiento epidérmico	epidermal growth factor receptor	BI2024
+carcinoma epidermoide	epidermoid carcinoma	BI2024
+epididimo	epididymis	BI2024
+epímero	epimer	BI2024
+clorhidrato de epinastina	epinastine hydrochloride	BI2024
+atrofia epitelial	epithelial atrophy	BI2024
+tiempo de equilibrio	equilibration time	BI2024
+solubilidad de equilibrio	equilibrium solubility	BI2024
+matraz de Erlenmeyer	Erlenmeyer flask	BI2024
+erlotinib	erlotinib	BI2024
+resistente al erlotinib	erlotinib-resistant	BI2024
+eritropoyesis	erythropoiesis	BI2024
+Escherichia coli	Escherichia coli	BI2024
+esofágico	esophageal	BI2024
+requisitos esenciales del desempeño	essential performance requirements	BI2024
+creación del sistema de banco de células	establishment of Cell Bank System	BI2024
+éster	ester	BI2024
+sulfonato de etano	ethane sulfonate	BI2024
+acetato de etilo	ethyl acetate 	BI2024
+grupo éster etílico	ethyl ester group	BI2024
+ácido etilendiaminotetraacético	ethylenediamine tetraacetic acid	BI2024
+Agencia Europea de Evaluación de los Productos Farmacéuticos	European Agency for the Evaluation of Medicinal Products 	European Agency for the Evaluation of Medicinal Products)	BI2024
+Espacio Económico Europeo	European Economic Area	BI2024
+EUROPSO)	European Federation of Psoriasis Patient Associations	Federación Europea de Asociaciones de Pacientes Psoriásicos (European Federation of Psoriasis Patient Associations - EUROPSO ) 	BI2024
+Agencia Europea de Medicamentos	European Medicines Agency	European Medicines Agency)	BI2024
+Farmacopea europea [Ph. Eur.]	European Pharmacopeia [Ph. Eur.]	BI2024
+evaluabilidad	evaluability	BI2024
+excipientes	excipients	BI2024
+excreción	excretion 	sentido estricto)	BI2024
+eliminación	excretion 	sentido amplio)	BI2024
+vías de excreción	excretion pathways	BI2024
+resumen	executive summary	BI2024
+tiempo de resistencia al ejercicio	exercise endurance time	BI2024
+temperatura de aire de salida	exhaust air temperature	BI2024
+agotamiento	exhaustion	BI2024
+expandir las células 	expand the cells	BI2024
+resultado esperado	expected outcome	BI2024
+informe del experto	expert report	BI2024
+vencimiento	expiration	referido a la vida útil de un producto) / espiración	BI2024
+exhalación	expiration	referido a la respiración)	BI2024
+fallecimiento	expiration	BI2024
+volumen espiratorio de reserva	expiratory reserve volume	BI2024
+ampliación	exploded view	BI2024
+estudios exploratorios farmacocinéticos	exploratory pharmacokinetics 	BI2024
+datos de estabilidad exploratorios	exploratory stability data	BI2024
+exposición	exposure	BI2024
+plásmido de expresión 	expression plasmid	BI2024
+vector de expresión	expression vector	BI2024
+liberación prolongada	extended release	BI2024
+matriz de liberación prolongada	extended-release controlling matrix	BI2024
+prolongación de la vida útil del producto 	extension of the shelf life of the drug product	BI2024
+distribución amplia	extensive distribution	BI2024
+grado de absorción	extent of absorption	BI2024
+método estándar externo	external standard method	BI2024
+disolvente de extracción	extraction solvent	BI2024
+hematopoyesis extramedular	extramedullary haemopoiesis	BI2024
+distribución extravascular 	extravascular distribution	BI2024
+extrusión	extrusion	BI2024
+instalaciones	facilities	BI2024
+mezclador vertical 	fall mixer	BI2024
+ácidos grasos	fatty acids	BI2024
+aceites grasos	fatty oils	BI2024
+Ley Federal de Alimentos, Medicamentos y Cosméticos	Federal Food, Drug, and Cosmetic Act	de los EE.UU.)	BI2024
+Instituto Federal de Medicamentos y Dispositivos Médicos 	Federal Institute for Drugs and Medical Devices 	de Alemania)	BI2024
+toma 	feed	BI2024
+hembra	female 	BI2024
+serie de fermentación	fermentation runs	BI2024
+casquete	ferrule	de un envase)	BI2024
+contenedor de fibra para transporte de muestras	fiber shipping container	BI2024
+contenedor de fibra para transporte de muestras	fibre shipping container	BI2024
+tambor de fibra	fibre board drum	BI2024
+tambor de fibra	fibre drum	BI2024
+tambor de fibra	fiber drum	BI2024
+receptor del factor de crecimiento fibroblástico	fibroblast growth factor receptor	BI2024
+generación filial 	filial generation	BI2024
+llenar	fill	BI2024
+completar	fill up 	BI2024
+volumen de llenado	fill volume	BI2024
+relleno 	filler	BI2024
+cabezal de llenado	fill-head	BI2024
+material de relleno	filling mass	BI2024
+material de relleno	fill mass	BI2024
+masa de relleno del tanque de reserva	filling mass of the reservoir	BI2024
+espesor de la película	film thickness 	referido a cromatografía)	BI2024
+comprimido recubierto 	film-coated tablet	BI2024
+comprimido recubierto 	coated tablet	BI2024
+filtro	filter 	BI2024
+portafiltros	filter holder	BI2024
+filtro de la membrana	filter membrane	BI2024
+papel de filtro	filter paper	BI2024
+bandeja de filtrado	filter plate	BI2024
+coadyuvante de filtrado	filter-aide	BI2024
+coadyuvante de filtrado	filter aide	BI2024
+filtración	filtration	BI2024
+filtrado	filtrate	BI2024
+versión final del diseño	final art	referido a un envase)	BI2024
+etapa final	final stage 	BI2024
+hallazgo	finding	BI2024
+material de grano fino	fine material	BI2024
+dosis de partículas finas	fine particle dose	BI2024
+partículas finas	fines	BI2024
+de una jeringa)	finger grip	BI2024
+lengüeta de apoyo	finger flange	de una jeringa)	BI2024
+producto terminado	finished product	BI2024
+fabricante del producto terminado	finished product manufacturer	BI2024
+primera generación 	first generation	BI2024
+metabolismo en el primer paso	first pass metabolism	BI2024
+metabolismo en el primer paso	first-pass metabolism	BI2024
+fijador	fixative	BI2024
+combinación a dosis fija	fixed-dose combination 	BI2024
+brote agudo	flare	BI2024
+brote agudo de PPG de intensidad entre moderada y grave	flare of GPP of moderate-to-severe intensity	BI2024
+brote agudo de PPG de intensidad entre moderada y grave	flare of GPP of moderate to severe intensity	BI2024
+punto de inflamación	flash point	BI2024
+monoxigenasas que contienen flavinas	flavin-containing monooxygenases	BI2024
+flavonoide 	flavonoid	BI2024
+saborizante	flavouring agent	BI2024
+saborizante	flavoring agent	BI2024
+beige claro 	flesh	BI2024
+beige claro 	flesh-coloured	BI2024
+dolor fluctuante	flickering pain	BI2024
+medidor de flujo de tipo flotante	float-type flow meter	BI2024
+regulador de flujo	flow control unit	BI2024
+flujograma	flow diagram	BI2024
+flujograma	flow chart	BI2024
+velocidad de flujo	flow rate	BI2024
+propiedad de fluidez	flowing property	BI2024
+lecho fluido	fluid bed 	BI2024
+prueba de sobrecarga líquida	fluid challenge test	BI2024
+fluoruro	fluoride	BI2024
+costilla lumbar	flying rib	BI2024
+discromía focal	focal discolouration	BI2024
+distancia focal	focal length	BI2024
+puntuación focal	focal score	BI2024
+caja plegable	folding box	BI2024
+caja plegable	carton	BI2024
+ácido fólico	folic acid	BI2024
+foliculitis	folliculitis	BI2024
+aditivo alimentario	food additive	BI2024
+Administración de Alimentos y Medicamentos	Food and Drug Administration	Food and Drug Administration) 	BI2024
+producto alimenticio	foodstuff	BI2024
+para analizar	for analysis	BI2024
+estudio de degradación forzada	forced degradation study	BI2024
+FEV)	forced expiratory volume	volumen espiratorio máximo (VEF)	BI2024
+cuerpos extraños	foreign bodies	BI2024
+impurezas	foreign matter 	BI2024
+factor de forma	form factor	BI2024
+lámina cavitada	forming foil	BI2024
+formoterol	formoterol	BI2024
+fumarato de formoterol	formoterol fumarate	BI2024
+fórmula	formulation	BI2024
+composición	formulation	del medicamento)	BI2024
+prueba de flujo directo	forward flow test	BI2024
+cuatro veces al día	four times a day [q.i.d.] / 	BI2024
+espectroscopía infrarroja por transformada de Fourier	Fourier transformed infrared spectroscopy [FT-IR]	BI2024
+estudio cruzado de cuatro vías	four-way cross-over study	BI2024
+estudio cruzado de cuatro vías	four-way crossover study	BI2024
+fracción absorbida 	fraction absorbed 	BI2024
+fracción biodisponible	fraction bioavailable	BI2024
+cambio del marco de lectura	frameshift change	BI2024
+mutágeno que desplaza el marco de lectura del código genético	frameshift mutagen	BI2024
+base libre	free base	BI2024
+ácido graso libre	free fatty acid	BI2024
+fácilmente soluble	freely soluble	BI2024
+congelar y descongelar	freeze and thaw	BI2024
+distribución de frecuencias 	frequency distribution	BI2024
+soluciones recién preparadas	freshly prepared solutions	BI2024
+friabilidad	friability	BI2024
+gases combustibles	fuel gases	BI2024
+grupo completo de análisis	full analysis set	BI2024
+método de evaporación total	full evaporation technique	BI2024
+escala de producción completa	full production scale	BI2024
+escala completa 	full scale  	BI2024
+campana extractora de vapores	fume hood	BI2024
+Evaluación Funcional del Tratamiento de Enfermedades Crónicas - Fatiga	Functional Assessment of Chronic Illness Therapy - Fatigue [FACIT-F] 	BI2024
+capacidad residual funcional	functional residual capacity	BI2024
+furafilina	furafylline	BI2024
+gamma glutamil transferasa	gamma glutamyl transferase	BI2024
+gammagrafía	gamma scintigraphy	BI2024
+gamma globulina	gamma-globulin	BI2024
+cromatógrafo de gases	gas chromatograph	BI2024
+cromatografía de gases	gas chromatography 	BI2024
+tránsito gastrointestinal	gastrointestinal transit	BI2024
+calibrador de perno	gauge pin	BI2024
+alimentación por sonda nasogástrica	gavage	BI2024
+constructo génico	gene construct	BI2024
+notas generales	general notes	BI2024
+psoriasis pustulosa generalizada	generalized pustular psoriasis	BI2024
+Evaluación global del médico de la psoriasis pustulosa generalizada	Generalized Pustular Psoriasis Physician Global Assessment	BI2024
+Generalmente reconocidos como seguros	Generally recognised as safe	BI2024
+efecto genotóxico	genotoxic effect	BI2024
+media geométrica	geometric mean	en estadística)	BI2024
+día de gestación	gestation day	BI2024
+glándula	gland 	BI2024
+electrodo de vidrio	glass electrode	BI2024
+pipeta de vidrio 	glass pipette	BI2024
+varilla de vidrio	glass rod	BI2024
+ampolla de vidrio	glass vial	BI2024
+frasco de vidrio	glass vial	BI2024
+con tapón de vidrio	glass-stoppered	BI2024
+utensilios de vidrio	glassware	BI2024
+deslizante	glidant	referido a los comprimidos)	BI2024
+Base de Datos de Seguridad Farmacológica Global 	Global Drug Safety Database	BI2024
+Iniciativa global de la enfermedad pulmonar obstructiva crónica	Global initiative for chronic Obstructive Lung Disease 	BI2024
+glucocorticoide	glucocorticoid	BI2024
+glucosinasa	glucokinase	BI2024
+péptido insulinotrópico dependiente de la glucosa	glucose dependent insulinotropic peptide	BI2024
+glutamato deshidrogenasa	glutamate dehydrogenase	BI2024
+glutamina	glutamine	BI2024
+control glucémico	glycaemic control	BI2024
+glicerina	glycerol	BI2024
+glicerofosfato	glycerophosphate	BI2024
+glicina	glycin 	BI2024
+glicosilación	glycosylation	BI2024
+Buenas Prácticas Clínicas	Good Clinical Practices	BI2024
+Buenas Prácticas de Laboratorio	Good Laboratory Practices	BI2024
+estudio que cumple con las Buenas Prácticas de Laboratorio	Good Laboratory Practices study	BI2024
+Buenas Prácticas de Fabricación	Good Manufacturing Practices	BI2024
+grados de libertad	grades of freedom	BI2024
+calidades de reactivos	grades of reagents 	BI2024
+elución en gradiente	gradient elution	BI2024
+probeta graduada	graduated cylinder	BI2024
+en el contexto de cromatografías)	grand column	BI2024
+precolumna	grand-column	en el contexto de cromatografías)	BI2024
+precolumna	pre-column	en el contexto de cromatografías)	BI2024
+precolumna	precolumn	en el contexto de cromatografías)	BI2024
+punto de granulación	granulate point	BI2024
+granulación	granulation	BI2024
+tubo de grafito con plataforma	graphite tube with platform	BI2024
+rejilla	grid	de un filtro)	BI2024
+moler	grind	BI2024
+por molienda	by grinding	BI2024
+molido	ground	BI2024
+tapón de vidrio esmerilado	ground glass stopper	BI2024
+diafragma de junta esmerilada	ground-joint diaphragm	BI2024
+cobayo	Guinea pig	BI2024
+vida media	half life	BI2024
+concentración inhibitoria máxima al 50% 	half maximal inhibitory concentration 	BI2024
+analizador halógeno de la humedad	halogen moisture analyzer	BI2024
+válvula manual	hand valve	BI2024
+manivela	handwheel	BI2024
+cápsula dura	hard capsule 	BI2024
+dureza	hardness	BI2024
+durómetro	hardness tester	BI2024
+rinitis alérgica	hay fever	BI2024
+cociente de riesgos instantáneos	hazard ratio	en epidemiología)	BI2024
+jefe/a	head	BI2024
+director/a	head	BI2024
+head	head	consultar a la coordinadora)	BI2024
+procesador de muestras automático con espacio libre	headspace autosampler 	BI2024
+voluntarios sanos 	healthy volunteers	BI2024
+frecuencia cardíaca 	heart rate	BI2024
+acidez	heartburn	BI2024
+flujo térmico	heat flow	BI2024
+sellado por termoinducción	heat induction sealing	BI2024
+termosellar	heat seal	BI2024
+laca de termosellado	heat seal lacquer	BI2024
+recubrimiento termosellado	heatseal coating 	BI2024
+cadena pesada	heavy chain	BI2024
+pruebas para la determinación de metales pesados	heavy metals testing 	BI2024
+altura	height	referido a los envases)	BI2024
+helicobacter pylori	helicobacter pylori	BI2024
+investigación hematológica	hematological investigation	BI2024
+hemihidrato	hemihydrate	BI2024
+forma hemihidratada	hemihydrate form	BI2024
+hemodinámico/a	hemodynamic	BI2024
+factor de crecimiento de unión a la heparina	heparin-binding growth factor	BI2024
+deterioro hepático 	hepatic impairment	BI2024
+trastornos hepatobiliares	hepatobiliary disorders	BI2024
+hepatocito	hepatocyte	BI2024
+medicamento de origen vegetal	herbal medicine	BI2024
+preparado de origen vegetal	herbal preparation	BI2024
+sustancia de origen vegetal	herbal substance	BI2024
+hexametilentetramina	hexamethylenetetramine	BI2024
+alto peso molecular 	high molecular weight 	BI2024
+cromatografía líquida de alta resolución	high performance liquid chromatography	BI2024
+cromatografía de exclusión por tamaño de alta resolución	high performance size exclusion chromatography	BI2024
+mezclador de alta velocidad	high shear mixer	BI2024
+mezclador granulador de alta velocidad	high shear mixer granulator	BI2024
+frasco de polietileno de alta densidad	high-density polyethylene bottle	BI2024
+ frasco de HDPE	HDPE bottle	BI2024
+técnica de cribado de alto rendimiento 	high-throughput screening	BI2024
+conejo de Himalaya	Himalayan rabbit	BI2024
+diclorhidrato de histamina	histamine dihydrochloride	BI2024
+examen histopatológico	histopathological examination	BI2024
+histopatología	histopathology	BI2024
+tasa de coincidencia	hit rate 	referida al cribado de alto rendimiento) 	BI2024
+tiempo de espera	hold time	BI2024
+anticonceptivos hormonales 	hormonal contraceptives 	BI2024
+células hospedadoras	host cells	BI2024
+hora	hour 	BI2024
+sistema HP-1100	HP-1100 system	referido a cromatografía)	BI2024
+línea celular de carcinoma colónico humano	human colon carcinoma derived cell line	BI2024
+dosis equivalente a la humana	human equivalent dose 	BI2024
+virus de la inmunodeficiencia humana	human immunodeficiency virus	BI2024
+metabolito humano de fase II	human phase II metabolite	BI2024
+IgG1) antibody	humanised antagonistic monoclonal immunoglobulin G1	anticuerpo monoclonal humanizado de tipo inmunoglobulina G1 (IgG1) antagonista	BI2024
+anticuerpo monoclonal humanizado IgG1	humanized IgG1 monoclonal antibody	BI2024
+humidificador	humidifier	BI2024
+hidracina	hydrazine	BI2024
+sulfato de hidracina	hydrazine sulphate	BI2024
+ácido clorhídrico	hydrochloric acid	BI2024
+sal clorhidrato	hydrochloride salt	BI2024
+hidrofluoroalcano 	hydrofluoroalkane 	BI2024
+hidrogenar	hydrogenate	BI2024
+hidrólisis	hydrolysis	BI2024
+hidrolítico	hydrolytic	BI2024
+hidróxido	hydroxide	BI2024
+hidroxipropilmetilcelulosa	hydroxypropylmethylcellulose	BI2024
+hidroxitriptamina	hydroxytryptamine	BI2024
+hidroxicina	hydroxyzine	BI2024
+higroscópico	hygroscopic	BI2024
+hiperglucemia	hyperglycaemia	BI2024
+hiperlipidemia 	hyperlipidemias	BI2024
+hipersensibilidad	hypersensibility	BI2024
+hipertensión	hypertension 	BI2024
+hipromelosa	hypromellose	BI2024
+efecto histéresis	hysteresis effect	BI2024
+lineamiento de la ICH 	ICH guideline 	BI2024
+identificación	identity	BI2024
+iditol	Iditol	BI2024
+unión al IL-36R mediante el sistema Octet 	IL36R binding by Octet              	BI2024
+envase primario	immediate pack	BI2024
+material de acondicionamiento primario	immediate packaging material	BI2024
+liberación inmediata	immediate release	BI2024
+inmunocompetencia	immunocompetence	BI2024
+inmunoglobulina A 	immunoglobulin A 	BI2024
+Inmunoglobulina G 	immunoglobulin G 	BI2024
+parámetro inmunológico	immunologic parameter	BI2024
+efecto inmunomodulador	immunomodulating effect	BI2024
+investigación inmunotoxicológica	Immunotoxicological investigation	BI2024
+propulsor	impeller	BI2024
+opaco	impenetrable to light	BI2024
+zona de implantación	implantation site	BI2024
+e.g.: one face of the tablet is impressed with...)	impression	inscripción (por ejemplo: una cara del comprimido lleva la inscripción… )	BI2024
+inscripción	imprint	referido a un comprimido)	BI2024
+impureza 	impurity 	BI2024
+in extremis	in extremis	BI2024
+estabilidad durante el uso	In use stability	BI2024
+correlación in vitro	in vitro	BI2024
+in vivo 	in vivo correlation	BI2024
+velocidad de liberación in vitro 	in vitro release rate	BI2024
+estudio in vitro 	in vitro study	BI2024
+firma del/de la apoderado/a	in Vollmacht [i.v.]	BI2024
+excipiente	inactive ingredient	BI2024
+criterio de inclusión 	inclusion criteria	BI2024
+diseño en bloques incompletos	incomplete block design	BI2024
+reanálisis de muestras	Incurred sample reanalysis	BI2024
+índice de contracción ventricular	index for cardiac contractility	BI2024
+método indicador de oxidación de aminoácidos	Indicator Amino Acid Oxidation method	BI2024
+solución indicadora	indicator solution	BI2024
+controles de deriva individuales 	individual drift controls	BI2024
+valor individual	individual value	BI2024
+mutación provocada	induced mutation	BI2024
+espectrometría de emisión óptica con plasma de acoplamiento inductivo [ICP-OES]	inductive coupled plasma optical emission spectroscopy [ICP-OES]	BI2024
+infiltración inflamatoria	inflammatory infiltration	BI2024
+liberación de mediadores inflamatorios	inflammatory mediator release	BI2024
+enfermedad inflamatoria de la piel	inflammatory skin disease	BI2024
+consentimiento informado	informed consent	BI2024
+secado infrarrojo   	infrared drying	BI2024
+secado infrarrojo   	IR drying	BI2024
+espectómetro infrarrojo	infrared spectrometer	BI2024
+espectrofotometría infrarroja	infrared spectrophotometry	BI2024
+espectrofotometría infrarroja	IR spectrophotometry	BI2024
+espectroscopía infrarroja	infrared spectroscopy	BI2024
+espectroscopía infrarroja	IR spectroscopy	BI2024
+espectro infrarrojo	infrared spectrum	BI2024
+espectro infrarrojo	IR spectrum	BI2024
+infusión	infusion	BI2024
+componente	ingredient	de un comprimido)	BI2024
+fabricante de los componentes	Ingredient manufacturer	BI2024
+polvo inhalatorio	inhalation power	BI2024
+corticoesteroides inhalados	inhaled corticosteroids	BI2024
+inhalador	inhaler	BI2024
+cierre a presión del buje de leva del inhalador	inhaler cam bushing snap fit	BI2024
+potencial inhibitorio	inhibition potential	BI2024
+efecto inhibitorio 	inhibitory effect 	BI2024
+vías inhibitorias	inhibitory pathways	BI2024
+de uso interno	in-house	BI2024
+inicio del tratamiento	initiate treatment	BI2024
+iniciar el tratamiento 	initiating treatment	BI2024
+principio de inyección	injection principle	BI2024
+reacción en la zona de inyección	injection site reaction 	BI2024
+ampolla para inyección	injection vial	BI2024
+inyector	injector	BI2024
+lesión	injury	BI2024
+entrada	inlet	cromatografía)	BI2024
+filtro de membrana en la vía	in-line filter membrane	BI2024
+tapa interna	inner cap	BI2024
+productos inoculados	inoculated products	BI2024
+tren de inóculo 	inoculum train	BI2024
+efecto inotrópico	inotropic effect	BI2024
+controles intermedios del proceso	in-process controls	BI2024
+parámetros intermedios del proceso	in-process parameters	BI2024
+pruebas intraproceso	in-process tests	BI2024
+materia insoluble	insoluble matter	BI2024
+capacidad inspiratoria	inspiratory capacity	BI2024
+instilación	instillation	BI2024
+instrucciones para la manipulación y modo de empleo	instructions for handling and use	BI2024
+modo de empleo	instructions for use	BI2024
+control glucémico insuficiente	insufficient glycaemic control	BI2024
+picos integrables	integrable peaks	BI2024
+análisis integrado de eficacia	integrated analysis of efficacy	BI2024
+integrador	Integrator	BI2024
+unidades de integración	integrator units	BI2024
+integrina	integrin 	BI2024
+equipo para prueba de integridad	integrity tester	BI2024
+tegumento	integument	BI2024
+cobertura	integument	BI2024
+tegumentario	integumentary	BI2024
+fórmula comercial prevista	intended commercial formulation	BI2024
+fórmula final prevista	intended final formulation	BI2024
+partidas previstas de estabilidad primaria 	intended primary stability batches	BI2024
+análisis por intención de tratar	intention-to-treat analysis	BI2024
+análisis IDT	analysis	BI2024
+estudios para establecer interacciones	interaction studies	BI2024
+interacciones	interactions	BI2024
+Interacciones medicamentosas y de otro tipo	Interactions with other medicinal products and other forms of interaction	BI2024
+intercambiabilidad	interchangeabilty	BI2024
+pico de interferencia	interfering peak	BI2024
+isoterma intermedia	interim isotherm	BI2024
+interindividual	interindividual	BI2024
+variabilidad entre individuos	inter-individual variability	BI2024
+interleucina 6 [IL-6]	interleukin 6 [IL 6]	BI2024
+inhibidor de la interleucina 	interleukin inhibitor 	BI2024
+interleucina 36 [IL-36]	interlukin 36 	BI2024
+señalización del receptor de la interleucina 36 [IL-36R]	interlukin 36 receptor  signalling	BI2024
+compuesto intermedio	intermediate 	durante el proceso de fabricación)	BI2024
+precisión intermedia	intermediate precision	BI2024
+asma intermitente	intermittent asthma	BI2024
+código interno	internal code 	de un producto)	BI2024
+revestimiento interno	internal liner	de un obturador)	BI2024
+fecha de la primera autorización a nivel internacional	international birth date	de un medicamento)	BI2024
+Conferencia Internacional sobre Armonización de Requisitos Técnicos del Registro de Productos Farmacéuticos para Consumo Humano	International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use	International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use)	BI2024
+Consejo Internacional sobre Armonización de Requisitos Técnicos del Registro de Productos Farmacéuticos para Uso Humano	International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use	International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use)	BI2024
+Denominación común internacional	International Nonproprietary Name	BI2024
+procedimiento intervencionista	interventional procedure 	BI2024
+intrapartida	intrabatch	BI2024
+intraduodenal [i.d.]	intraduodenal [i.d.]	BI2024
+administración intraduodenal	intraduodenal administration	BI2024
+neoplasia intraepitelial 	intraepithelial neoplasia 	BI2024
+variabilidad en un mismo individuo	intra-individual variability	BI2024
+inyección por vía intramuscular 	intramuscular injection	BI2024
+variabilidad intraindividuo	intra-subject ratio	BI2024
+intravenoso [i.v.]	intravenous [i.v.]	BI2024
+vía intravenosa	intravenous line	BI2024
+vía de administración intravenosa 	intravenous route of administration	BI2024
+por vía intravenosa	intravenously	BI2024
+velocidad de disolución intrínseca	intrinsic dissolution rates	BI2024
+estudios durante el uso 	in-use studies	BI2024
+yoduro	iodide	BI2024
+yodimetría	iodimetry	BI2024
+yodo	iodine	BI2024
+yodometría	iodometric assay	BI2024
+yodometría	iodometry	BI2024
+cromatografía de intercambio iónico	ion exchange chromatography	BI2024
+par iónico	ion pair	BI2024
+reactivo de pares iónicos	ion pairing reagent	BI2024
+grupos ionizables	ionizable groups	BI2024
+ionómero	ionomer	BI2024
+cromatografía de pares de iones	ion-pair chromatography	BI2024
+cromatografía de pares de iones	ion pair chromatography	BI2024
+inhibidor irreversible	irreversible inhibitor	BI2024
+test de Irwin	Irwin study	BI2024
+test de Irwin	Irwin Test	BI2024
+test de Irwin	Irwin-test	BI2024
+cardiopatía isquémica	ischemic heart disease	BI2024
+isoforma	isoform	BI2024
+compuesto intermedio aislado	isolated intermediate	BI2024
+aislador	isolator 	BI2024
+acetato de isopropilo	isopropyl acetate	BI2024
+gráfico de isoterma	isotherm plot	BI2024
+transductor isotónico	isotonic transducer	BI2024
+picazón 	itching	BI2024
+molino de chorro	jet mill 	BI2024
+unión	joint	referido a rollo de aluminio)	BI2024
+justificación de los controles en los pasos críticos	justification of controls at critical steps	BI2024
+Batería de evaluación de Kaufman para niños	Kaufman Assessment Battery for Children	BI2024
+Test K-ABC 	K-ABC Test	BI2024
+inflamación mediada por queratinocitos	keratinocyte-mediated inflammation	BI2024
+ácidos cetónicos	ketone acids	BI2024
+criterio de valoración secundario clave	key secondary endpoint	BI2024
+criterio de valoración secundario clave	key secondary end-point	BI2024
+criterio de valoración secundario clave	key outcome measure	BI2024
+kilogramo 	kilogram 	BI2024
+kilopondio	kilopond	BI2024
+cinasa	kinase	BI2024
+gráfico de cinética	kinetic plot	BI2024
+ratones con knockout	knockout rats	deficiencia genética inducida)	BI2024
+dominio Kringle	Kringle domain	BI2024
+a escala de laboratorio	lab scale	BI2024
+etiqueta	label	BI2024
+información técnica	label	BI2024
+ficha técnica 	label insert 	BI2024
+contenido declarado 	labelled claim	BI2024
+contenido declarado 	label claim	BI2024
+sistema de datos de laboratorios 	laboratory data system	BI2024
+precio de venta del laboratorio	laboratory sale price	BI2024
+lactato deshidrogenasa	lactate dehydrogenase	BI2024
+latencia	lag	BI2024
+campana de flujo laminar	laminar flow cabin	BI2024
+estudio de referencia	landmark study	BI2024
+tamaño de partícula grande	large particle size	BI2024
+difracción de rayos láser	laser diffraction	BI2024
+difracción de rayos láser	laser-beam diffraction 	BI2024
+fluorescencia inducida por láser	laser-induced fluorescence	BI2024
+detección por fluorescencia inducida por láser 	laser-induced fluorescence detection	BI2024
+imputación de la última observación realizada	last observation carried forward	BI2024
+etapas posteriores de desarrollo	late development	BI2024
+estudio clínico de fase I tardía 	late phase I clinical study	BI2024
+estudio clínico de fase II tardía 	late phase II clinical study	BI2024
+“poly A”) sequence	late polyadenylation	secuencia de poliadenilación tardía (“poli A”) 	BI2024
+infección de tuberculosis latente 	latent tuberculosis infection	BI2024
+comprimidos multicapa 	layered tablets	BI2024
+proceso de recubrimiento en forma de capas 	layering process 	BI2024
+lixiviables	leachables	cromatografía)	BI2024
+solución estándar de plomo 	lead standard solution	BI2024
+solución madre de plomo	lead stock solution	BI2024
+ensayo de fugas	leak test	BI2024
+tasa de fuga 	leakage rate	BI2024
+tasa de fuga 	leaking rate	BI2024
+fracción de eyección ventricular izquierda	left ventricular ejection fraction	BI2024
+presión ventricular izquierda	left ventricular pressure	BI2024
+cinasa de tirosina específica del leucocito 	leukocyte-specific protein tyrosine kinase 	BI2024
+cucharada al ras	level scoop	BI2024
+hemorragia potencialmente mortal	life threatening bleeding 	BI2024
+ligando	ligand	BI2024
+cabina de luz	light cabinet	BI2024
+cadena liviana	light chain	BI2024
+oscurecimiento de luz	light obscuration	BI2024
+prueba de recuento de partículas por oscurecimiento	light obscuration particle count test	BI2024
+dispersión de luz	light scattering	BI2024
+(sometido a) condiciones extremas de luz	light stressed conditions	BI2024
+resistente a la luz	light-tight	BI2024
+solución para determinar el límite de cuantificación	limit of quantification solution	BI2024
+límite de cuantificación	limit of quantitation	BI2024
+análisis de límite	limit test	BI2024
+ajuste tipo lineal	linear type fit	BI2024
+linealidad	linearity	BI2024
+gráfico de linealidad	linearity plot	BI2024
+revestimiento	lining	BI2024
+función de enlace 	link function	BI2024
+ácido linoleico	linoleic acid	BI2024
+ácido linolénico	linolenic acid	BI2024
+medicamento lipófilo	lipophilic drug	BI2024
+lipofilia	lipophilicity	BI2024
+lipofobicidad	lipophobicity	BI2024
+lipooxigenasa	lipoxygenase	BI2024
+licuefacción	liquefaction	BI2024
+cromatografía líquida  	liquid chromatography	BI2024
+cromatografía líquida de alta resolución acoplada a espectrometría de masas en tándem [HPLC - MS/MS]	liquid chromatography coupled to tandem mass spectrometry [HPLC - MS/MS]	BI2024
+chorros de líquido	liquid jets	BI2024
+anillo líquido	liquid ring	BI2024
+centelleo líquido	liquid scintillation 	BI2024
+medios líquidos de condiciones extremas	liquid stress media	BI2024
+medios líquidos de condiciones extremas	liquid stress medium	BI2024
+Lista de tablas	List of tables	BI2024
+camada	litter	BI2024
+vacunas con organismos vivos 	live vaccines	BI2024
+dosis de carga	loading dose	BI2024
+actividad motriz	locomotor activity	BI2024
+reducción logarítmica	log reduction	BI2024
+escala logarítmica	log scale	BI2024
+ácidos grasos poliinsaturados de cadena larga 	long chain polyunsaturated fatty acids  	BI2024
+agonistas-beta de acción prolongada	long-acting beta-adrenergic agonist	BI2024
+tratamiento de mantenimiento a largo plazo	long-term maintenance treatment	BI2024
+estudios de estabilidad a largo plazo	long-term stability studies	BI2024
+agregado incohesivos	loose aggregate	BI2024
+pérdida por desecación	loss on drying	BI2024
+lote	lot	a diferencia de batch, suele referirse al producto individual, terminado, que es producto de la partida)	BI2024
+unión a las proteínas plasmáticas baja e independiente de la concentración 	low and concentration independent plasma protein binding	BI2024
+impureza de bajo nivel	low level impurity	BI2024
+especies de bajo peso molecular	low molecular weight species	BI2024
+de bajo contenido proteico	low protein	BI2024
+de baja unión a proteínas	low protein binding	BI2024
+filtro de baja unión a proteínas 	low protein binding filter 	BI2024
+hidroxipropilcelulosa de baja sustitución	low substituted hydroxypropylcellulose	BI2024
+límite normal inferior	lower limit of normal	BI2024
+límite inferior de cuantificación	lower limit of quantification	BI2024
+vías respiratorias superiores	lower respiratory tract	BI2024
+disolvente con un pH más bajo	lower solvent pH	BI2024
+azul de baja intensidad	low-intensity blue 	BI2024
+pastilla	lozenge	BI2024
+lubricante	lubricant	BI2024
+lumiflavina	lumiflavin	BI2024
+grumos	lumps	BI2024
+adenocarcinoma pulmonar	lung adenocarcinoma	BI2024
+función pulmonar	lung function	BI2024
+licopeno	lycopene	BI2024
+ganglios linfáticos	lymph nodes	BI2024
+macrogol	macrogol	BI2024
+macrófago	macrophage	BI2024
+óxido de magnesio extra ligero	magnesium oxide, extra light	BI2024
+estearato de magnesio	magnesium stearate	BI2024
+índice de disnea de Mahler	Mahler Dyspnoea Indices	BI2024
+pico principal	main peak 	BI2024
+Maguncia	Mainz	BI2024
+almidón de maíz	maize starch	BI2024
+complicación cardíaca grave	major adverse cardiac event, major adverse cardiological event	BI2024
+complicación hemorrágica grave	major bleeding event	BI2024
+pasos principales de operación de la unidad	major unit operation steps	BI2024
+llevar a enrase	make up to the mark	BI2024
+llevar a enrase	take up to the mark	BI2024
+llevar a enrase	fill to the mark	BI2024
+llevar a enrase	fill up to the mark	BI2024
+macho	male 	BI2024
+ácido maleico	maleic acid	BI2024
+maltitol	maltitol	BI2024
+maltodextrina	maltodextrin	BI2024
+ensayo de aberraciones cromosómicas de mamíferos	mammalian chromosome aberration test	BI2024
+manganeso	manganese	BI2024
+manitol líquido	manitol liquid	BI2024
+fabricabilidad	manufacturability	BI2024
+fabricación y comercialización 	manufacture and market	BI2024
+fabricación	manufacturing 	BI2024
+fecha de fabricación	manufacturing date	BI2024
+proceso de fabricación	manufacturing process 	BI2024
+valores atípicos marcados	marked outliers	BI2024
+solicitud de registro	marketing authorization application	BI2024
+titular de la autorización de la comercialización	marketing authorization holder	BI2024
+equilibrio de masas	mass balance	BI2024
+base de datos de espectros de masas	mass spectral database	BI2024
+espectrometría de masa 	mass spectrometry	BI2024
+espectrometría de masas	mass spectrometry	BI2024
+mastocito	mast cell	BI2024
+mastocitoma	mast cell tumor	BI2024
+mastocitoma	mast cell tumour	BI2024
+registro maestro de partidas	master batch record	BI2024
+banco de células maestro	master cell bank	BI2024
+valores emparejados	matched values	BI2024
+aparearse, apareamiento 	mate, mating 	BI2024
+planilla de datos	material data sheet	BI2024
+materiales de elaboración 	materials of construction 	BI2024
+apareamiento	mating	BI2024
+diseño de análisis de matriz	matrixing	BI2024
+velocidad máxima [Vmáx]	maximal velocity 	BI2024
+concentración máxima [Cmáx ]	maximum concentration  	BI2024
+concentración máxima en condiciones de equilibrio [C(máx,ss)]	maximum concentration at steady state conditions [C(max,ss)]	BI2024
+concentración plasmática, sanguínea y tisular máxima del analito [Cmáx]	maximum concentration of analyte in plasma/blood/tissue 	BI2024
+dosis máxima recomendada en humanos	maximum recommended human dose	BI2024
+dosis máxima tolerada 	maximum tolerated dose 	BI2024
+células que expresan el gen MDR1	MDR1-expressing cells	BI2024
+MAPE)	mean absolute percentage error	porcentaje de error medio absoluto (PEMA)	BI2024
+tiempo medio de residencia 	mean residence time 	BI2024
+MSE)	mean square error	error cuadrático medio (ECM)	BI2024
+MV) 	mean value	media aritmética	BI2024
+medición	measurement	BI2024
+vaso dosificador	measuring cap	BI2024
+vaso dosificador	measuring dish	BI2024
+inhibición basada en el mecanismo	mechanism-based inhibition	BI2024
+dispositivo médico	medical device	BI2024
+Diccionario Médico de Actividades Regulatorias	Medical Dictionary for Regulatory Activities 	Medical Dictionary for Regulatory Activities) 	BI2024
+criterios médicos de selección para el uso de anticonceptivos	medical eligibility criteria for contraceptive use	BI2024
+antecedentes	medical history	BI2024
+historia clínica	medical record	BI2024
+historia clínica	case history	BI2024
+medicamento	medicinal product	BI2024
+triglicéridos de cadena media	medium-chain triglycerides	BI2024
+meglumina	meglumine	BI2024
+fusión-cristalización	melt-crystallized	BI2024
+punto de fusión	melting point	BI2024
+rango de fusión	melting range	BI2024
+filtración de la membrana	membrane filtration	BI2024
+índice de desarrollo mental	mental development index	BI2024
+abertura de la malla	mesh opening	de un tamiz)	BI2024
+malla	mesh screen	de un tamiz)	BI2024
+ácido ribonucleico mensajero  	messenger ribonucleic acid  	BI2024
+expresión del ácido ribonucleico mensajero	messenger ribonucleic acid expression	BI2024
+metabisulfito	metabisulphite 	BI2024
+vía metabólica	metabolic pathway	BI2024
+producto metabólico	metabolic product	BI2024
+producto metabólico	metabolism product	BI2024
+metabolismo 	metabolism	BI2024
+sistema metabolizante	metabolizing system	BI2024
+metafase	metaphase	BI2024
+MDI)	metered dose inhaler	inhalador con válvula dosificadora	BI2024
+inhalador con válvula dosificadora	metered-dose inhalator	BI2024
+cámara dosificadora	metering chamber	BI2024
+válvula dosificadora	metering valve	BI2024
+metanol R	methanol R	BI2024
+metanólico	methanolic	BI2024
+solución metanólica de dióxido de azufre en piridina	methanolic pyridine-sulphur dioxide solution	BI2024
+metenamina	methenamine	BI2024
+sección metodológica	methodology section	BI2024
+acetato de metilo	methyl acetate	BI2024
+metilmetanosulfonato	methyl methanesulfonate	BI2024
+metilparabeno	methyl paraben	BI2024
+miligramo por comprimido	mg/tablet	BI2024
+análisis microbiológico	microbial assay	BI2024
+contaminación microbiana	microbial contamination	BI2024
+carga microbiana	microbial load	BI2024
+pureza microbiológica	microbiological purity	BI2024
+calidad microbiológica	microbiological quality	BI2024
+microcristalino	microcrystalline	BI2024
+celulosa microcristalina	microcrystalline cellulose	BI2024
+microgramo [µg]	microgram [µg]	BI2024
+micromolar [µM]	micromolar [µM]	BI2024
+sucralosa micronizada	micronized sucralose	BI2024
+micronutriente	micro-nutrient	BI2024
+mircoorganismos	micro-organisms	BI2024
+microproteína	microprotein	BI2024
+proteína microsómica	microsomal protein	BI2024
+placa de microtitulación	microtiter plate	BI2024
+midazolam	midazolam	BI2024
+migraña	migraine	BI2024
+evento adverso leve	mild adverse event	BI2024
+to develop)	mild or moderate reaction	reacción leve o moderada (presentar una)	BI2024
+moler	mill	BI2024
+miligramo 	milligram 	BI2024
+mililitro 	milliliter	BI2024
+mililitro 	millilitre 	BI2024
+molienda	milling 	BI2024
+diferencia mínima clínicamente importante 	Minimal clinical important change	BI2024
+carga microbiana mínima	minimal microbial load	BI2024
+cerdo miniatura	minipig	BI2024
+minuto 	minute 	BI2024
+miscibilidad	miscibility	BI2024
+miscible	miscible	BI2024
+error en la dosis	misdosing	BI2024
+dosis omitida	missed dose	BI2024
+datos perdidos	missing data	BI2024
+cinasa de proteína activada por mitógenos	mitogen-activated protein kinase	BI2024
+índice mitótico	mitotic index	BI2024
+mezclar	mix	BI2024
+modelo de efectos mixtos con medidas repetidas	mixed model for repeated measures	BI2024
+reactor	mixing reactor	BI2024
+vaso mezclador	mixing vessel	BI2024
+fase móvil	mobile phase	cromatografía)	BI2024
+modo de acción	mode of action	BI2024
+evento adverso moderado	moderate adverse event	BI2024
+mezcla de HAM F12/DMEM modificada	modified HAM´s F12/DMEM mixture	BI2024
+denominación internacional de genéricos modificada  	modified international non-proprietary name  	BI2024
+medidor de humedad	moisture meter	BI2024
+molar	molar	BI2024
+tamiz molecular	molecular sieve	BI2024
+compuesto de azul de molibdeno‑fosfato	molybdenum-blue-phosphate complex	BI2024
+monocatión	monocation	BI2024
+monocitos	monocytes	BI2024
+monografía	monograph	BI2024
+monómero	monomer	BI2024
+cinetosis	motion sickness	BI2024
+actividad motriz	motor activity	BI2024
+moho	mould	BI2024
+ratón	mouse	BI2024
+boquilla	mouthpiece	de un aerosol)	BI2024
+resorte móvil	moving spring	BI2024
+pasta 	mull	BI2024
+estudio multicéntrico 	multicenter	BI2024
+estudio multicéntrico 	multicentre trial /study	BI2024
+frasco multidosis	multi-dose bottle	BI2024
+transportador de proteínas de extrusión de toxinas y múltiples fármacos	multidrug and toxin extrusion transporter	BI2024
+proteína de resistencia a múltiples fármacos	multidrug resistance protein	BI2024
+sistema de cierre plástico de rosca articulado con secante	multipart plastic screw closure containing desiccant	BI2024
+estudio con dosis múltiples	multiple dose study	BI2024
+receptor muscarínico colinérgico	muscarinic cholinergic receptor	BI2024
+mialgia	muscle pain	BI2024
+estudio de mutagenicidad	mutagenicity study	BI2024
+célula mutante	mutant cell	BI2024
+hocico	muzzle	BI2024
+mielopoyesis	myelopoiesis	BI2024
+infarto de miocardio	myocardial infarction	BI2024
+dolor persistente	nagging pain	BI2024
+nanogramo 	nanogram 	BI2024
+nanómetro 	nanometer 	BI2024
+nanomolar 	nanomolar 	BI2024
+descripción detallada del proceso de fabricación	narrative description of the manufacturing process	BI2024
+solución acuosa nasal	nasal aqueous solution	BI2024
+Administración Nacional de Medicamentos, Alimentos y Tecnología Médica	National Drug, Food and Medical Technology Agency	ANMAT) 	BI2024
+N-desmetilación	N-demethylation	BI2024
+espectroscopía de infrarrojo cercano	near-infrared spectroscopy	BI2024
+puro	neat	BI2024
+gas de nebulización	nebuliser gas	BI2024
+necrótico	necrotic	BI2024
+aguja 	needle 	BI2024
+lavado de la aguja	needle wash	BI2024
+control negativo	negative control	BI2024
+insignificante	negligible 	BI2024
+nefelómetro	nephelometer	BI2024
+unidad nefelométrica de turbidez	nephelometric turbidity unit	BI2024
+nefelometría	nephelometry	BI2024
+nefropatía	nephropathy	BI2024
+beneficio clínico neto	net clinical benefit	BI2024
+neuropatía	neuropathy	BI2024
+captación del rojo neutro	neutral red uptake	BI2024
+neutrófilo	neutrophil	BI2024
+neutrofilia	neutrophilia	BI2024
+mediadores neutrófilos	neutrophilic mediators	BI2024
+nevirapina anhidra 	nevirapine anhydrous	BI2024
+hemihidrato de nevirapina	nevirapine hemihydrate	BI2024
+solicitud de registro	new drug application 	BI2024
+cepa de conejo New Zealand White	New Zealand White rabbit strain	BI2024
+niacinamida	niacinamide	BI2024
+nada por vía oral	nil per os [n.p.o.]	BI2024
+nitrilo 	nitril 	BI2024
+clorhidrato de N-metil ciclohexilamina	n-methylcyclohexylammonium hydrochloride	BI2024
+sin crecimiento	no growth	BI2024
+dosis máxima sin efecto adverso observado	no observed adverse effect level	BI2024
+dosis máxima sin efecto adverso observado	non-observed adverse effect level	BI2024
+dosis máxima sin efecto adverso observado	non observed adverse effect level	BI2024
+sin muestra	no sample	BI2024
+patients with) 	no visible pustules	(pacientes) sin pústulas visibles 	BI2024
+preclínico	non clinical	BI2024
+preclínico	non-clinical	BI2024
+fracción de radioactividad no extraíble	non extractable fraction of radioactivity 	BI2024
+estudio que no cumple con las Buenas Prácticas de Laboratorio   	non Good Laboratory Practices study	BI2024
+estudio que no cumple con las Buenas Prácticas de Laboratorio   	non GLP study	BI2024
+infarto de miocardio sin elevación del segmento ST	non ST-segment elevation myocardial infarction	BI2024
+resumen preclínico	non-clinical overview	BI2024
+resumen preclínico	nonclinical overview	BI2024
+estudio no comparativo	non-comparative study	BI2024
+condiciones de desnaturalización	nondenatured conditions	BI2024
+aminoácidos no esenciales	non-essential amino acids	BI2024
+recubrimiento no funcional	non-functional film-coat	BI2024
+estómago no glandular	nonglandular stomach	BI2024
+no halogenado	non-halogenated	BI2024
+producto que no está en fase de investigación clínica	non-investigational product	BI2024
+medicamento de venta libre 	non-prescription drug	BI2024
+medicamento de venta libre 	nonprescription drug	BI2024
+apirógeno	non-pyrogenic	BI2024
+a las preguntas de un cuestionario)	non-respondent	BI2024
+persona que no responde	nonrespondent	a las preguntas de un cuestionario)	BI2024
+al tratamiento)	non-responder	BI2024
+persona que no responde	nonresponder	al tratamiento)	BI2024
+válvula de retención	non-return valve	BI2024
+carcinoma no microcítico de pulmón 	non-small cell lung cancer	BI2024
+antinflamatorio no esteroide	non-steroidal anti-inflammatory drug	BI2024
+residuo no volátil 	nonvolatile residue	BI2024
+residuo no volátil 	non-volatile residue	BI2024
+normalidad	normality	BI2024
+eritrocito normocromático	normochromatic erythrocytes	BI2024
+no corresponde [No corr.]	not applicable [N/A]	BI2024
+no determinado [no det.]	not determined [N/D]	BI2024
+como mínimo	not less than	BI2024
+como máximo 	not more than	BI2024
+como máximo 	no more than	BI2024
+no especificado [n/e]	not reported	BI2024
+sin evaluar [s.e.]	not tested [n.t.]	BI2024
+nota orientativa	note for guidance	BI2024
+N-oxidación	N-oxidation	BI2024
+resonancia magnética nuclear	nuclear magnetic resonance	BI2024
+nucleofílico	nucleophilic	BI2024
+cantidad de pacientes	number of patients	BI2024
+aro de nylon	nylon loop	BI2024
+aro de sello	o ring	o-ring)	BI2024
+oscurecimiento	obscuration	BI2024
+prueba de recuento de partículas por oscurecimiento	obscuration Particle Count Test	BI2024
+estudio de observación	observational study	BI2024
+gel de octadecilsilil sílice	octadecylsilyl silica gel	BI2024
+cociente de probabilidades	odds ratio	BI2024
+O-desalquilación	O-dealkylation	BI2024
+enantato de estradiol 	oestradiol enanthate 	BI2024
+cría	offspring	BI2024
+mutagénesis dirigida por oligonucleótidos 	oligonucleotide-directed mutagenesis	BI2024
+mapeo de los oligosacáridos	oligosaccharide mapping	BI2024
+clorhidrato de olodaterol	olodaterol hydrochloride	BI2024
+el día de su utilización	on the day of use	BI2024
+fenómeno on/off	on/off phenomenon	Parkinson)	BI2024
+una vez al día	once daily [q.d.] / 	BI2024
+adicción oncogénica	oncogene addiction	BI2024
+prueba unilateral	one-sided testing	BI2024
+método de inicio	onset method 	referido a cromatografía)	BI2024
+opalescente	opalescent 	BI2024
+método de capilar abierto	open capillary method	BI2024
+estudio abierto	open label study	BI2024
+almacenamiento al descubierto	open storage 	BI2024
+estudio de diseño abierto	open study	BI2024
+boca	opening	de un frasco)	BI2024
+esfuerzo de apertura	opening stress	BI2024
+of testing specification)	Operational Area	Área operativa	BI2024
+enantiómero	optical isomer	BI2024
+microscopía óptica	optical microscopy	BI2024
+camino óptico 	optical path	BI2024
+pureza óptica	optical purity	BI2024
+adaptador bucal	oral adaptor	BI2024
+anticoagulante oral	oral anticoagulant	BI2024
+vía de administración oral	oral delivery route	BI2024
+tolerancia oral a la glucosa	oral glucose tolerance	BI2024
+prueba de tolerancia oral a la glucosa	oral glucose tolerance test 	BI2024
+pedidos	orders	BI2024
+distribución de los órganos	organ distribution	BI2024
+transportador de aniones orgánicos	organic anion transporter	BI2024
+polipéptido transportador de aniones orgánicos	organic anion transporting-polypeptide	BI2024
+transportador de cationes orgánicos	organic cation transporter	BI2024
+Organización para la Cooperación y el Desarrollo Económico	Organization for Economic Co-operation and Development	Organization for Economic Co-operation and Development)	BI2024
+organoléptico	organoleptic	BI2024
+medicamento huérfano	orphan drug	BI2024
+cirugía ortopédica	orthopaedic surgery	BI2024
+ácido ortofosfórico	Ortho-phosphoric acid 	BI2024
+osmolalidad	osmolality	BI2024
+desenlace clínico	outcome	referida al estudio)	BI2024
+referida al estudio)	criterio de valoración	BI2024
+pronóstico, evolución	outcome	BI2024
+respuesta	outcome	referida al paciente)	BI2024
+desenlaces y resultados	outcome and results	BI2024
+tapa externa	outer cap	BI2024
+embalaje exterior	outer carton	BI2024
+valor atípico	outlier	BI2024
+que no cumple con la especificación	out-of-specification	BI2024
+que no cumple con la especificación	out of specification	BI2024
+resultados que no cumplen con las especificaciones	out-of-specification results	BI2024
+resultados que no cumplen con las especificaciones	out of specification results 	BI2024
+ovalado	oval shaped	BI2024
+escalada de temperatura del horno	oven temperature ramp  	BI2024
+tiempo de calentamiento 	oven time	BI2024
+producto de venta libre 	over the counter product [OTC product]	BI2024
+excedente	overage	BI2024
+sobrellenado	overfill	BI2024
+cromatograma superpuesto	overlay chromatogram	BI2024
+de rápida acción	overnight	BI2024
+e.g. allow the solution to stand overnight)	overnight	hasta el día siguiente (por ejemplo: dejar la disolución en reposo hasta el día siguiente) 	BI2024
+sobrepresión	overpressure	BI2024
+análisis exhaustivo	overread	BI2024
+resumen	overview 	BI2024
+oxalato	oxalate	BI2024
+ácido oxálico 	oxalic acid	BI2024
+desmetilación oxidativa	oxidative demethylation	BI2024
+sometido a condiciones de agresión oxidativa	oxidative stressed	BI2024
+agente oxidante	oxidizing agent	BI2024
+valor p	p value	BI2024
+contenido del envase	package fill	BI2024
+acondicionamiento	packaging 	BI2024
+envase	packaging 	BI2024
+volumen de células empaquetadas	packed cell volume	BI2024
+columna de relleno	packed column	cromatografía)	BI2024
+material de acondicionamiento	packing material	BI2024
+aparato de paleta	paddle apparatus	BI2024
+método de paleta	paddle method	BI2024
+cromatografía líquida con método de paletas	paddle method liquid chromatography	BI2024
+dolor	pain	por lo general, todo tipo de dolor y en cualquier localización cuando no es continuo y fijo en la cabeza, la espalda, los oídos, las muelas ni el estómago; ver ache).	BI2024
+Escala visual analógica del dolor	Pain Visual Analog Scale	BI2024
+emparejar	pair	BI2024
+paladio 	palladium 	BI2024
+equipo para pruebas de integridad de filtros Palltronic	Palltronic tester	BI2024
+ácido palmítico	palmitic acid	BI2024
+bandeja 	pan	BI2024
+pancitopenia	pancytopenia	BI2024
+pantoprazol sódico 	pantoprazole-sodium	BI2024
+pantoprazol magnésico 	pantoprozole-magnesium	BI2024
+paquímetro	paquimeter	BI2024
+parahidroxibenzoato	parahydroxybenzoate	BI2024
+grupos paralelos	parallel group 	referido a estudios clínicos)	BI2024
+partidas originales	parent batches	BI2024
+línea celular parental 	parent cell line	BI2024
+compuesto original	parent compound	BI2024
+fármaco original	parent drug  	BI2024
+distribución de las partículas según su tamaño	particle size distribution	BI2024
+contaminación por partículas	particulate contamination	BI2024
+partículas 	particulate matter	BI2024
+coeficiente de reparto 	partition coefficient	BI2024
+partes por millón 	parts per million 	BI2024
+longitud de recorrido	path length	BI2024
+patógeno	pathogen	BI2024
+patogenia	pathogenesis	BI2024
+patogénico	pathogenic	BI2024
+trastornos hipersecretorios patológicos	pathological hypersecretory conditions	BI2024
+fisiopatología	pathophysiology	BI2024
+grupos de análisis de pacientes	patient analysis sets	BI2024
+folleto para el paciente	patient information leaflet	BI2024
+años-paciente	patient-years	BI2024
+área del pico	peak area	BI2024
+respuesta del área del pico	peak area response	BI2024
+flanco del pico	peak flank	BI2024
+concentraciones máximas	peak levels	BI2024
+resolución del pico	peak resolution 	BI2024
+coeficiente de correlación de Pearson	Pearson correlation coefficient	BI2024
+molino de paletas	peg mill 	BI2024
+gránulo	pellet	BI2024
+penicilina	penicillin-streptomycin [pen/strep]	BI2024
+estreptomicina 	penicillin-streptomycin [pen/strep]	BI2024
+pentobarbital sódico	pentobarbital sodium	BI2024
+aceite esencial de menta piperita	peppermint oil	BI2024
+pepstatina	pepstatin	BI2024
+por vía oral [v.o.]	per os [p.o.]	BI2024
+porcentaje de materiales finos	percent fines	BI2024
+percentil	percentile	BI2024
+intervención coronaria percutánea	percutaneous coronary intervention	BI2024
+rinitis alérgica	perennial rhinitis	BI2024
+bomba de perfusión	perfusion pump	BI2024
+Informe Periódico de Seguridad	Periodic Safety Update Report	BI2024
+períodos de inactividad	periods of nonuse	BI2024
+períodos de inactividad	periods of non-use	BI2024
+períodos de inactividad	non-use period	BI2024
+sangre periférica	peripheral blood	BI2024
+estudio de permeabilidad	permeability study	BI2024
+peroxidasa	peroxidase	BI2024
+peróxido	peroxide	BI2024
+perpetrador	perpetrator	BI2024
+análisis por protocolo	per-protocol analysis	BI2024
+persistir	persist	referido a síntomas)	BI2024
+personal interviniente 	personnel involved	BI2024
+placa de Petri	Petri dish	BI2024
+glycoproteína P	P-glycoprotein	BI2024
+ratas con glycoproteína P inhibida	P-glycoprotein inhibited rats	BI2024
+peachímetro	pH meter	BI2024
+ajustar a un determinado pH	pH-adjusted	BI2024
+Convención de Inspección Farmacéutica	Pharmaceutical Inspection  Convention	BI2024
+producto farmacéutico	pharmaceutical product	BI2024
+farmacodinámica	pharmacodynamic	BI2024
+farmacodinamia	pharmacodynamics	BI2024
+datos farmacocinéticos	pharmacokinetic data	BI2024
+parámetros farmacocinéticos 	pharmacokinetic parameters	BI2024
+farmacocinética	pharmacokinetics	BI2024
+perfil farmacológico	pharmacology profiling	BI2024
+calidad farmacopeica	pharmacopoeial	BI2024
+ensayo clínico de fase I	phase I clinical trial	BI2024
+solubilidad dependiente del pH	pH-dependent solubility	BI2024
+fracción de fenol	phenol moiety	BI2024
+fenolftaleína	phenolphthalein	BI2024
+fenilalanina	phenylalanine	BI2024
+fenilcetonuria 	phenylketonuria 	BI2024
+solución salina amortiguadora de fosfatos	phosphate buffered saline	BI2024
+inhibidor de la fosfodiesterasa-4 	phosphodiesterase-4 inhibitor	BI2024
+receptor fosforilado del factor de crecimiento epidérmico 	phosphorylated epidermal growth factor receptor 	BI2024
+matriz de fotodiodos 	photodiode array	BI2024
+barrido espectral de matriz de fotodiodos	photodiode array spectral scanning	BI2024
+fotoinducción	photo-induction	BI2024
+factor de fotoirritación	photo-irritation factor	BI2024
+fotolitos	photoliths	BI2024
+determinación fotométrica	photometric determination	BI2024
+fotoestabilidad	photostability	BI2024
+prueba de fotoestabilidad	photostability testing	BI2024
+sometido a condiciones extremas de luz	photostressed	BI2024
+parámetros físico-químicos  	physical and chemical parameters	BI2024
+prueba física	physical test	BI2024
+perforadora	piercing device	BI2024
+dolor punzante	piercing pain	BI2024
+mezcla de pigmentos	pigment blend	BI2024
+tapa inviolable 	pilfer-proof cap	BI2024
+píldora	pill	BI2024
+piloerección	piloerection	BI2024
+pioglitazona	pioglitazone	BI2024
+piperidina	piperidine	BI2024
+pipetear 	pipette	BI2024
+estudio pivote	pivotal study	BI2024
+comparativo con placebo	placebo controlled 	referido a estudios clínicos)	BI2024
+placebo del mismo aspecto que la linagliptina 	placebo matching linagliptin	BI2024
+unidades formadoras de placa	plaque-forming units	BI2024
+esterasas hepáticas y plasmáticas	plasma and hepatic esterases	BI2024
+transportador de monoaminas por la membrana plasmática	plasma Membrane Monoamine Transporter	BI2024
+plastificante	plasticizer	de un comprimido)	BI2024
+método de incorporación en placa	plate incorporation method	BI2024
+meseta	plateau	de una curva)	BI2024
+meseta de eficacia	plateau level of effectiveness 	BI2024
+agregación plaquetaria	platelet aggregation	BI2024
+receptor del factor de crecimiento derivado de plaquetas	platelet derived growth factor receptor	BI2024
+plasma con escasas plaquetas 	platelet-poor plasma 	BI2024
+plasma rico en plaquetas	platelet-rich plasma	BI2024
+preparación de cultivos en placas	plating	BI2024
+pletismografía	plethysmography	BI2024
+plexos coroideos	plexus choroideus	BI2024
+émbolo	plunger rod	de una jeringa)	BI2024
+descargador neumático móvil	pneumatic mobile exit	BI2024
+p-nitrofenilfosfato	p-nitrophenylphosphate	BI2024
+mutación puntual	point mutation	BI2024
+puntos por segundo	points per second [pt/sec]	BI2024
+filtro polarizador	polarized light filter	BI2024
+pulido	polishing	referido a comprimidos)	BI2024
+polietileno	polyethylene	BI2024
+bolsas de polietileno con precintos 	polyethylene bags with binders 	BI2024
+cierre inviolable de polietileno	polyethylene evident closure	BI2024
+polietilenglicol	polyethylene glycol	BI2024
+bolsa Whirl-Pak de polietileno para toma de muestras 	polyethylene Whirl-Pak sample bag	BI2024
+caracterización de polimorfos	polymorphism screening	BI2024
+polimorfos	polymorphs	BI2024
+poliol	polyol	BI2024
+polioximetileno	polyoxymethylene	BI2024
+oligómeros de polipropileno 	polypropylene oligomers 	BI2024
+polisorbato	polysorbate	BI2024
+polisorbato 20 	polysorbate 20 	BI2024
+poliestireno	polystyrol	BI2024
+policloruro de vinilo	polyvinyl chloride	BI2024
+lámina cavitada de policloruro de vinilo	polyvinyl chloride forming foil	BI2024
+lámina cavitada de PVC 	PVC forming foil	BI2024
+lámina transparente de policloruro de vinilo	polyvinyl chloride transparent foil	BI2024
+lámina transparente de PVC 	PVC transparent foil 	BI2024
+mezcla / unión / conjunto / grupo	pool	BI2024
+reserva	pool	BI2024
+depósito	pool	BI2024
+análisis conjunto	pooled analysis	BI2024
+solución conjunta 	pooled solution	BI2024
+platillo de porcelana 	porcelain dish	BI2024
+tamaño del poro	pore size	BI2024
+agente formador de poros 	pore-forming agent	BI2024
+filtro de inmersión de vidrio sinterisado de porosidad G2	porosity G2 sintered glass immersion filter 	BI2024
+prueba de precipitación positiva	positive precipitation test	BI2024
+índice positivo de riesgo/beneficio	positive risk/benefit ratio	BI2024
+Protocolo de estabilidad y compromisos de estabilidad posteriores a la aprobación	Post-Approval Stability Protocol and Stability Commitment	BI2024
+período posterior al tratamiento	post-treatment period	BI2024
+yoduro de potasio	potassium iodide	BI2024
+fosfato monobásico de potasio	potassium-dihydrogen phosphate	BI2024
+impurezas potenciales	potential impurities 	BI2024
+valoración potenciométrica	potentiometric titration	BI2024
+método potenciométrico	potentiometric titration method	BI2024
+povidona	povidone	BI2024
+flujo del polvo	powder flow	BI2024
+precipitar	precipitate	BI2024
+placa de precipitación	precipitation plate	BI2024
+precisión	precision	BI2024
+preclínico/a	preclinical 	referido a estudios clínicos)	BI2024
+asintomático/a	preclinical 	referido a una enfermedad)	BI2024
+ion precursor	precursor ion	en espectrometría de masas)	BI2024
+ion precursor	progenitor ion	en espectrometría de masas)	BI2024
+ion precursor	parent ion	en espectrometría de masas)	BI2024
+intervalo de predicción	prediction interval	referido a estadística)	BI2024
+previo al ejercicio	pre-exercise	BI2024
+término preferente	preferred term	referido al MedDRA)	BI2024
+jeringa prellenada	pre-filled syringe	BI2024
+jeringa prellenada	prefilled syringe	BI2024
+pregelatinizado	pregelatinized	BI2024
+método de preincubación	preincubation method	BI2024
+antes de la dosis matutina	pre-morning dose	BI2024
+prellenada	pre-packed	referido a la columna de HPLC)	BI2024
+cómo preparar la toma	preparing the feed	BI2024
+volumen previo a la ejecución	pre-run volume	BI2024
+receta	prescription	BI2024
+prescripción médica	prescription	BI2024
+conservante	preservative 	BI2024
+solución para inhalación con conservantes	preserved inhalation solution	BI2024
+prensa	pressing tool	BI2024
+caída de presión	pressure drop	BI2024
+aerosol presurizado	pressurized aerosol	BI2024
+valor inicial previo al tratamiento	pre-treatment baseline	BI2024
+pacientes con tratamiento previo	previously treated patients	BI2024
+criterio de valoración primario 	primary endpoint	BI2024
+criterio de valoración primario 	primary end-point	BI2024
+criterio de valoración primario 	primary outcome measure	BI2024
+acondicionamiento primario	primary packaging	BI2024
+componentes del acondicionamiento primario	primary packaging components	BI2024
+estudios de estabilidad primaria	primary stability studies	BI2024
+prevención primaria de la tromboembolia venosa 	primary venous thromboembolism prevention 	BI2024
+cebar	prime	BI2024
+limpiar 	prime	BI2024
+distribución probabilística 	probability distribution	BI2024
+controles del proceso	process controls	BI2024
+datos del proceso	process data	BI2024
+ingeniería de procesos 	process engineering	BI2024
+impureza resultante del proceso	process impurity	BI2024
+Calificación del funcionamiento del proceso	Process Performance Qualification	BI2024
+esquema de validación del proceso	process validation scheme	BI2024
+coadyuvante de elaboración	processing aid	BI2024
+método de procesamiento	processing method	BI2024
+profármaco	prodrug	BI2024
+identificación de la composición del producto	product composition identification	BI2024
+ficha técnica	product data sheet	BI2024
+ficha técnica	product documentation sheet	BI2024
+prospecto	product leaflet	BI2024
+prospecto	product insert 	BI2024
+línea celular de producción 	production cell line	BI2024
+cultivo de producción	production culture	BI2024
+vías profibróticas	pro-fibrotic pathways	BI2024
+citocinas proinflamatorias 	proinflammatory cytokines 	BI2024
+vías proinflamatorias  	pro-inflammatory pathways	BI2024
+proliferación de microorganismos	proliferation of microorganisms	BI2024
+sin propelentes	propellant-free	BI2024
+Propiedad de Boehringer lngelheim - Confidencial	Property of Boehringer Ingelheim - treat confidentially	BI2024
+criterios de aceptación propuestos 	proposed acceptance criteria	BI2024
+proceso de fabricación comercial propuesto	proposed commercial manufacturing process	BI2024
+Información confidencial protegida por derechos de propiedad intelectual. © 2024 Boehringer Ingelheim International GmbH o sus empresas afiliadas. Todos los derechos reservados.	Proprietary confidential information. Copyright 2009 Boehringer Ingelheim International GmbH or one or more of its affiliated companies. All rights reserved.	BI2024
+propilenglicol 	propylene glycol	BI2024
+hidroxibenzoato de propilo	propylhydroxybenzoate	BI2024
+envase protector	protective packaging 	BI2024
+interacciones de desplazamiento durante la unión a las proteínas	protein binding displacement interactions	BI2024
+concentración de proteínas por barrido UV	protein concentration by UV-scan	BI2024
+fragmento de protrombina	prothrombin fragment	BI2024
+tiempo de protrombina	prothrombin time	BI2024
+inhibidor de la bomba de protones	proton pump inhibitor	BI2024
+correlación heteronuclear de enlaces múltiples entre protones y carbono	proton-carbon heteronuclear multiple-bond correlation	BI2024
+Índice de la severidad del área de psoriasis pustulosa generalizada [GPPASI 75]	Psoriasis Area and Severity Index for Generalized Pustular Psoriasis [GPPASI 75]	BI2024
+puntuación de la Escala de síntomas de psoriasis	Psoriasis Symptom Scale score	BI2024
+puntuación de la Escala de síntomas de psoriasis	PSS score	BI2024
+fecha de muestreo	pull date	BI2024
+embolia pulmonar	pulmonary embolism	BI2024
+examen de la función pulmonar	pulmonary function testing	BI2024
+medicación pulmonar	pulmonary medication	BI2024
+pulpa	pulp	BI2024
+ancho del pulso	pulse width	BI2024
+bomba	pump	BI2024
+velocidad de bombeo	pump rate	BI2024
+punzón	punch surface	BI2024
+orden de compra	purchase order	BI2024
+agua purificada	purified water	BI2024
+blíster de apertura a presión	push-through blister	BI2024
+aclaramiento pustular 	pustular clearance	BI2024
+subpuntuación de pustulación 	pustulation sub score 	BI2024
+clorhidrato de piridoxina	pyridoxine hydrochloride	BI2024
+pirólisis	pyrolysis	BI2024
+piruvato	pyruvate	BI2024
+personal idóneo	qualified person	BI2024
+director técnico	qualified person	si se tiene esa información)	BI2024
+composición cuali-cuantitativa	qualitative and quantitative composition	BI2024
+Gestión de Registros y Gestión de Calidad	Quality and Records Management	Quality and Records Management) 	BI2024
+aseguramiento de la calidad	quality assurance	BI2024
+control de calidad	quality control	BI2024
+Gestión de calidad	Quality Management	Quality Management)	BI2024
+límite de cuantificación	quantitation limit	BI2024
+cuantitativo	quantitative	BI2024
+composición cuantitativa	quantitative composition	BI2024
+cuádruple   	quartet  	referido a espectroscopía)	BI2024
+quinazolina	quinazoline	BI2024
+sector de soporte	rack section	BI2024
+pureza radioquímica	radiochemical purity	BI2024
+radiomarcado	radiolabelled	BI2024
+radioligando	radioligand	BI2024
+tasa de calentamiento	ramp	cromatografía)	BI2024
+estudio clínico aleatorizado	randomised clinical study	BI2024
+estudio clínico aleatorizado	randomized clinical study	BI2024
+rango	range 	BI2024
+correlación por rangos	rank order correlation	BI2024
+evaluador rápido de humedad	rapid moisture tester	BI2024
+enfermedad rara	rare disease	BI2024
+tamiz de rejilla	rasp screen	BI2024
+rata	rat	BI2024
+polímero que controla la velocidad de liberación	rate controlling polymer	BI2024
+relación señal	ratio signal	BI2024
+ruido	noise	BI2024
+datos preliminares	raw data 	BI2024
+archivo de datos preliminares	raw data storage 	BI2024
+materia prima	raw materials	BI2024
+reacción de sulfatos	reaction of sulphates	BI2024
+velocidad de reacción	reaction rate	BI2024
+metabolitos intermedios reactivos	reactive metabolite intermediates	BI2024
+paso de lectura	read step	BI2024
+paso de lectura	reading step	BI2024
+sustancias fácilmente carbonizables	readily carbonisable substances	BI2024
+bolsas de infusión listas para usar 	ready to use infusion bags	BI2024
+reaireación	reaeration	referido a un compuesto)	BI2024
+criar	rear	BI2024
+programa de renovación de imagen	rebranding program	BI2024
+análisis de fijación a receptores	receptor binding assay	BI2024
+cantidades diarias recomendadas	recommended daily allowance	BI2024
+dosis recomendada	recommended dose	BI2024
+tiempo de reacondicionamiento 	reconditioning time 	BI2024
+tiempo de reconsitución	reconstitution time	BI2024
+cuaderno de registros	records log book	BI2024
+recuperación [recup.]	recovery [recov.]	BI2024
+identificación, búsqueda, selección e incorporación	recruitment	de los sujetos para participar en un estudio clínico)	BI2024
+objetivo de inclusión	recruitment goal	referido a los sujetos de un estudio clínico)	BI2024
+plazo de inclusión	recruitment period	BI2024
+período de inclusión	recruitment period	referido a los sujetos de un estudio clínico)	BI2024
+brotes agudos recurrentes 	recurring flares	BI2024
+glóbulos rojos	red blood cells	BI2024
+masa eritrocitaria	red cell mass	BI2024
+óxido de hierro rojo	red iron oxide	BI2024
+castaño rojizo	red-brown	BI2024
+enrojecimiento	redness	BI2024
+etapas de reducción – carboximetilación	reducing – carboxymethylation steps	referido al almacenamiento de las muestras) 	BI2024
+agente de reducción	reducing agent	BI2024
+carretel	reel	de un rollo)	BI2024
+tiempo de reequilibrado	re-equilibration time	BI2024
+espectro de referencia	reference spectrum	BI2024
+estándar de referencia 	reference standard 	BI2024
+sustancia de referencia	reference substance	BI2024
+reflujo esofágico	reflux oesophagitis	BI2024
+índice de refracción	refractive index	BI2024
+refrigerador	refrigerator	BI2024
+isómero posicional	regioisomer	BI2024
+registrar	register	un producto)	BI2024
+sede social	registered office	de la compañía)	BI2024
+especificación analítica para registro	registration testing specification	BI2024
+regresión	regression	en estadística)	BI2024
+Asuntos Regulatorios	Regulatory Affairs	BI2024
+eliminación relativa	relative excretion	BI2024
+humedad relativa [h.r.]	relative humidity [r.h.]	BI2024
+humedad relativa	relative humidity	BI2024
+tiempo de retención relativo	relative retention time	BI2024
+desviación estándar relativa	relative standard deviation	BI2024
+volumen relativo [vol. rel.]	relative volume [V rel]	BI2024
+liberar	release 	por ejemplo, partidas)	BI2024
+polímero que controla la velocidad de liberación	release-controlling polymer	BI2024
+deterioro renal	renal impairment	BI2024
+repetibilidad	repeatability	BI2024
+estudio de dosis repetidas	repeat-dose study	BI2024
+análisis de repetibilidad	repeatibility testing	BI2024
+informe	report	BI2024
+resultado que debe informarse	reportable result	BI2024
+nivel de informe	reporting level 	BI2024
+umbral de informe	reporting threshold	BI2024
+reproducibilidad	reproducibility	BI2024
+medicación de rescate	rescue medication	BI2024
+grado de investigación	research grade	BI2024
+catalizador residual	residual catalyst	BI2024
+humedad residual	residual moisture	BI2024
+disolventes residuales	residual solvents	BI2024
+desviación estándar residual	residual standard deviation	BI2024
+suma de los cuadrados debidos al error	residual sum of squares	BI2024
+residuo de ignición	residue on ignition	BI2024
+mutación de resistencia 	resistance mutation	BI2024
+an infection)	resolve	se resuelve (una infección)	BI2024
+resonancia	resonance	BI2024
+mecanismo de cierre Respimat	Respimat locking mechanism	BI2024
+Respimat Soft Mist	Respimat Soft Mist	BI2024
+ritmo respiratorio	respiration rate	BI2024
+volumen respiratorio	respiration volume	BI2024
+vías respiratorias	respiratory tract	BI2024
+infección respiratoria 	respiratory tract infection	BI2024
+sensibilidad	responsiveness	a un medicamento)	BI2024
+dolor en reposo	rest pain	BI2024
+picos restantes	rest peaks	BI2024
+gasto energético en reposo	resting energy expenditure	BI2024
+potencial de membrana en reposo	resting membrane potential 	BI2024
+máxima similitud restringida	restricted maximum likelihood	BI2024
+código de identificación del resultado	result identification	BI2024
+código de identificación del resultado	result-ID	BI2024
+e.g.: dosing should be resumed)	resume	reanudar (por ejemplo: la administración debe reanudarse)	BI2024
+retraso	retardation	BI2024
+tiempo de retención	retention time  	BI2024
+período de repetición del análisis 	re-test period	BI2024
+período de repetición del análisis 	retest period	BI2024
+período de repetición del análisis 	retesting period	BI2024
+reticulosarcoma	reticulum cell sarcoma	BI2024
+estudio retrospectivo de cohortes	retrospective cohort study	BI2024
+agua obtenida por ósmosis inversa	reverse osmosis water	BI2024
+fase reversa	reverse phase 	en cromatografía)	BI2024
+método de gradiente de fase reversa	reverse-phase gradient method	en cromatografía)	BI2024
+inhibidor reversible	reversible inhibitor	BI2024
+rabdomiólisis	rhabdomyolysis	BI2024
+riboflavina	riboflavin	BI2024
+ácido ribonucleico 	ribonucleic acid 	BI2024
+velocidad de bomba de lavado	rinse pump rate	BI2024
+madurez	ripeness	BI2024
+Plan de gestión de riesgos	Risk Management Plan	BI2024
+cociente de riesgos	risk ratio	en epidemiología)	BI2024
+robustez	robustness	referido a un método)	BI2024
+interruptor basculante	rocker switch	BI2024
+rollo	roll	BI2024
+temperatura ambiente	room temperature	BI2024
+evaporador rotativo	rotary evaporator	BI2024
+prensa rotativa	rotary press	BI2024
+cuchilla giratoria	rotating blade	BI2024
+platillo giratorio	rotating pan	BI2024
+platillo giratorio	rotated pan	BI2024
+higrómetro Rotronic	Rotronic hygrometer	BI2024
+matraz de fondo redondo 	round-bottom flask	BI2024
+matraz de fondo redondo 	round bottom flask	BI2024
+sarcoma de Rous	Rous sarcoma 	BI2024
+vía de eliminación	route of excretion	BI2024
+procesamiento sistemático	routine processing	BI2024
+analizada/o en un procedimiento de rutina	routinely analyzed	BI2024
+distancia recorrida por la muestra	run distance	en HPLC)	BI2024
+tiempo de ejecución	run time	BI2024
+plazo de inclusión	run-in period	BI2024
+período de inclusión	lead-in period	referido a los sujetos de un estudio clínico)	BI2024
+período final de reposo farmacológico	run-out period	referido a un estudio clínico)	BI2024
+seguridad 	safety 	BI2024
+umbral de seguridad	safety concern threshold	BI2024
+protector de seguridad	safety cover	de una jeringa)	BI2024
+perfil de seguridad	safety profile	de los medicamentos)	BI2024
+pruebas de seguridad	safety testing	BI2024
+salmonella	salmonella	BI2024
+muestra	sample 	BI2024
+haz de lectura de la muestra	sample beam	espectrometría)	BI2024
+blanco de muestra	sample blank	BI2024
+obtención de muestras	sample collection	BI2024
+tubo para toma de muestras	sample collection tube	BI2024
+portamuestras	sample holder	BI2024
+puerto de inducción de la muestra	sample induction port	BI2024
+momento de muestreo	sample time point	BI2024
+momento de muestreo	sampling time point	BI2024
+frecuencia de muestreo	sampling rate	BI2024
+estructura base 	scaffold structure	BI2024
+adaptado a la escala de	scaled to	BI2024
+proceso de incremento de escala 	scale-up	BI2024
+partidas a escala comercial	scale-up batches	BI2024
+piel descamada	scaly skin	BI2024
+centellograma	scintillation	BI2024
+cucharadas	scoops	BI2024
+comprimido ranurado	scored tablet	BI2024
+referido a un comprimido)	scoreline / break score	BI2024
+ranura	break mark	referido a un comprimido)	BI2024
+ranura	break bar	referido a un comprimido)	BI2024
+ranura	breakline	referido a un comprimido)	BI2024
+subjects)	screen	seleccionar (referido a estudios clínicos)	BI2024
+prueba de detección de la carcinogenia	screening test for carcinogenicity	BI2024
+frasco con tapa a rosca	screw-necked bottle	BI2024
+mecha con punta roscada	screw-threaded spike	BI2024
+tapa a rosca	screw-top 	referido a un frasco)	BI2024
+envase de vidrio sellado	sealed glass container 	BI2024
+precinto de seguridad	sealing	BI2024
+junta selladora	sealing gasket	BI2024
+selladora	sealing machine	BI2024
+rinitis alérgica estacional	seasonal allergic rhinitis	BI2024
+segunda generación 	second generation 	BI2024
+amina secundaria	secondary amine	BI2024
+criterio de valoración secundario 	secondary endpoint	BI2024
+criterio de valoración secundario 	secondary end-point	BI2024
+criterio de valoración secundario 	secondary outcome measure	BI2024
+acondicionamiento secundario	secondary packaging	BI2024
+tren de semillas	seed train	BI2024
+sembrado	seeding 	BI2024
+atrofia segmentaria	segmental atrophy	BI2024
+selectividad	selectivity	BI2024
+seleniato	seleniate	BI2024
+selenio	selenium	BI2024
+to be)	self-sustained	autosustentado/a 	BI2024
+sensible al calor	sensitive to heat 	BI2024
+sensible a la humedad 	sensitive to humidity  	BI2024
+recuperación de la sensibilidad	sensitivity recovery	BI2024
+embudo de decantación	separating funnel	BI2024
+número de serie	serial number	BI2024
+evento adverso grave	serious adverse event	BI2024
+reacción adversa grave	serious adverse reaction	BI2024
+efecto secundario grave	serious side effect	BI2024
+seroalbúmina 	serum albumin 	BI2024
+concentración sérica	serum level	BI2024
+medio de cultivo celular libre de suero y con bajo contenido de proteínas	serum-free, low-protein cell culture media	BI2024
+aceite de sésamo 	sesame oil 	BI2024
+sesquihidrato	sesquihydrate	BI2024
+grave	severe	referido a una patología o a una herida)	BI2024
+intenso/a, fuerte	severe	dolor), avanzado/a (también de una enfermedad)	BI2024
+evento adverso considerable	severe adverse event	BI2024
+intenso	severe adverse event	BI2024
+puede ser: severo	severe adverse event	BI2024
+reacción adversa considerable	severe adverse reaction	BI2024
+intensa	severe adverse reaction	BI2024
+puede ser: severa	severe adverse reaction	BI2024
+(en) estado grave	severe condition	BI2024
+efecto secundario considerable	severe side effect	BI2024
+intenso	severe side effect	BI2024
+puede ser: severo	severe side effect	BI2024
+agitar	shake	BI2024
+agitar	shaking	BI2024
+platillo de balanza de vidrio de poca profundidad	shallow glass weighing dish	BI2024
+recipiente para descartar agujas	sharps disposal container	BI2024
+vida útil	shelf life	BI2024
+vida útil	shelf life period	BI2024
+recubrimiento	shell	de una cápsula)	BI2024
+goma laca 	shellac	BI2024
+caja para envíos	shipping box	BI2024
+desabastecimiento	shortage	BI2024
+disnea	shortness of breath 	BI2024
+estudio paralelo de comparabilidad	side by side comparability study	BI2024
+efecto secundario 	side effect	BI2024
+reacción secundaria	side reaction	BI2024
+comparación directa	side-by-side comparison	BI2024
+análisis granulométrico	sieve analysis	BI2024
+fracción tamizada	sieve fraction	BI2024
+columnas formadas por los tamices	sieve stacks	BI2024
+sílice 	silica	BI2024
+gel de sílice 	silica gel	BI2024
+placa de gel de sílice	silica gel plate	BI2024
+sílice coloidal anhidro	Silica, colloidal anhydrous	BI2024
+dióxido de silicio	silicon dioxide	BI2024
+cloruro de plata	silver chloride	BI2024
+haz simple	single beam	espectrometría)	BI2024
+dosis única	single dose	BI2024
+única dosis	single dose	BI2024
+isómero simple	single isomer 	BI2024
+estudio ciego	single-blind study	BI2024
+centro	site	referido a investigación clínica)	BI2024
+inflamación de la piel	skin inflammation	BI2024
+ligeramente soluble	slightly soluble	BI2024
+ranura	slit	referido a la celda de matriz de fotodiodos del cromatógrafo)	BI2024
+suspensión	slurry	en química)	BI2024
+carcinoma microcítico de pulmón	small-cell lung cancer 	BI2024
+frotis	smear	BI2024
+cierre a presión	snap fit	BI2024
+Sociedad anónima	Società per azioni  [S.p.A.] 	Società per azioni)  [S.p.A.] 	BI2024
+dodecil sulfato de sodio	sodium dodecyl sulphate	BI2024
+fluoruro de sodio	sodium fluoride	BI2024
+hidrogenocarbonato de sodio	sodium hydrogen carbonate	BI2024
+selenito de sodio	sodium selenite	BI2024
+almidón glicolato sódico	sodium starch glycolate	BI2024
+sulfuro de sodio	sodium sulphide	BI2024
+taurocolato de sodio	sodium taurocholate	BI2024
+ablandar	soften	BI2024
+blanda/o	soft-tempered	referido a las láminas de aluminio)	BI2024
+efecto solubilizante	solubilizing effect	BI2024
+forma soluble 	soluble form 	BI2024
+factor tisular soluble 	soluble tissue factor 	BI2024
+solución para inhalación	solution for inhalation	BI2024
+solución inyectable	solution for injection	BI2024
+disolvente	solvent	BI2024
+blanco de disolvente	solvent blank	BI2024
+disolvente para reconstitución	solvent for reconstitution	BI2024
+mezcla de disolventes	solvent mixture  	BI2024
+tamizadora sónica 	sonic sifter	BI2024
+exponer a ultrasonido	sonicate	BI2024
+sorbitol	sorbitol	BI2024
+sorción	sorption	BI2024
+caldo digerido de caseína-soja 	soybean casein digest broth 	BI2024
+espaciador	spacer 	BI2024
+límite de la especificación 	specification limit	BI2024
+especificidad	specificity	BI2024
+sin agentes patógenos especificados	specified pathogen free	BI2024
+rango del espectro	spectral range	referido a espectrofotometría)	BI2024
+región espectral	spectral region	referido a espectrofotometría)	BI2024
+espectrofotometría	spectrophotometry	BI2024
+espectro	spectrum 	referido a espectrofotometría)	BI2024
+gráfico del índice del espectro	spectrum index plot	referido a espectrofotometría)	BI2024
+enriquecer	spike 	utilizar sólo si refiere a agregar más de un elemento que ya es parte de un compuesto)	BI2024
+agregar	spike 	BI2024
+nivel de enriquecimiento  	spike level	BI2024
+matraz giratorio	spinner flask	BI2024
+espirometría 	spirometry	BI2024
+división de flujo	split	referido a cromatografía)	BI2024
+inserto para división de flujo	split liner	BI2024
+fraccionamiento	splitting	BI2024
+patrocinador	sponsor	BI2024
+tiras de esporas	spore strips	BI2024
+inspección al azar 	spot check	BI2024
+aerosol	spray	sustantivo)	BI2024
+rociar - pulverizar	spray	verbo)	BI2024
+proceso de secado por rociado	spray drying process 	BI2024
+reactivo en aerosol	spray reagent	BI2024
+suspensión de rociado	spraying suspension	BI2024
+fuerza de resorte	spring force	BI2024
+carcinoma de células escamosas 	squamous cell carcinoma	BI2024
+receptor ß2 adrenérgico	ß2-adrenergic receptor	BI2024
+estabilidad	stability 	BI2024
+perfil de estabilidad	stability profile	BI2024
+protocolo de estabilidad	stability protocol	BI2024
+muestras para análisis de estabilidad	stability samples	BI2024
+resumen y conclusiones sobre estabilidad	stability summary and conclusions	BI2024
+pruebas de estabilidad	stability testing	BI2024
+pruebas de estabilidad de productos y principios activos nuevos	stability testing of new drug substances and products	BI2024
+fase escalonada	staircase phase	BI2024
+método estándar de adición	standard addition method	BI2024
+disolución estándar de adición	standard addition solution	BI2024
+desviación estándar	standard deviation	referencia: estadística)	BI2024
+disolución estándar	standard dilution	BI2024
+error estándar	standard error	BI2024
+error estándar de la media	standard error of the mean	BI2024
+Procedimiento operativo estándar	Standard Operating Procedure	BI2024
+disolución estándar	standard solution	BI2024
+consulta normalizada del MedDRA	standardised MedDra query	BI2024
+Consultas normalizadas de búsqueda	standardised search queries	del MedDRA)	BI2024
+Escala de somnolencia de Stanford	Stanford Sleepiness Scale	BI2024
+Staphylococcus aureus	Staphylococcus aureus	BI2024
+almidón	starch	BI2024
+gránulos de partida	starter pellet	BI2024
+material inicial	starting material	BI2024
+estado estacionario	steady state	referido a la administración de un producto por vía intravenosa)	BI2024
+equilibrio	steady state	referido a la administración de un producto por vía oral)	BI2024
+ácido esteárico	stearic acid	BI2024
+vástago	stem	BI2024
+estereoisómero	stereo isomer	BI2024
+estructura estereoquímica	stereochemical structure	de un principio activo)	BI2024
+filtro estéril	sterile filter	BI2024
+ciclo de esterilización 	sterilizing cycle	BI2024
+síndrome de Stevens-Johnson	Stevens-Johnson syndrome	BI2024
+alambique	still	BI2024
+revolver	stir	BI2024
+agitar 	stir	BI2024
+revolver a mano	stir by hand	BI2024
+agitar a mano	stir by hand	BI2024
+placa agitadora	stirrer plate	BI2024
+velocidad del agitador 	stirrer speed	BI2024
+barra de agitación magnética	stirring bar	BI2024
+período de agitación	stirring time	BI2024
+solución madre	stock solution 	BI2024
+solución estándar madre	stock standard solution	BI2024
+detención de deriva	stop drift	BI2024
+condiciones del almacenamiento	storage conditions	BI2024
+recomendaciones para el almacenamiento 	storage recommendations	BI2024
+mantener en lugar seco	store in a dry place	BI2024
+cepa	strain	BI2024
+condiciones extremas	stress conditions	BI2024
+en condiciones extremas	under stress conditions	BI2024
+medios líquidos de condiciones extremas	stress liquid media	BI2024
+parámetro de condiciones extremas	stress parameter	BI2024
+estudios de estabilidad en condiciones extremas	stress stability testing	BI2024
+estudios en condiciones extremas	stress studies	BI2024
+muestra sometida a condiciones extremas 	stressed sample	BI2024
+accidente cerebrovascular	stroke	BI2024
+volumen sistólico	stroke volume	BI2024
+volumen sistólico	stroke output	BI2024
+fórmula estructural	structural formula	BI2024
+medicamento en estudio	study drug	BI2024
+grupo de estudio	study group	BI2024
+subpartida 	sub-batch 	BI2024
+subclonar	subclone	BI2024
+subconfluente	sub-confluent	BI2024
+subcutáneo 	subcutaneous	BI2024
+sujeto	subject	de un estudio clínico)	BI2024
+sublote	sublot	BI2024
+sublote	sub-lot	BI2024
+glándula submaxilar	submandibular gland	BI2024
+presentación para el registro	submission	de un producto ante las autoridades sanitarias)	BI2024
+partículas subvisibles	sub-visible particles	BI2024
+partículas subvisibles	subvisible particles	BI2024
+sucralosa	sucralose	BI2024
+sacarosa	sucrose	BI2024
+gragea	sugar coated tablet	BI2024
+sulfatación	sulfation	BI2024
+sulfona	sulfone	BI2024
+aminoácido sulfurado 	sulfur aminoacid	BI2024
+sulfafenazol	sulphaphenazole	BI2024
+ceniza sulfatada	sulphate ash	BI2024
+ceniza sulfatada	sulphated ash	BI2024
+conjugado con sulfato	sulphate conjugate	BI2024
+determinación de ceniza sulfatada	sulphated ash test	BI2024
+sulfito	sulphite	BI2024
+sulfonilurea 	sulphonylurea	BI2024
+resumen de eficacia clínica	summary of clinical efficacy	BI2024
+resumen de seguridad clínica	summary of clinical safety	BI2024
+Resumen de las características del producto  	Summary of Product Characteristics  	BI2024
+Suntest	Suntest	BI2024
+tromboflebitis superficial	superficial thrombophlebitis	BI2024
+solución sobrenadante	supernatant solution	BI2024
+solución sobresaturada	supersaturated solution	BI2024
+sobresaturación	supersaturation	BI2024
+solicitud complementaria del registro de un medicamento  	supplemental new drug application  	BI2024
+ser propicio para el desarrollo de bacterias	support bacterial growth	BI2024
+estudios respaldatorios de estabilidad	supporting stability studies 	BI2024
+documentación respaldatoria	supportive documentation	BI2024
+documentación respaldatoria	support documentation	BI2024
+resonancia de plasmones superficiales	surface plasmon resonance	BI2024
+superable	surmountable	BI2024
+sustituto	surrogate	BI2024
+como sustituto	as surrogate	BI2024
+anticuerpo monoclonal anti‑IL-36R específico sustituto de ratón 	surrogate, mouse specific anti-IL36R monoclonal antibody	BI2024
+técnicas de cultivo en suspensión	suspension culture techniques	BI2024
+ancho de barrido	sweep width	BI2024
+limitación por síntomas	symptom limitation	BI2024
+beneficio sintomático	symptomatic benefit	BI2024
+criterio de valoración de síntomas	symptomatic endpoint	BI2024
+impurezas de síntesis	synthesis impurities	BI2024
+impureza sintética 	synthetic impurity	BI2024
+vías de síntesis	synthetic pathways	BI2024
+ruta sintética	synthetic route	BI2024
+muestreo manual mediante el uso de una jeringa	syringe manual sampling	BI2024
+jarabe	syrup	BI2024
+clasificación por órganos y sistemas	system organ class 	referido al MedDRA)	BI2024
+adecuación del sistema	system suitability	BI2024
+solución para adecuación del sistema	system suitability solution	BI2024
+prueba de adecuación del sistema	system suitability test 	BI2024
+lupus eritematoso sistémico	Systemic Lupus Erytthematosus	BI2024
+tensión arterial sistólica	systolic arterial pressure	BI2024
+citocinas mediadas por linfocitos T colaboradores  [Th1/Th17]	T helper cell mediated cytokines [Th1/Th17]	BI2024
+valor t	t value	estadística)	BI2024
+índice	Table of Contents	BI2024
+comprimido	tablet	BI2024
+resistencia del comprimido al aplastamiento	tablet crushing strength	BI2024
+prensa para comprimidos	tablet press	BI2024
+herramienta de compresión	tablet tooling	para la formación de comprimidos)	BI2024
+comprimido dentro del comprimido 	tablet-in-tablet	BI2024
+resumen tabulado	tabulated summary	BI2024
+cola de cromatografía	tailing	BI2024
+factor de cola	tailing factor	BI2024
+talco	talc 	BI2024
+precinto de seguridad	tamper protection seal	BI2024
+tapa con precinto de seguridad	tamper-evident cap	BI2024
+tapa con precinto de seguridad	tamper evident cap	BI2024
+cierre con precinto de seguridad	tamper-evident closure	BI2024
+tamsulosina	tamsulosin 	BI2024
+espectrometría de masas en tándem [MS/MS]	tandem mass spectrometry [MS/MS]	BI2024
+detección por espectrometría de masa en tándem	tandem mass spectrometry detection	BI2024
+método de la tangente	tangent method 	cromatografía)	BI2024
+saturación de la cámara	tank saturation	BI2024
+calcular la tara	tare	BI2024
+dosis del estudio	target dose	BI2024
+grupo objetivo	target group	BI2024
+órganos afectados	target organs	BI2024
+peso objetivo del comprimido	target tablet weight	BI2024
+disposición del fármaco mediada por la diana	target-mediated drug disposition	BI2024
+tapones forrados con teflón	teflon lined caps	BI2024
+variación cíclica de la temperatura	temperature cycling	BI2024
+perfil de temperatura	temperature profile	BI2024
+plantilla	template 	BI2024
+estar sensible	tender	referido a la piel)	BI2024
+dolorido	tender	BI2024
+doloroso a la palpación	tender	BI2024
+dolor a la palpación	tenderness	BI2024
+dolor leve	tenderness	BI2024
+vida media terminal	terminal half-life	BI2024
+procedimiento analítico del estudio	test analytical procedure	BI2024
+artículo en estudio	test article	BI2024
+cámara de prueba	test chamber	BI2024
+medicación en estudio 	test drug	BI2024
+centro	test facility	de realización del estudio)	BI2024
+análisis del desprendimiento de partículas	test for particle shedding	BI2024
+sustancia en estudio	test item	BI2024
+análisis de la fórmula de la sustancia en estudio	test item formulation analysis 	BI2024
+método analítico	test method	BI2024
+parámetro analítico	test parameter	BI2024
+producto experimental	test product 	BI2024
+muestra de prueba 	test sample	BI2024
+sustancia en estudio	test substance	BI2024
+sistema experimental	test system	BI2024
+especificación analítica	testing specification 	BI2024
+tetrahidrato	tetrahydrate	BI2024
+tetrametilsilano	tetramethylsilane	BI2024
+talasemia	thalassemia	BI2024
+descongelación	thawing	BI2024
+peso teórico	theoretical weight 	BI2024
+clasificación terapéutica 	therapeutic classification	BI2024
+fracaso terapéutico	therapeutic failure	BI2024
+monitor de actividad térmica	thermal activity monitor	BI2024
+lámina térmica	thermofoil	BI2024
+termogravimetría	thermogravimetry	BI2024
+termogravimetría	thermo-gravimetry	BI2024
+tiamina	thiamin	BI2024
+mononitrato de tiamina	thiamine mononitrate	BI2024
+nitrato de tiamina	thiamine nitrate	BI2024
+tiacida	thiazide	BI2024
+diuréticos tiacídicos	thiazide diuretics	BI2024
+engrosamiento blancuzco del tronco pulmonar	thickened whitish truncus pulmonalis	BI2024
+agente espesante	thickening agent 	BI2024
+espesor	thickness	BI2024
+cromatografía de capa fina	thin layer chromatography	BI2024
+placa de cromatografía de capa fina	thin layer chromatography plate 	BI2024
+reductor	thinner	BI2024
+diluyente	thinner	según el contexto)	BI2024
+tioacetamida	thioacetamide	BI2024
+ácido tioglicólico	thioglycolic acid	BI2024
+Quedan prohibidas la transmisión, reproducción, publicación y toda otra utilización, total o parcial, de este documento sin autorización previa por escrito.	This document may not -in full or in part- be passed on, reproduced, published, or otherwise used without prior written permission. 	BI2024
+nitrato de torio	thorium nitrate	BI2024
+tres veces al día	three times a day [t.i.d.] / 	BI2024
+blíster de aluminio trilaminado	three-ply aluminium blister	BI2024
+estudio cruzado en tres vías	three-way crossover trial	BI2024
+umbral de toxicidad	threshold of toxicological concern	BI2024
+inhibidor de la trombina	thrombin inhibitor	BI2024
+trastornos tromboembólicos 	thromboembolic disorders 	BI2024
+tromboplastina	thromboplastin 	BI2024
+apoyo del émbolo	thumb pad	de una jeringa)	BI2024
+glándula tiroidea 	thyroid gland	BI2024
+volumen de aire durante la respiración normal	tidal volume	BI2024
+volumen de aire en reposo	tidal volume during quiet breathing	BI2024
+materiales de acondicionamiento hermético	tight packaging materials	BI2024
+hermeticidad	tightness	BI2024
+months)	time	tiempo (expresado en meses)	BI2024
+curso cronológico	time course	BI2024
+tiempo en el rango terapéutico	time in therapeutic range	BI2024
+momento de medición 	time point	BI2024
+tiempo transcurrido hasta que se termina de disolver	time to complete dissolution	BI2024
+tiempo transcurrido hasta la aparición del evento	time to event	BI2024
+tiempo hasta alcanzar la concentración máxima [tmáx]	time to reach Cmax 	BI2024
+patrón de distribución tisular	tissue dissolution pattern	BI2024
+activador de plasminógeno tisular natural	tissue plasminogen activator	BI2024
+dióxido de titanio	titanium dioxide	BI2024
+óxido de titanio	titanium oxide	BI2024
+portada	title page	BI2024
+titulador	titrant 	referido a un equipo) 	BI2024
+valorar 	titrate	BI2024
+valoración (volumétrica	titration	BI2024
+cuantitativa)	titration	BI2024
+reactivo de valoración	titration reagent	BI2024
+análisis volumétrico	titrimetric assay	BI2024
+procedimiento volumétrico	titrimetric procedure	BI2024
+volumetría	titrimetry	BI2024
+tocoferol	tocopherol	BI2024
+tocoferilo	tocopheryl	BI2024
+tolerabilidad	tolerability	BI2024
+tolueno	toluene	BI2024
+proceso de lecho fluidizado superior por pulverización 	top spray fluid bed process	BI2024
+local	topical	BI2024
+destornillador dinamométrico	torque screw	BI2024
+recuento de microorganismos aerobios totales 	total aerobic microbial count 	BI2024
+recuento bacteriano total 	total bacterial count	BI2024
+depuración total del analito en plasma 	total clearance of the analyte in plasma 	BI2024
+ácidos grasos totales	total fatty acids	BI2024
+recuento fúngico total	total fungal count	BI2024
+tiempo total de infusión	total infusion time	BI2024
+impurezas totales	total of all impurities	BI2024
+depuración plasmática total	total plasma clearance	BI2024
+which ranges from 0 to 4 of at least 3 in which 0 = clear, 3 = moderate, 4 = severe)	total score	puntuación total (en el intervalo de 0 a 4 de un mínimo de 3 en el cual 0 equivale a leve, 3 a moderado, y 4 a grave) (referido a los brotes - espesolimab)	BI2024
+toxicocinética	toxicokinetics	BI2024
+toxidermia	toxidermia	BI2024
+trazabilidad	traceability 	BI2024
+nombre comercial	tradename	BI2024
+factor de cola	trailing factor	BI2024
+transferencia	transfer 	BI2024
+línea de transferencia	transfer line	BI2024
+puerto de transferencia 	transfer port	BI2024
+factor de crecimiento transformante	transforming growth factor	BI2024
+ataque isquémico transitorio	transient ischemic attack	BI2024
+índice transicional de disnea	transition dyspnoea index	BI2024
+metal de transición	transition metal	BI2024
+transmitancia	transmittance	BI2024
+tubo de grafito calentado en forma transversal 	transversely heated graphite tube	BI2024
+grupo de tratamiento	treatment arm	BI2024
+pacientes sin tratamiento previo	treatment-näive patients	BI2024
+pacientes sin tratamiento previo	treatment-naive patients	BI2024
+respuesta al tratamiento orientado al objetivo	treat-to-target response	BI2024
+fórmula del estudio	trial formulation	BI2024
+centro del ensayo	trial site	BI2024
+triaminopiridina	triaminopyrimidin	BI2024
+tridodecilamina	tridodecylamine	BI2024
+espectómetro de masas de triple cuadrupolo	triple-stage quadrupole mass spectrometer	BI2024
+trituración	trituration	BI2024
+sustancia triturada	trituration	BI2024
+éster etílico del ácido trópico	tropic acid ethyl ester	BI2024
+troponina T	troponin T	BI2024
+concentración mínima	trough level	BI2024
+mapeo de los péptidos obtenidos por hidrólisis con tripsina 	tryptic peptide mapping	BI2024
+tubo de ensayo	tube	BI2024
+tubo de ensayo	test tube	BI2024
+cortatubos	tube cutter	BI2024
+tuberculosis	tuberculosis	BI2024
+turbio	turbid	BI2024
+turbidez	turbidity	BI2024
+turbidímetro 	turbidimeter	BI2024
+determinación turbidimétrica	turbidimetric determination	BI2024
+recambio	turnover	BI2024
+dos veces al día [b.i.d.]	twice daily [b.i.d.]	BI2024
+estudio cruzado en dos períodos	two period crossover trial	BI2024
+estudio cruzado en dos períodos	two period cross-over trial	BI2024
+estudio cruzado en dos vías	two way crossover trial	BI2024
+estudio cruzado en dos vías	two way cross-over trial	BI2024
+pico de dos cadenas	two-chain peak	BI2024
+intervalo de confianza del 95% bilateral 	two-sided 95% confidence interval	BI2024
+intervalo de tolerancia bilateral	two-sided tolerance interval	BI2024
+diabetes mellitus tipo 2	type 2 diabetes mellitus	BI2024
+diabetes mellitus tipo 2	type II diabetes mellitus	BI2024
+solución de Tyrode	Tyrode's solution	BI2024
+actividad de la cinasa de tirosina	tyrosine kinase activity	BI2024
+inhibidor de la cinasa de tirosina	tyrosine kinase inhibitor	BI2024
+ultravioleta	ultraviolet	BI2024
+barrido UV	ultraviolet scan	BI2024
+barrido UV	UV-scan	BI2024
+por barrido UV	by UV-scan	BI2024
+espectroscopía UV/VIS	UV/VIS spectroscopy	BI2024
+espectroscopía ultravioleta	ultraviolet spectroscopy	BI2024
+visible spectroscopy        espectroscopía visible	BI2024
+desenmascaramiento	unblinding	BI2024
+disolución inalterada	unchanged solution	BI2024
+comprimidos no recubiertos 	uncoated tablets	BI2024
+humedad no controlada	uncontrolled humidity	BI2024
+tiempo bruto de retención	uncorrected retention time	BI2024
+enfermedad de base	underlying disease	BI2024
+hidratado	undried	BI2024
+atribución inequívoca de las impurezas	unequivocal attribution of the impurities 	BI2024
+uniblock	uniblock	referido a un atomizador	BI2024
+uniformidad de dosis liberada	uniformity of delivered dose	(si es de una boquilla) administrada	si no es de una boquilla)	BI2024
+uniformidad de masa	uniformity of mass	BI2024
+uniformidad del peso medido	uniformity of metered mass	BI2024
+actividad de control no inhibida	uninhibited control activity	BI2024
+tuerca de unión	union nut	BI2024
+no ionizado	unionised	BI2024
+Estados Unidos [EE.UU.]	United States	BI2024
+ficha técnica de los Estados Unidos	United States package insert	BI2024
+ficha técnica de los Estados Unidos	US package insert	BI2024
+Farmacopea de los Estados Unidos	United States Pharmacopeia	BI2024
+a menos que se especifique otra indicación 	unless otherwise mentioned	BI2024
+a menos que se establezca otra indicación 	unless otherwise provided	BI2024
+sin envasar	unpacked	BI2024
+comprimidos sin protección	unprotected tablets	BI2024
+sin especificar	unspecified 	BI2024
+muestra en condiciones normales 	unstressed sample	BI2024
+efecto no deseado	unwanted effect	BI2024
+desenrollado	unwinding	BI2024
+ajuste ascendente de la dosis	up titration	BI2024
+límite normal superior	upper limit of normal	BI2024
+límite de cuantificación superior 	upper limit of quantitation 	BI2024
+vías respiratorias inferiores	upper respiratory tract	BI2024
+la parte superior de los muslos	upper thighs	BI2024
+cociente entre el límite superior y el inferior	upper-lower-ratio	BI2024
+análisis de orina	urinalysis	BI2024
+análisis de orina	urine analysis	BI2024
+sedimento urinario	urinary sediment	BI2024
+uso en poblaciones específicas	use in specific populations	BI2024
+principio del tubo en U oscilante	u-tube principle	BI2024
+determinación por UV	UV determination	BI2024
+espectrofotometría UV	UV spectrophotometry	BI2024
+secador al vacío	vacuum dryer	BI2024
+horno de vacío	vacuum oven	BI2024
+fuente de vacío	vacuum source	BI2024
+análisis al vacío	vacuum testing	BI2024
+validación	validation	BI2024
+integración de valle a valle 	valley-to-valley integration	BI2024
+valvulopatía	valvular heart disease	BI2024
+vainillina	vanillin	BI2024
+variabilidad	variability	BI2024
+detector UV de longitud de onda variable	variable wavelength UV detector	BI2024
+variación	variation	BI2024
+barniz	varnish	BI2024
+enfermedad vascular	vascular disease 	BI2024
+receptor del factor de crecimiento del endotelio vascular 	vascular endothelial cell growth factor receptor	BI2024
+tromboembolia venosa	venous thromboembolism	BI2024
+comunicación interventricular	ventricular septal defect	BI2024
+verapamilo	verapamil	BI2024
+versus [vs.]	versus 	BI2024
+muy ligeramente soluble	very slightly soluble	BI2024
+cámara de recipientes	vessel chamber	BI2024
+por las vías catabólicas 	via catabolic pathways 	BI2024
+ampolla	vial	BI2024
+frasco/ vial	vial	En el caso de Metalyse, Actilyse y Praxbind se deberá usar vial	BI2024
+molino de discos vibratorios	vibrating mill	referido a granulometrías)	BI2024
+espectroscopia vibracional	vibrational spectroscopy	BI2024
+virus	viral pathogen	BI2024
+potencial evocado visual	visual evoked potential	BI2024
+inspección visual	visual test	BI2024
+funciones fisiológicas vitales	vital physiological functions	BI2024
+antagonista de la vitamina K	vitamin K antagonist	BI2024
+volumen [vol.]	volume 	BI2024
+volumen de distribución en estado estacionario 	volume of distribution at steady state 	BI2024
+volumen por volumen [v/v]	volume per volume [v/v]	BI2024
+matraz aforado	volumetric flask	BI2024
+solución volumétrica	volumetric solution	BI2024
+valoración volumétrica /análisis volumétrico	volumetric titration	BI2024
+valoración volumétrica /análisis volumétrico	titration	BI2024
+sello	wafer	BI2024
+flexión, flexión asimétrica fuera de plano	wag	en espectrometría)  	BI2024
+eximir del cumplimiento 	waive	BI2024
+warfarina	warfarin	BI2024
+solución de enjuague	wash solution	BI2024
+período de depuración farmacológica	wash-out	BI2024
+período de depuración farmacológica	washout	BI2024
+contenido de agua	water content	BI2024
+agua para inyectable	water for injection	BI2024
+absorción de agua	water uptake	BI2024
+baño María	water-bath	BI2024
+baño María	waterbath	BI2024
+longitud de onda	wavelength 	BI2024
+pesafiltro	weighing bottle	BI2024
+platillo de balanza	weighing dish	BI2024
+peso	weight	BI2024
+pesaje	weight	BI2024
+pesar los cartuchos con un margen de precisión de 1 mg	weight the cartidges to within 1 mg	en cromatografía)	BI2024
+peso/volumen [p/v]	weight/volume [w/v]	BI2024
+peso/peso [p/p]	weight/weight [w/w]	BI2024
+placa de pocillos	well plate	BI2024
+número de onda	Wellenzahlen	BI2024
+granulación húmeda	wet granulation	BI2024
+área de humedad	wetness area	BI2024
+roncha 	wheal	BI2024
+leucocito	white blood cells	BI2024
+blíster de aluminio de color blanco opaco	white opaque aluminium blister	BI2024
+precinto de seguridad de polietileno blanco	white polyethylene tamper	BI2024
+blanco a blanquecino	white to off white	referido al color)	BI2024
+sangre total	whole blood	BI2024
+ratas silvestres	wildtype rats	BI2024
+bobinado	winding	de un rollo de aluminio)	BI2024
+ventana -por ejemplo: ventana de pH 	window	BI2024
+alambre	wire	referido a las mallas de un tamiz)	BI2024
+rata Wistar	Wistar rat	BI2024
+extraer	withdraw 	referido a un principio activo)	BI2024
+retiro	withdraw 	de una persona respecto de un estudio clínico)	BI2024
+abstinencia y efecto rebote	withdrawal and rebound	BI2024
+referido al sabor de un medicamento)	woodberry	BI2024
+frutos del bosque	wood berry	referido al sabor de un medicamento)	BI2024
+banco de células de trabajo	working cell bank	BI2024
+norma de referencia de trabajo	working reference standard	BI2024
+temperatura de trabajo	working temperature	BI2024
+variación de trabajo compartido	worksharing variation	BI2024
+procesamiento	workup 	BI2024
+procesamiento del tubo de toma de muestras	workup of the sample collection tube	BI2024
+en el peor de los casos	worst-case scenario	BI2024
+en el peor de los casos	worst case scenario	BI2024
+resumen descriptivo	written summary	BI2024
+injerto heterólogo 	xenograft	BI2024
+lámpara de xenón	xenon lamp	BI2024
+difracción de rayos X	X-ray diffraction	BI2024
+mohos y levaduras 	yeasts and moulds	BI2024
+obtener de manera sistemática	yield routinely 	BI2024
+ordenada al origen	y-intercept	en un gráfico de coordenadas)	BI2024
+zeaxantina	zeaxanthin	BI2024
+cinética de orden cero	zero-order kinetics	BI2024
+zinc	zinc	BI2024
+sulfato de zinc	zinc sulphate 	BI2024
+síndrome de Zollinger-Ellison 	Zollinger-Ellison-Syndrome	BI2024
+Zorbax Bonus	Zorbax Bonus 	cromatografía)	BI2024
+rata Zucker obesa diabética 	Zucker Diabetic Fatty rat	BI2024
+-------- 2 - Portada	BI2024
+MODELO DE PORTADA		BI2024
+Datos de estabilidad del producto farmacéutico. Estudios de estabilidad acelerada y a largo plazo		BI2024
+		Núm. del documento: U09-1716-02	BI2024
+Código de BI		09/095-02	BI2024
+09/095-02	Núm. del estudio:	BI2024
+Sustancia(s) en estudio:		Telmisartán	BI2024
+Identificación del material:		85029	BI2024
+Título:		BI2024
+		Comprimidos multicapa de telmisartán	BI2024
+		de 80 mg 	BI2024
+Autor(es):		BI2024
+		Michael Meier, Ph.D.	BI2024
+Instituto(s)		Boehringer Ingelheim Pharma GmbH & Co. KG Birkendorfer Str. 65, 88397 Biberach an der Riss, Alemania.	BI2024
+Boehringer Ingelheim Pharma GmbH & Co. KG Birkendorfer Str. 65, 88397 Biberach an der Riss, Alemania.	Compañía:	BI2024
+Departamento(s):		Departamento de Ciencias Analíticas	BI2024
+Fecha del informe:		12 de octubre de 2023                   Página 1 de 36	BI2024
+Información confidencial protegida por derechos de propiedad intelectual.  © 2023 Boehringer Ingelheim International GmbH o sus empresas afiliadas.Todos los derechos reservados.		BI2024
+Quedan prohibidas la transmisión, la reproducción, la publicación y toda otra utilización, total o parcial, del presente sin autorización previa por escrito.		BI2024
+-------- 3 - Pautas	BI2024
+Pautas básicas de formato y estilo	BI2024
+A. Estilo	BI2024
+1. Se ruega no dejar términos en inglés si es posible traducirlos y evitar el uso de anglicismos.	BI2024
+Escherichia coli).	2. Si se deja un término en inglés, por favor escribirlo en cursiva. Proceder con el mismo criterio para todo otro idioma, como por ejemplo: latín	BI2024
+3. Ante una disyuntiva sobre un determinado uso o norma, consultar a la Coordinadora de BI para llegar a un acuerdo.	BI2024
+4. Para los nombres del principio activo, solicitamos que se respete el original. Si en el documento original aparece con mayúscula, en la traducción deberá estar con mayúscula y si en el documento original aparece con minúscula, en la traducción deberá estar con minúscula.	BI2024
+5. Los accidentes y los nombres geográficos van en español, como regla general. Los nombres propios no se traducen.	BI2024
+en lugar de punto). No obstante, para cifras a partir de mil por favor no agregar el punto (a pedido de los colegas de México).	6. Los números decimales en español van con coma	BI2024
+7. El criterio estilístico básico es recurrir a las colocaciones, las frases y los términos más idiomáticos, como también optar por locuciones latinas siempre que sea posible, de modo de lograr un texto final en español que sea preciso y se lea con naturalidad.	BI2024
+de la Argentina y de otros países de América Latina), del cual requerimos su autorización. Por consiguiente, debemos procurar que nuestro lector se encuentre con una redacción fluida y que además no se plantee interrogantes respecto de la terminología utilizada.	8. Recomendamos tener en cuenta que el lector de las traducciones de la documentación del área regulatoria es un funcionario de una autoridad sanitaria	BI2024
+B. Formato	BI2024
+1. Salvo disposición en contrario, el formato de la traducción deberá respetar todos los detalles del original. En el caso de que en un cuadro o en una tabla con referencias no sea posible sobreescribir el texto, por favor dejar las referencias en inglés y agregar la traducción debajo. 	BI2024
+2. Sugerimos que el índice, las viñetas, etc. se generen con las funciones automáticas de Word.	BI2024
+3. Recomendamos pasar el corrector ortográfico luego de haber terminado la última etapa de control de calidad y antes de hacer la entrega final de los textos a BI.	BI2024
+3. Solicitamos entregar las traducciones en Word.	BI2024
+4. Las referencias bibliográficas se transcriben, no se traducen.	BI2024
+C. Siglas	BI2024
+usarlas en español), como por ejemplo ADN. En los casos en que se pueda evitar el uso de una sigla, se recomienda evitarlo. 	1. Dejar las siglas en inglés y consignar su significado en español, entre paréntesis, la primera vez que aparecen. Excepción: las siglas que se conocen en español	BI2024
+aunque sí sus formas extendidas). Excepciones: traducciones ya existentes al español de uso generalizado (ej.: ICH-ICH / WHO-OMS). 	2. Las siglas referidas a organismos internacionales no se traducen	BI2024
+RELY, por ejemplo). 	3. Las siglas de los nombres de los ensayos clínicos no se traducen	BI2024
+4. Las abreviaturas no se pluralizan en español.	BI2024
+5. Las listas de las siglas que aparecen en los originales se deben consignar en la traducción por orden alfabético.	BI2024
+-------- 4 - Fuentes	BI2024
+Fuentes de consulta y de referencia recomendadas	BI2024
+Diccionario crítico de dudas inglés -español de medicina, Navarro, Mc Graw Hill.	BI2024
+Diccionario panhispánico de términos médicos: www.dptm.es  	BI2024
+Guía de estilo de la RAE: www.rae.es	BI2024
+Diccionario de la Real Academia Española: www.rae.es	BI2024
+Diccionario Panhispánico de Dudas, Real Academia Española, Santillana	BI2024
+Revista Panacea: https://www.revistapanacea.com/	BI2024
+Tremédica: https://www.tremedica.org	BI2024
+Medline plus: www.nlm.nih.gov/medlineplus	BI2024
+Organización Mundial de la Salud: www.who.int	BI2024
+ANMAT: www.anmat.gov.ar	BI2024
+FDA: www.fda.org	BI2024
+BI: www.boehringer-ingelheim.com	BI2024
+Termium: https://www.btb.termiumplus.gc.ca/	BI2024
+intramed.net	BI2024
+Pub Med: www.https://pubmed.ncbi.nlm.nih.gov	BI2024
+Interactive Terminology for Europe: iate.europa.eu 	BI2024
+European Medicines Agency: ema.europa.eu	BI2024
+US Pharmacopea: usp.org	BI2024
+Red PARF):   https://www.paho.org/es/red-parf-red-panamericana-para-armonizacion-reglamentacion-farmaceutica	Red Panamericana para la Armonización de la Reglamentación Farmacéutica	BI2024
+-------- 5 - Productos	BI2024
+PRODUCTOS VIGENTES	BI2024
+Principios activos y nombres comerciales	BI2024
+Español	Inglés	BI2024
+Giotrif)	Afatinib	afatinib	BI2024
+Actilyse)	Alteplase	alteplasa	BI2024
+Pradaxa)	Dabigatran	dabigatrán etexilato	BI2024
+Jardiance)	Empagliflozin	empagliflozina	BI2024
+Glyxambi)	Empagliflozin + linagliptin	empagliflozina + linagliptina	BI2024
+Jardiance Duo - Synjardy)	Empagliflozin + metformin	empagliflozina + metformina	BI2024
+Praxbind)	Idarucizumab	idarucizumab 	BI2024
+Atrovent)	Ipratropium	ipratropio 	BI2024
+Berodual)	Ipratropium + Fenoterol	ipratropio + fenoterol	BI2024
+Trayenta)	Linagliptin	linagliptina	BI2024
+Jentadueto - Trayenta Duo - Trayentamet)	Linagliptin + Metformin	linagliptina + metformina	BI2024
+Mobic)	Meloxicam	meloxicam	BI2024
+Viramune)	Nevirapine	nevirapina	BI2024
+Vargatef, Ofev)	Nintedanib	nintedanib	BI2024
+Mirapex - Sifrol)	Pramipexole	pramipexol	BI2024
+Spevigo)	Spesolimab	espesolimab	BI2024
+Micardis)	Telmisartan	telmisartán	BI2024
+Micardis Amlo	Telmisartan + Amlodipine	telmisartán + amlodipina	BI2024
+telmisartán + amlodipina	Twysnta)	BI2024
+Micardis Plus)	Telmisartan +  Hydrochlorotiazide	telmisartán + hidroclorotiazida	BI2024
+Metalyse)	Tenecteplase	tenecteplasa	BI2024
+Spiolto)	Tiotropium + Olodaterol	tiotropio + olodaterol	BI2024
+Spiriva)	Tiotropium bromide	bromuro de tiotropio	BI2024
+Última actualización de los datos: diciembre de 2023.	BI2024
+aPTT	aPTT	BI2024
+A/G	A/G	BI2024
+modelo ANCOVA	ANCOVA model	BI2024
+BL-AP	BL-AP	BI2024
+A-V	A-V	BI2024
+b.i.d.	b.i.d.	BI2024
+Crl:NMRI	Crl:NMRI	BI2024
+Crl:WI(Han)	Crl:WI(Han)	BI2024
+C-HPLC	C-HPLC	BI2024
+aprox.	ca	BI2024
+ufc	cfu	BI2024
+CC/CP	CC/CP	BI2024
+unid.	ct	BI2024
+cis	cys	BI2024
+P450	CYP-450	BI2024
+DoE	DoE	BI2024
+EGFR-TKI	EGFR-TKI	BI2024
+Ph. Eur.	Ph. Eur.	BI2024
+BfArM	BfArM	de Alemania	BI2024
+Fa	Fa	BI2024
+IC50	IC50	BI2024
+IgA	IgA	BI2024
+IgG	IgG	BI2024
+ICP-OES	ICP-OES	BI2024
+IL-6	IL 6	BI2024
+IL-36	IL36	BI2024
+i.d.	i.d.	BI2024
+i.v.	i.v.	BI2024
+kg	kg	BI2024
+LcK	LcK	BI2024
+HPLC - MS/MS	HPLC - MS/MS	BI2024
+Vmáx	Vmax	BI2024
+C(máx,ss)	C(max,ss)	BI2024
+Cmáx	Cmax	BI2024
+MedDRA	MedDRA	BI2024
+µg	µg	BI2024
+µM	µM	BI2024
+mg	mg	BI2024
+ml	ml	BI2024
+min	min	BI2024
+ng	ng	BI2024
+nm	nm	BI2024
+nM	nM	BI2024
+No corr.	N/A	BI2024
+no det.	N/D	BI2024
+s.e.	n.t.	BI2024
+ppm	ppm	BI2024
+v.o.	p.o.	BI2024
+pEGFR	pEGFR	BI2024
+ppp	ppp	BI2024
+pVTEp	pVTEp	BI2024
+GPPASI 75	GPPASI 75	BI2024
+recup.	recov.	BI2024
+h.r.	r.h.	BI2024
+vol. rel.	V rel	BI2024
+sTF	sTF	BI2024
+Th1/Th17	Th1/Th17	BI2024
+MS/MS	MS/MS	BI2024
+tmáx	tmax	BI2024
+b.i.d.	b.i.d.	BI2024
+espectroscopía UV/VIS	UV/VIS spectroscopy	BI2024
+uLOQ	uLOQ	BI2024
+vs.	vs	BI2024
+vol.	vol	BI2024
+Vss	Vss	BI2024
+v/v	v/v	BI2024
+p/v	w/v	BI2024
+p/p	w/w	BI2024
+
