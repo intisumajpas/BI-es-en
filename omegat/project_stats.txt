@@ -1,0 +1,16 @@
+12/8/24, 10:59 PM
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	     236	 3280	                  18967	                 22038	     3	
+Remaining:       	     202	 3141	                  18290	                 21256	     3	
+Unique:          	     195	 3092	                  17954	                 20875	     3	
+Unique Remaining:	     181	 3040	                  17702	                 20585	     3	
+
+
+Individual File Statistics:
+
+File Name                                                                  	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+2. Guia para la implementacion Res. 20240153221 de 2024 Gestión de PSUR.odt	            70	                58	             66	                       55	       1019	            969	        1014	                   965	                         5820	                             5576	                          5796	                                    5554	                        6768	                            6486	                         6742	                                   6462	
+2. Guia para la implementacion Res. 20240153221 de 2024 PGR.odt            	            77	                68	             62	                       59	       1110	           1071	        1022	                  1019	                         6417	                             6221	                          5931	                                    5921	                        7474	                            7248	                         6916	                                   6906	
+2. Guía para la implementación - Estudios Postcomercialización.odt         	            89	                76	             67	                       67	       1151	           1101	        1056	                  1056	                         6730	                             6493	                          6227	                                    6227	                        7796	                            7522	                         7217	                                   7217	
