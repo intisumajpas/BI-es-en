@@ -1,0 +1,3157 @@
+Español - lengua meta	English - lengua fuente	Comentarios		
+respiración diafragmática	abdominal breathing	BI2025		
+perímetro abdominal	abdominal girth	BI2025		
+capacidad para conducir y usar máquinas	ability to drive and use machines	BI2025		
+biodisponibilidad absoluta	absolute bioavailability	BI2025		
+estructura absoluta	absolute structure	BI2025		
+absorbancia	absorbance			
+ABS	ABS	BI2025		
+factor de absorbancia	absorbance factor	BI2025		
+absorción	absorption	BI2025		
+banda de absorción	absorption band	BI2025		
+absorción, distribución, metabolismo, y eliminación	absorption, distribution, metabolism, excretion			
+ADME	ADME	BI2025		
+coeficiente de absortividad	absorptivity coefficient	BI2025		
+goma arábiga 	acacia	BI2025		
+estudios de estabilidad en condiciones aceleradas	accelerated stability studies	BI2025		
+niveles aceptables de calidad	acceptable quality levels			
+NAC	AQL	BI2025		
+	acceptance criterion	criterio de aceptación	BI2025	
+criterios de aceptación	acceptance criteria 	BI2025BI2025		
+factor de acumulación	accumulation factor	BI2025		
+exactitud	accuracy	BI2025		
+fragmento acéntrico	acentric fragment	BI2025		
+acesulfamo potásico	acesulfame potassium	BI2025		
+acetanilida	acetanilide	BI2025		
+ácido acético glacial	acetic acid glacial	BI2025		
+anhídrido acético	acetic anhydride	BI2025		
+acetona	acetone	BI2025		
+acetonitrilo	acetonitrile	BI2025		
+ ácido acetilsalicílico	acetylsalicylic acid			
+AAS	ASA	BI2025		
+dolor	ache	(por lo general, es un dolor continuo y fijo en la cabeza, la espalda, los oídos, las muelas o el estómago; ver "pain")	BI2025	
+concentración alcanzada	achieved concentration	BI2025		
+muestra sometida a alteración química por ácido	acid stressed sample	BI2025		
+grupo de picos de especies ácidas	acidic peak group			
+APG	APG	BI2025		
+solución ácida	acidic solution	BI2025		
+acidificante	acidifier	BI2025		
+síndrome de inmunodeficiencia adquirida	acquired immunodeficiency syndrome			
+SIDA  	AIDS	BI2025		
+tiempo de tromboplastina parcial activada	activated partial thromboplastin time			
+aPTT	aPTT	BI2025		
+mutación activadora 	activating mutation	BI2025		
+Óxido de aluminio activo, ácido	active aluminium oxide, acid	BI2025		
+comparador activo	active comparator	BI2025		
+entidad activa	active entity	BI2025		
+contenido del principio activo	active ingredient content	BI2025		
+degradación del principio activo	active ingredient degradation	BI2025		
+rendimiento de principio activo	active ingredient yield	BI2025		
+metabolito activo	active metabolite	BI2025		
+ingrediente farmacéutico activo	active pharmaceutical ingredient	BI2025		
+principio activo	active pharmaceutical ingredient	BI205		
+API	API			
+principio activo	active substance	BI2025		
+principio activo	drug substance	BI2025		
+principio activo	active ingredient	BI2025		
+grupo de tratamiento activo	active treatments group	BI2025		
+infección de tuberculosis activa 	active tuberculosis infection	BI2025		
+impurezas reales	actual impurities	BI2025		
+	actuate	pulsar, accionar	BI2025	
+accionamiento, pulsación	actuation	(un aerosol)	BI2025BI2025	
+síndrome coronario agudo	acute coronary syndrome			
+ACS	ACS	BI2025		
+brote agudo 	acute flare	BI2025		
+brote agudo 	flare	BI2025		
+agregar	add 	BI2025		
+anexo/s	addendum	BI2025		
+anexo/s	addenda	BI2025		
+aditivo	additive	BI2025		
+adenosina difosfato	adenosine diphosphate	BI2025		
+adenosina trifosfato	adenosine triphosphate	BI2025		
+evaluar	adjudicate	BI2025		
+comité evaluador	adjudication committee	BI2025		
+auxiliar	adjuvant	BI2025		
+complementario	adjuvant	BI2025		
+tratamiento complementario	adjuvant therapy	BI2025		
+tratamiento posquirúrgico	adjuvant therapy	BI2025		
+administrar por sonda nasogástrica	administer by gavage	BI2025		
+administrar por vía oral 	administer orally	BI2025		
+administración 	administration	BI2025		
+glándulas suprarrenales	adrenal glands	BI2025		
+receptor adrenérgico	adrenoreceptor	BI2025		
+adriamicina	adriamycin	BI2025		
+adsorción	adsorption	BI2025		
+absorción y tránsito gastrointestinal en compartimentos, versión avanzada	advanced compartment absorption and transit			
+ACAT   	ACAT	BI2025		
+modelo de absorción y tránsito gastrointestinal en compartimentos, versión avanzada	advanced compartment absorption and transit model	BI2025		
+modelo ACAT 	ACAT model 	BI2025		
+agente fortuito	adventitious agent	BI2025		
+reacción adversa al medicamento	adverse drug reaction			
+RAM	ADR	BI2025		
+evento adverso	adverse event			
+EA	AE	BI2025		
+reacción adversa	adverse reaction	BI2025		
+aireación	aeration	(referida a un compuesto)	BI2025	
+partícula fina y aerodinámica	aerodynamic fine particle 	BI2025		
+aflatoxina	aflatoxin	BI2025		
+grumos	agglomerates	(referido a las partículas)	BI2025	
+agregómetro	aggregometer	BI2025		
+factores de concordancia 	agreement factors	BI2025		
+objetivo	aim	BI2025		
+velocidad del flujo de aire	air flow rate	BI2025		
+sello de orificio del aire	air hole seal	BI2025		
+tamizadora a chorro de aire	air jet sieve	BI2025		
+suministro de aire	air supply	BI2025		
+tubo de suministro de aire	air supply tube	BI2025		
+secar al aire 	air-dry	BI2025		
+limitación del flujo de aire	airflow limitation	BI2025		
+vías respiratorias	airway	BI2025		
+obstrucción de las vías respiratorias	airway obstruction	BI2025		
+obstrucción de las vías respiratorias	obstruction of airways	BI2025		
+criterio de información de Akaike	Akaike information criterion			
+AIC	AIC	BI2025		
+alanina aminotransferasa	alanine aminotransferase			
+ALT	ALT	BI2025		
+rata albina	albino rat	BI2025		
+albúmina/globulina	albumin/globulin			
+A/G	A/G	BI2025		
+relación albúmina-globulina	albumin/globulin ratio	BI2025		
+aldehído	aldehyde	BI2025		
+aldolasa	aldolase	BI2025		
+alifático	aliphatic 	BI2025		
+alícuotas de las soluciones	aliquots of the solutions	BI2025		
+rojo alizarina 	alizarin red 	BI2025		
+metales alcalinos	alkali metals	BI2025		
+metales alcalinotérreos	alkaline earths	BI2025		
+fosfatasa alcalina	alkaline phosphatase			
+FA	ALP	BI2025		
+alquino	alkyne	BI2025		
+alergeno	allergen 	BI2025		
+alfa-tocoferol acetato todo racémico	all-rac-alpha-tocopheryl acetate 	BI2025		
+alfa-tocoferol acetato	alpha tocopherol acetate	BI2025		
+propelente alternativo	alternate propellant			
+PA	AP	BI2025		
+blíster de aluminio/aluminio	alu/alu blister	BI2025		
+lámina de aluminio	aluminium foil	BI2025		
+laca de aluminio	aluminium lake	BI2025		
+laminado de aluminio	aluminium laminated 	BI2025		
+matraz aforado de vidrio de color ámbar	amber volumetric glass flask	BI2025		
+condiciones de temperatura y humedad ambiente	ambient conditions	BI2025		
+modificar	amend	(referido a estudios clínicos)	BI2025	
+la prueba de Ames arrojó un resultado negativo	Ames negative	BI2025		
+prueba de Ames	Ames test	BI2025		
+	amid	amida	BI2025	
+grupo amida	amide group	BI2025BI2025		
+amidina 	amidin 	BI2025		
+cloruro de amina	amine chloride	BI2025		
+aminobenzoico	aminobenzoyl	BI2025		
+amoníaco	ammonia	BI2025		
+amonio	ammonium	BI2025		
+acetato de amonio	ammonium acetate	BI2025		
+fosfato diácido de amonio 	ammonium dihydrogen phosphate	BI2025		
+fosfato ácido de amonio 	ammonium hydrogen phosphate	BI2025		
+sulfato de amonio	ammonium sulphate	BI2025		
+	analog to digital converter	convertidor analógico a digital	BI2025	
+convertidor A/D 	A/D converter	BI2025BI2025		
+análisis de covarianza	analysis of covariance			
+ANCOVA	ANCOVA	BI2025		
+modelo de análisis de covarianza	analysis of covariance modelling	BI2025		
+BI2025	analysis of covariance model			
+modelo ANCOVA	ANCOVA model	BI2025		
+análisis de varianza 	analysis of variance			
+ANOVA	ANOVA	BI2025		
+analista	analyst 			
+gerente	analyst	decidir según el contexto o consultar, BI2025		
+analito 	analyte 	BI2025		
+balanza analítica	analytical balance	BI2025		
+datos analíticos	analytical data 	BI2025		
+Departamento de Desarrollo Analítico	Analytical Development Department	(Analytical Development Department) 	BI2025	
+umbral de evaluación analítica	analytical evaluation threshold	BI2025		
+grado analítico	analytical grade	BI2025		
+precisión analítica 	analytical precision 	BI2025		
+procedimiento analítico	analytical procedure	BI2025		
+especificación analítica	analytical specification	BI2025		
+anafilaxis	anaphylaxis	BI2025		
+química terapéutica anatómica	anatomical therapeutic chemical			
+ATC	ATC	BI2025		
+impactador de cascada Andersen	Andersen Cascade Impactor	BI2025		
+bloqueador del receptor de angiotensina II	angiotensin II receptor blocker			
+ARB	ARB	BI2025		
+enzima convertidora de angiotensina	angiotensin-converting enzyme			
+ACE	ACE	BI2025		
+sección angular	angular section	BI2025		
+anhídrido	anhydride	BI2025		
+anhidra/o	anhydrous	BI2025		
+sal anhidra	anhydrous salt	BI2025		
+anilina	aniline	BI2025		
+bioterio	animal facility	BI2025		
+cuidado de los animales	animal husbandry	BI2025		
+intercambio aniónico	anion exchange	BI2025		
+brecha aniónica	anion gap	BI2025		
+reactivo de anisaldehído	anisaldehyde reagent	BI2025		
+anticoncepción anovulatoria	anovulatory contraception	BI2025		
+efecto antagonista	antagonistic effect	BI2025		
+antiadherente	anti-adherent	BI2025		
+antiadherente	antiadherent	BI2025		
+antibióticos 	antibiotics	BI2025		
+anticuerpo	antibody	BI2025		
+anticoagulante	anticoagulant			
+AC	AC	BI2025		
+tratamiento anticoagulante 	anticoagulant therapy	BI2025		
+anticonvulsivo 	anticonvulsant 	BI2025		
+anticuerpos antifármaco	anti-drug antibodies			
+ADA	ADA	BI2025		
+anticuerpo antifosfolípido 	antiphospholipid antibody	BI2025		
+antiproliferativo	anti-proliferative	BI2025		
+tratamiento antirretroviral 	antiretroviral therapy 	BI2025		
+antisepsia	antisepsis	BI2025		
+antidisolvente	antisolvent	BI2025		
+prueba de Ápgar	Apgar test	BI2025		
+apical a basolateral	apical to basolateral	BI2025		
+apical a basolateral y basolateral a apical	AP-BL	BI2025		
+equipo	apparatus	BI2025		
+aspecto	appearance	BI2025		
+aspecto	aspect 	BI2025		
+Aspecto. Resistencia al aplastamiento. Contenido de agua. Disolución. Degradación del principio activo. Valoración.	Appearance. Resistance to Crushing. Water Content. Dissolution. Active ingredient degradation. Assay.	BI2025		
+anexo	appendix	BI2025		
+anexos	appendices	BI2025		
+solicitante	applicant	BI2025		
+agentes orales aprobados para su utilización contra la diabetes	approved oral antidiabetic agents	BI2025		
+dosis letal aproximada	approximate lethal dose			
+DLA	ALD	BI2025		
+aprotinina	aprotinin	BI2025		
+recubrimiento acuoso	aqueous film-coating	BI2025		
+humor acuoso	aqueous fluid	BI2025		
+sistema homogéneo acuoso	aqueous one-phase system	BI2025		
+ácido araquidónico	arachidonic acid			
+AA	AA	BI2025		
+aragonita	aragonite	BI2025		
+área bajo la curva	area under the curve			
+AUC	AUC	BI2025		
+área bajo la curva entre 0 y las 24 horas posteriores a la dosis	area under the curve from time zero to 24 h post-dose	BI2025		
+AUC (0‑24h)	AUC (0‑24h)	BI2025		
+área bajo la curva entre 0 y las 24 horas posteriores a la dosis en condiciones de equilibrio  	area under the curve from time zero to 24 h post-dose, at steady‑state conditions  	BI2025		
+AUC (0‑24h,ss)  	AUC (0‑24h,ss)	BI2025		
+área bajo la curva entre cero e infinito 	area under the curve from time zero to infinite 	BI2025		
+AUC0-inf 	AUC0-inf	BI2025		
+arginina	arginine	BI2025		
+media aritmética	arithmetic mean	(en estadística)	BI2025	
+grupo	arm	BI2025		
+presión arterial	arterial blood pressure	BI2025		
+error de lectura 	artifact	BI2025		
+tal cual	as is  	BI2025		
+ácido ascórbico	ascorbic acid	BI2025		
+	ash	cenizas	BI2025	
+reducir a cenizas	to ash	BI2025BI2025		
+aspartamo	aspartame	BI2025		
+aspartato aminotransferasa	aspartate aminotransferasa			
+AST	AST	BI2025		
+aspecto 	aspect	BI2025		
+aspecto 	appearance	BI2025		
+contenido, valoración	assay	(referido a determinaciones cuantitativas)	BI2025	
+ensayo, prueba, análisis	assay	(en sentido general)	BI2025	
+evaluación - evaluar mediante visualización vertical contra un fondo blanco 	assessment - to carry out the assessment by viewing vertically against a white background	BI2025		
+una hora antes de la dosis	at 1hour pre-dose	BI2025		
+a escala piloto	at pilot scale	BI2025		
+a escala de producción	at production scale	BI2025		
+de manera aleatoria	at random	BI2025		
+fibrilación auricular	atrial fibrillation			
+FA	AF	BI2025		
+comunicación interauricular	atrial septal defect	BI2025		
+auriculoventricular	atrio-ventricular			
+A-V	A-V	BI2025		
+reflexión total atenuada	attenuated total reflection			
+RTA	ATR	BI2025		
+hiperuricemia	augmented blood uric acid levels	BI2025		
+balanza de alimentación automática	automatic feeder balance	BI2025		
+autofosforilación	autophosphorylation	BI2025		
+procesador de muestras automático 	autosampler	BI2025		
+umbral de validación automática	autothreshold validation	BI2025		
+coadyuvante	auxiliary agent	BI2025		
+promedio	average			
+prom.	AVG	BI2025		
+área promedio del pico	average peak area	(cromatografía)	BI2025	
+peso promedio	average weight	BI2025		
+virus de la eritoblastosis aviar 	avian erythroblastosis virus 	BI2025		
+azaperona	azaperone	BI2025		
+destilación azeotrópica	azeotropic distillation	BI2025		
+superficie de fondo	background lawn	BI2025		
+medicación de base	background medication	BI2025		
+espectros de fondo	background scan	BI2025		
+espectros de fondo	background spectrum	BI2025		
+contenido de agua subyacente	background water content	BI2025		
+bacterias	bacterial pathogens	[Hay algunas bacterias que no generan enfermedad	(no patógenas). Se podría aclarar al inicio y luego solo poner “bacterias”]. BI2025	
+receptor de reconocimiento de patrones bacterianos 	bacterial pattern recognition receptor 	BI2025		
+análisis de mutación inversa bacteriana (prueba de Ames)	bacterial reverse mutation assay (Ames Test)	BI2025		
+filtro para la retención de las bacterias	bacteria-retaining filter	BI2025		
+toxicidad bacteriana	bacteriotoxicity	BI2025		
+sistema de expresión basado en los baculovirus	baculovirus expression vector system	(de proteínas)	BI2025	
+	bar	bar	BI2025	
+bares	bars 	(referido a la unidad de medición)	BI2025BI2025	
+sometido a alteración química por base	base stressed	BI2025		
+muestra sometida a alteración química por base	base stressed sample	BI2025		
+inicial	baseline	(referido a un valor)	BI2025	
+línea de base	baseline	(referido a cromatografía)	BI2025	
+índice de disnea inicial	baseline dyspnea index	BI2025		
+mutaciones por sustitución de pares de bases 	base-pair substitutions	BI2025		
+perro Beagle de BASF	BASF Beagle dog	BI2025		
+grupo de picos de especies básicas 	basic peak group			
+BPG	BPG	BI2025		
+dispositivo de sujeción de las cestas 	basket apparatus	BI2025		
+método de cesta	basket method	BI2025		
+partida	batch	(a diferencia de "lot", se refiere al producto que se produce en grandes cantidades de una sola vez)	BI2025	
+número de partida	batch number	BI2025		
+es el registro de todo el proceso de fabricación de una partida (que también sería un lote) de un producto, pero en este caso se lo conoce como batch record, nunca lot record.	batch record	BI2025		
+vaso de precipitado	beaker	BI2025		
+divisor de haz	beamsplitter	BI2025		
+divisor de haz	beam splitter	BI2025		
+prueba rápida	bedside test	BI2025		
+debajo del límite de cuantificación	below quantification limit			
+BQL	BQL	BI2025		
+aguja curva	bent needle	BI2025		
+cloruro de benzalconio	benzalkonium chloride	BI2025		
+solución de cloruro de benzalconio	benzalkonium chloride solution	BI2025		
+benzoxazinona	benzoxazinone	BI2025		
+alcohol bencílico	benzyl alcohol	BI2025		
+benzoato bencílico	benzyl benzoate	BI2025		
+en el mejor de los casos	best-case scenario	BI2025		
+en el mejor de los casos	best case scenario	BI2025		
+beta caroteno	beta carotene	BI2025		
+agonistas beta2 	beta2 agonists	BI2025		
+Betatab	Betatab	(referido a la marca registrada)	BI2025	
+borde biselado	bevel-edged	BI2025		
+borde biselado	bevel edged 	BI2025		
+número de BI	BI number	BI2025		
+logo de la torre de BI	BI tower logo 	BI2025		
+Código de BI/Núm. de estudio	BI-Study No. 	BI2025		
+valoración biamperométrica de Karl Fischer	biamperometric Karl Fischer titration	BI2025		
+bicapa	bilayered	BI2025		
+bicapa	bi-layered	BI2025		
+bacteria gramnegativa resistente a la bilis	bile-tolerant gram-negative bacteria	BI2025		
+eliminación biliar	biliary excretion	BI2025		
+mezclador del contenedor	bin blender	BI2025		
+mezclador del contenedor	bin mixer	BI2025		
+unión (por ej.: la unión de espesolimab al IL-36R) 	binding (e.g.: binding of spesolimab to IL-36R) 	BI2025		
+aglutinante	binding agent	(referido a los comprimidos)	BI2025	
+aglutinante	binder	(referido a los comprimidos)	BI2025	
+biodisponibilidad	bioavailability	BI2025		
+biocarga	bioburden	BI2025		
+estudio de bioequivalencia	bioequivalence study	BI2025		
+biomarcadores	biomarkers	BI2025		
+Sistema de Clasificación Biofarmacéutica 	Biopharmaceutical Classification System 	BI2025		
+BCS 	BCS 	BI2025		
+cultivos en biorreactores	bioreactor cultures	BI2025		
+medios biorrelevantes	biorelevant media	BI2025		
+biotina	biotin	BI2025		
+biotransformación	biotransformation	BI2025		
+fecha de la primera autorización	birth date	(de un medicamento)	BI2025	
+dos veces al día	bis in die			
+b.i.d.	b.i.d.	BI2025		
+preparación blanco	blank preparation	BI2025		
+solución blanco	blank solution 	BI2025		
+hemorragia	bleeding	BI2025		
+hemorragia	bleeding episode	BI2025		
+combinar	blend 	(p. ej., diferentes partidas molidas)	BI2025	
+mezclar	blend 	(referido a un comprimido)	BI2025	
+	blister	blíster	BI2025	
+blísteres	blisters	BI2025BI2025		
+tira de blíster	blister card	BI2025		
+tira de blíster	blister strip 	BI2025		
+distensión abdominal 	bloating	BI2025		
+bloquear la señalización del IL-36R	block IL36R signalling	BI2025		
+capacidad bloqueadora	blocking ability	BI2025		
+sistema amortiguador de la sangre	blood buffer system	BI2025		
+glóbulos sanguíneos	blood cells	BI2025		
+colesterolemia	blood cholesterol level	BI2025		
+concentración en sangre	blood concentration	BI2025		
+hemocultivo	blood culture	BI2025		
+torrente sanguíneo	blood flow	BI2025		
+torrente sanguíneo	bloodstream	BI2025		
+torrente sanguíneo	blood stream	BI2025		
+				
+glucemia	blood glucose level	BI2025		
+barrera placentaria	blood placenta barrier	BI2025		
+tensión arterial	blood pressure			
+TA	BP	BI2025		
+recuento de reticulocitos	blood reticulocyte count	BI2025		
+uricemia	blood uric acid	BI2025		
+barrera hematoencefálica	blood-brain barrier	BI2025		
+linfocitos b	B-lymphocytes	BI2025		
+cuerpo	body		(referido al comprimido) BI2025	
+pletismografía corporal	body plethysmography	BI2025		
+peso corporal	body weight	BI2025		
+peso corporal	b.wt.	BI2025		
+Boehringer Ingelheim	Boehringer Ingelheim			
+BI	BI	BI2025		
+frotis de médula ósea	bone marrow smear	BI2025		
+configuración límite	borderline setting	BI2025		
+escala de Borg	Borg scale	BI2025		
+frasco	bottle	BI2025		
+base	bottom	(de la columna de tamices)	BI2025	
+fase inferior	bottom phase	BI2025		
+seroalbúmina bovina	bovine serum albumin	BI2025		
+caja/envase	box	BI2025		
+diseño de análisis de extremos	bracketing 	BI2025		
+aminoácidos de cadena ramificada	branched-chain amino acids			
+AACR	BCAA	BI2025		
+Agencia Nacional de Vigilancia Sanitaria de Brasil	Brazilian Health Regulatory Agency			
+ANVISA	ANVISA	BI2025		
+fraccionar	break	(referido a un comprimido)	BI2025	
+deformación	breaking strain	BI2025		
+fuerza de rotura	breaking strength	BI2025		
+punto crítico	breakpoint 	BI2025		
+lactancia	breast-feeding 	BI2025		
+dificultad respiratoria	breathing discomfort	BI2025		
+resumen acotado	brief summary	BI2025		
+clorhidrato de bromhexina	bromhexine hydrochloride 	BI2025		
+bromhidrina	bromhydrine	BI2025		
+bromuro	bromide	BI2025		
+bromo	bromine	BI2025		
+verde de bromocresol	bromocresol green	BI2025		
+bromohidrina	bromohydrine	BI2025		
+perfil de broncodilatación	bronchodilating profile	BI2025		
+broncoprotección	bronchoprotection	BI2025		
+efecto broncoprotector	bronchoprotective effect	BI2025		
+castaño	brown	BI2025		
+parduzco. Acastañado	brownish	BI2025		
+ocre	brown yellow 	BI2025		
+ácido débil	buffer acid 	BI2025		
+base débil	buffer alkali	BI2025		
+capacidad amortiguadora	buffer capacity	BI2025		
+buffer pH	buffer pH	BI2025		
+solución buffer	buffer solution 	BI2025		
+estabilizador del pH	buffer substance	BI2025		
+densidad aparente	bulk density	BI2025		
+producto a granel	bulk product	BI2025		
+propiedades intensivas	bulk properties	BI2025		
+volumen del granel	bulk volume	BI2025		
+mechero	burner 	BI2025		
+ardor	burning	BI2025		
+ardor	burning pain	BI2025		
+butanol	butanol	BI2025		
+butanona	butanone	BI2025		
+butendioato	butendioate	BI2025		
+metacrilato de butilo	butylmethylacrylate	BI2025		
+productos secundarios	by-products 	BI2025		
+cámara	cabinet	(referido a una tamizadora sónica)	BI2025	
+precinto	cable binder	BI2025		
+se prefiere "el liofilizado". Ver contexto, también torta /masa	cake	BI2025		
+pasta	cake	BI2025		
+carbonato de calcio	calcium carbonate	BI2025		
+fosfato monoácido de calcio anhidro	calcium hydrogen phosphate, anhydrous	BI2025		
+estearato de calcio	calcium stearate	BI2025		
+calculado en base anhidra	calculated with reference to anhydrous substance	BI2025		
+jeringa calibrada 	calibrated syringe 	BI2025		
+curva de calibración	calibration curve	BI2025		
+curva de calibración	calibration plot 	BI2025		
+calibrador	calliper	BI2025		
+buje de leva	cam bushing	BI2025		
+tapa	cap	(de una jeringa)	BI2025	
+revestimiento interior	cap liner	(referido a la tapa de un medicamento)	BI2025	
+factor de capacidad	capacity factor	BI2025		
+tubo capilar	capillary	BI2025		
+electroforesis capilar en gel	capillary gel electrophoresis			
+CGE	CGE	BI2025		
+electroforesis capilar en gel en condiciones reductoras	capillary gel electrophoresis reduced	BI2025		
+enfoque isoeléctrico capilar	capillary isoelectric focusing			
+CIEF	CIEF	BI2025		
+decapado	capping (of the layer of a tablet) 	BI2025		
+casquete de la cápsula	capsule cap flesh	BI2025		
+encapsuladora 	capsule filling machine	BI2025		
+carbono 14	carbon-14	BI2025		
+carbonildiimidazol	carbonyldiimidazole	BI2025		
+carcinogénico	carcinogenetic	(referido a un carcinógeno)	BI2025	
+cancerígeno	carcinogenic	BI2025		
+carcinogénesis	carcinogenicity	BI2025		
+cirrosis hepática de origen cardíaco 	cardiac cirrhosis	BI2025		
+auscultación cardíaca	cardiac exam	BI2025		
+auscultación cardíaca	cardiac examination	BI2025		
+insuficiencia cardíaca 	cardiac failure	BI2025		
+gasto cardíaco	cardiac output	BI2025		
+cardiovascular	cardiovascular			
+CV	CV	BI2025		
+cera de carnauba	carnauba wax	BI2025		
+soporte	carrier 	(en cromatografía - puede ser almidón, celulosa, etc.)	BI2025	
+presión del gas portador	carrier gas pressure	(cromatografía)	BI2025	
+producto residual	carry over product	BI2025		
+arrastre	carryover 	(referido a las impurezas)	BI2025	
+envase /estuche	carton	BI2025		
+estuchadora	cartoning machine	BI2025		
+estuchadora	cartoner	BI2025		
+cartucho	cartridge	BI2025		
+Número según el CAS - Servicio de información de sustancias químicas	CAS number	(Chemical Abstracts Service, CAS).	BI2025	
+Número según el CAS - Servicio de información de sustancias químicas	Chemical Abstracts Service number	(Chemical Abstracts Service, CAS).	BI2025	
+impactador de cascadas 	cascade impactor	BI2025		
+parte inferior del compartimento	case bottom part	BI2025		
+ficha del paciente	case card	BI2025		
+historia clínica	case history	BI2025		
+historia clínica	medical record	BI2025		
+formulario de notificación de casos	case report form	BI2025		
+formulario de notificación de casos	case record form	BI2025		
+CRF	CRF	(referido a estudios clínicos, formulario de notificación de casos) BI2025		
+parte superior del compartimento	case upper part	BI2025		
+catalizador 	catalyst	BI2025		
+cromatografía de intercambio catiónico	cation exchange chromatography			
+CEX	CEX	BI2025		
+célula número 1221	Cell #1221	BI2025		
+densidad celular 	cell density	BI2025		
+línea celular	cell line	BI2025		
+ensayo celular	cell-based assay	BI2025		
+celulosa	cellulose	BI2025		
+cartón de celulosa	cellulose cardboard	BI2025		
+Centro de Evaluación e Investigación de Medicamentos	Center for Drug Evaluation and Research	(Center for Drug Evaluation and Research)		
+CDER	CDER	BI2025		
+Sistema nervioso central	Central nervous system			
+SNC	CNS	BI2025		
+accidente cerebrovascular	cerebrovascular accident			
+ACV	ACV	BI2025		
+certificado de autorización	certificate of clearance 	BI2025		
+Certificado de Aptitud	Certificate of Suitability	BI2025		
+Identificación de la carga	charge identification	BI2025		
+Identificación de la carga	charge ID 	BI2025		
+variante de carga	charge variant	BI2025		
+variante de carga	charge isoform	BI2025		
+detector de aerosol cargado	charged aerosol detector	(en cromatografía)	BI2025	
+CAD	CAD			
+cepa de ratón de Charles River Laboratories y Naval Medical Research Institute	Charles River Laboratories / Naval Medical Research Institute mouse strain			
+Crl:NMRI	Crl:NMRI	BI2025		
+cepa de rata de Charles River Laboratories / Wistar Hannover	Charles River Laboratories / Wistar Hannover rat strain			
+Crl:WI(Han)	Crl:WI(Han)	BI2025		
+control de los equipos para pesar 	check-weighing equipment  	BI2025		
+Nombre según el CAS 	Chemical Abstract Name 	(Servicio de información de sustancias químicas, Chemical Abstract Service)	BI2025	
+Servicio de información de sustancias químicas	Chemical Abstracts Service [CAS]	(Chemical Abstracts Service, CAS).	BI2025	
+degradación química	chemical degradation	BI2025		
+nombre químico	chemical name 	BI2025		
+reactividad química	chemical reactivity	BI2025		
+sustancias químicas	chemicals	BI2025		
+Chemikaliengesetz (Ley sobre productos químicos) 	Chemikaliengesetz	BI2025		
+a prueba de niños	child-resistant	BI2025		
+línea celular de ovario de hámster chino [CHO]	Chinese hamster ovary [CHO] cell line	BI2025		
+centro quiral	chiral center 	BI2025		
+cromatografía líquida de alta resolución quiral	chiral high performance liquid chromatography			
+C-HPLC	C-HPLC	BI2025		
+cloruro	chloride	BI2025		
+cloro	chlorine	BI2025		
+clorometilo	chloromethyl	BI2025		
+colina	choline	BI2025		
+valoración cromatográfica 	chromatographic assay	BI2025		
+pureza cromatográfica	chromatographic purity	BI2025		
+determinación por cromatografía	chromatography determination	BI2025		
+grado de cromatografía 	chromatography grade	BI2025		
+pico cromatográfico	chromatography peak	BI2025		
+configuración cromatográfica	chromatography setup	BI2025		
+	chromogenic LAL assay	ensayo LAL cromogénico	BI2025	
+ensayo de lisado de amebocitos de Limulus cromogénico	chromogenic limulus amebocyte lysate assay	BI2025BI2025		
+cromóforo	chromophore	BI2025		
+ruptura de cromosomas	chromosome breakage	BI2025		
+enfermedad pulmonar obstructiva crónica	chronic obstructive pulmonary disease			
+EPOC	COPD	BI2025		
+bandeja	chute	BI2025		
+tolva	chute	BI2025		
+ciclesonida 	ciclesonide	BI2025		
+ciclesonida isobutirato 	ciclesonide isobutyrate	BI2025		
+aproximadamente	circa			
+aprox.	ca	BI2025		
+metabolito circulante	circulating metabolite	BI2025		
+período de uso declarado	claimed use period	BI2025		
+sujetar con la traba	clamp	(referido a la columna de tamices)	BI2025	
+claritromicina	clarithromycin	BI2025		
+	clarity	claridad, claro	BI2025	
+limpidez, límpido	clear	BI2025BI2025		
+lucidez mental	clarity of thought	BI2025		
+campana de flujo laminar clase 100	class 100 laminar flow hood	BI2025		
+clastógeno	clastogen	BI2025		
+vapor limpio	clean steam	BI2025		
+higiene	cleanliness	BI2025		
+limpieza 	clean-up	BI2025		
+limpieza 	cleaning	BI2025		
+desobstrucción de las vías respiratorias	clearing of airways	BI2025		
+escisión	cleavage	BI2025		
+zona climática	climatic zone	BI2025		
+eficacia clínica	clinical efficacy	BI2025		
+resumen clínico	clinical overview	BI2025		
+generalidades clínicas	clinical overview statements	BI2025		
+planta piloto para investigación clínica	clinical pilot facility   	BI2025		
+signo clínico	clinical sign	BI2025		
+estudio clínico	clinical study	BI2025		
+estudio clínico de fase I	clinical study phase I	BI2025		
+estudio clínico de fase II	clinical study phase II	BI2025		
+estudio clínico de fase III	clinical study phase III 	BI2025		
+ensayo clínico 	clinical trial 	BI2025		
+Informe del ensayo clínico	clinical trial report			
+CTR	CTR	BI2025		
+infección activa clínicamente importante 	clinically important active infection 	BI2025		
+sitio de corte	clipping site	BI2025		
+cerrar herméticamente	close tightly	BI2025		
+recipiente de plástico lleno y cerrado	closed plastic container	BI2025		
+lisis de un coágulo	clot lysis	BI2025		
+prueba de coagulación	coagulation assay	BI2025		
+material de grano grueso	coarse material	BI2025		
+cloruro de cobalto 	cobalt chloride	BI2025		
+coelución	co-elution	(referido a cromatografía)	BI2025	
+ligandos relacionados	cognate ligands	BI2025		
+estudio de cohortes	cohort study 	BI2025		
+placa colectora	collection plate	BI2025		
+molino coloidal	colloidal mill	BI2025		
+dióxido de silicio coloidal	colloidal silicon dioxide	BI2025		
+línea celular de adenocarcinoma de colon 	colonic adenocarcinoma cell line 	BI2025		
+unidades formadoras de colonias	colony forming units			
+ufc	cfu	BI2025		
+comparación colorimétrica	colourimetric comparison	BI2025		
+colorante	colouring agent	BI2025		
+cristal incoloro con forma de placas 	colourless platelike crystal 	BI2025		
+cabeza de la columna	column head	BI2025		
+horno de la columna	column oven	BI2025		
+relleno de la columna	column packing	BI2025		
+lote de relleno de la columna	column packing lot	BI2025		
+válvula de intercambio de la columna	column switching device	BI2025		
+escalada de temperatura de la columna	column temperature ramp  	BI2025		
+conjunto de datos combinados	combined dataset	BI2025		
+Comité de Medicamentos para Consumo Humano y Subcomisión de calidad	Committee for Medicinal Products for Human Use and Quality Working Party 	BI2025		
+Comité de Medicamentos de Origen Vegetal 	Committee on Herbal Medicinal Products	BI2025		
+medio de HAM F12/DMEM estándar	common HAM`s F12/DMEM medium	BI2025		
+Información fundamental del producto, de uso interno 	Company Core Data Sheet			
+CCDS	CCDS	BI2025		
+estándar interno de referencia 	company reference standard	BI2025		
+incluido/a en la Farmacopea	compendial	BI2025		
+referencia farmacopeica	compendial reference	BI2025		
+terminar 	complete	BI2025		
+hemograma completo	complete blood count	BI2025		
+hemograma completo	full blood count	BI2025		
+necropsia completa	complete necropsy	BI2025		
+prueba de integridad	completeness check	BI2025		
+valoración complejométrica	complexometric titration	BI2025		
+cumplir con	comply with	(un criterio o una especificación)	BI2025	
+cumplir con	conform to 	(un criterio o una especificación)	BI2025	
+conjunto de episodios cardiovasculares 	composite of cardiovascular events	BI2025		
+criterio de valoración compuesto	composite outcome	BI2025		
+estructura de covarianza de simetría compuesta	compound symmetry covariance structure	BI2025		
+mezcla comprimida	compressed blend	BI2025		
+compresión	compression	BI2025		
+estudio de compresión	compression trial	BI2025		
+concentrado para solución para infusión	concentrate for solution for infusion 	BI2025		
+cociente de concentración de radioactividad relacionada con el fármaco entre los glóbulos sanguíneos y el plasma	concentration ratio of drug-related radioactivity between blood cells and plasma			
+CC/CP	CC/CP	BI2025		
+simultáneamente (por ejemplo: "estas vacunas no deben administrarse simultáneamente con…").	concurrently (e.g.: "these vaccines should not be given concurrently with …").	BI2025		
+patología	condition	(sentido restringido)	BI2025	
+condición	condition	(sentido amplio)	BI2025	
+confianza	confidence	(referido a estadística y a medición y calibración de equipos)	BI2025	
+intervalo de confianza	confidence interval			
+IC	CI	BI2025		
+límite superior del intervalo de confianza	confidence interval upper bound 	BI2025		
+cumplir con	conform to	(un criterio o una especificación)	BI2025	
+cumplir con	comply with	(un criterio o una especificación)	BI2025	
+variables de distorsión	confounding factors	BI2025		
+insuficiencia cardíaca congestiva	congestive heart failure			
+ICC	CHF	BI2025		
+metabolitos conjugados	conjugated metabolites	BI2025		
+coherente	consistent	BI2025		
+coherencia	consistent	(referido a la lógica)	BI2025	
+consistente	consistent	BI2025		
+consistencia	consistent	(referido a una sustancia)	BI2025	
+coherente	consistency	BI2025		
+coherencia	consistency	(referido a la lógica)	BI2025	
+consistente	consistency	BI2025		
+consistencia	consistency	(referido a una sustancia)	BI2025	
+Cuidado de la Salud del Consumidor	Consumer Health Care [CHC]	BI2025		
+consumo	consumption	BI2025		
+dejar en contacto	contact	(una mezcla)	BI2025	
+estuche	container	BI2025		
+envase y sistema de cierre	container closure / system	BI2025		
+prueba de integridad del cierre del envase	container closure integrity test			
+CCIT	CCIT	BI2025		
+uniformidad del contenido	content uniformity	BI2025		
+infusión intravenosa continua	continuous intravenous infusion	BI2025		
+sistema de cierre plástico de rosca continua articulado	continuous thread, multi-part plastic screw closure	BI2025		
+tapa de cierre de rosca continua	continuous threaded closure	BI2025		
+contraindicaciones	contraindications	BI2025		
+placa de enfriamiento	cooling plate	BI2025		
+rampa de enfriamiento	cooling ramp	BI2025		
+agua de refrigeración	cooling water	BI2025		
+copolímero	copolymer	BI2025		
+copolividona	copolyvidone, copovidone	BI2025		
+sulfato de cobre anhidro	copper sulphate anhydrous	BI2025		
+precipitar de manera conjunta	co-precipitate	BI2025		
+precipitar de manera conjunta	coprecipitate	BI2025		
+núcleo	core	(de un comprimido)	BI2025	
+núcleo	tablet core	(de un comprimido)	BI2025	
+diámetro del núcleo	core diameter	(de un comprimido)	BI2025	
+almidón de maíz	corn starch	BI2025		
+enfermedad coronaria	coronary artery disease [CAD]	BI2025		
+cardiopatía coronaria	coronary heart disease	BI2025		
+medidas correctivas y preventivas	corrective actions and preventive actions			
+CAPA	CAPA	BI2025		
+análisis de correlación	correlation analysis	BI2025		
+corticoesteroide 	corticosteroid	BI2025		
+papel satinado	couche paper	BI2025		
+culombio	coulomb	BI2025		
+culombímetro	coulombmeter	BI2025		
+culombimetría	coulombmetry	BI2025		
+unidades	count			
+unid.	ct	BI2025		
+constante de acoplamiento	coupling constant	BI2025		
+unión covalente	covalent binding	BI2025		
+estructura de covarianza	covariance structure	BI2025		
+portada	cover page	BI2025		
+aguja cubierta	covered / covered needle	BI2025		
+lámina de recubrimiento	covering foil	BI2025		
+dolor de tipo cólico	cramping pain	BI2025		
+dolor de tipo cólico	cramp-like pain	BI2025		
+proteína C reactiva	C-reactive protein			
+CRP	CRP	BI2025		
+creatina-cinasa	creatine kinase			
+CK	CK	BI2025		
+depuración de la creatinina	creatinine clearance 			
+CRCL	CRCL	BI2025		
+tapa metálica	crimp cap 	(de un vial)	BI2025	
+crimpadora	crimper	BI2025		
+crimpadora	crimping machine	BI2025		
+crimpado	crimped	BI2025		
+medicina intensiva	critical care medicine	BI2025		
+en estado crítico	critical condition	BI2025		
+atributos críticos de calidad	critical quality attributes	BI2025		
+cromolín	cromolyn	BI2025		
+crospovidona	crospovidone	BI2025		
+estudio clínico de grupos cruzados	cross-over clinical study	BI2025		
+estudio clínico de grupos cruzados	crossover clinical study	BI2025		
+frecuencias de las señales	crosspeaks	(en espectroscopía)	BI2025	
+sin procesar	crude	(por ejemplo, referido a datos)	BI2025	
+resistencia al aplastamiento 	crushing strength	BI2025		
+morfología cristalina	crystal morphology	BI2025		
+estructura cristalina	crystal structure	BI2025		
+agua de cristalización	crystal water	BI2025		
+cristalinidad	crystallinity	BI2025		
+resultados cristalográficos	crystallographic results 	BI2025		
+centrímetro cúbico [cm3]	cubic centimeter [cc]	BI2025		
+centrímetro cúbico [cm3]	cubic centimetre	BI2025		
+lista completa	cumulative list	BI2025		
+tartrato cúprico	cupric tartrate	BI2025		
+versión actual	current version	BI2025		
+ajuste de curvas	curve fittings	BI2025		
+fecha límite	cut off date	BI2025		
+fecha límite	cut-off date	BI2025		
+cianocobalamina	cyanocobalamin	BI2025		
+sin ciclamato	cyclamate free	BI2025		
+cicloergometría	cycle ergometry	BI2025		
+ciclohexano	cyclohexane	BI2025		
+ciclofosfamida	cyclophosphamide	BI2025		
+ciclosporina	cyclosporine	BI2025		
+mono cynomolgus	Cynomolgus monkey	BI2025		
+cisteína	cysteine			
+cis	cys	BI2025		
+Citocromo P450	Cytochrome P-450			
+P450	CYP-450	BI2025		
+conjunto de datos	data pooling	BI2025		
+Comité de vigilancia de datos y seguridad [VCDS] 	Data Safety Monitoring Board [DSMB] 	BI2025		
+finalización de la carga en la base de datos 	database lock	BI2025		
+fecha de inicio del estudio de estabilidad	date placed on stability	BI2025		
+ion producto	daughter ion	(en espectrometría de masas)	BI2025	
+ion producto	product ion	(en espectrometría de masas)	BI2025	
+bajorrelieve de los comprimidos	debossing of the tablets	BI2025		
+árbol de toma de decisiones 	decision tree 	BI2025		
+disminución	decrease	BI2025		
+disminución del deterioro renal	decreased renal impairment	BI2025		
+trombosis venosa profunda	deep vein thrombosis			
+DVT	DVT	BI2025		
+notificación de objeciones	deficiency letter	BI2025		
+desgasificar	degas	BI2025		
+patrón de degradación	degradation pattern	BI2025		
+productos de degradación	degradation products	BI2025		
+degradar(se) en pequeños péptidos y aminoácidos	degrade into small peptides and amino acids (to be)	BI2025		
+grados de libertad	degrees of freedom	(referido a estadística)	BI2025	
+GL	DF			
+desionizada	deionized	BI2025		
+dosis administrada	delivered dose	BI2025		
+desmineralizar	demineralize	BI2025		
+desnaturalización	denaturation	BI2025		
+ácido desoxirribonucleico	deoxyribonucleic acid			
+ADN	DNA	BI2025		
+unión de ácido desoxirribonucleico a microesferas magnéticas	deoxyribonucleic acid binding to magnetic beads 	BI2025		
+Departamento de Ciencias Analíticas	Department of Analytical Sciences	(Department of Analytical Sciences) 	BI2025	
+Departamento de Farmacocinética y Metabolismo de Medicamentos	Department of Drug Metabolism and Pharmacokinetics	(Department of Drug Metabolism and Pharmacokinetics)	BI2025	
+Departamento de Servicios de Datos Médicos	Department of Medical Data Services	(Department of Medical Data Services) 	BI2025	
+Departamento de Seguridad Farmacológica Preclínica	Department of Non-Clinical Drug Safety	(Department of Non-Clinical Drug Safety)	BI2025	
+defosforilación	dephosphorylation	BI2025		
+agotamiento	depletion	BI2025		
+disminución	depletion	BI2025		
+secante de 30 unidades	desiccant 30 counts	BI2025		
+sobre del secante	desiccant packet	BI2025		
+desecador	desiccator	BI2025		
+diseño del experimento	design of experiment			
+DoE	DoE	BI2025		
+Solicitud de designación	Designation Request	BI2025		
+límite de detección	detection limit	BI2025		
+resolución de detección	detection resolution	BI2025		
+evaluar, medir	determine	BI2025		
+caracterizar	determine	BI2025		
+Farmacopea alemana	Deutsches Arzneibuch	(Deutsches Arzneibuch),		
+DAB	DAB	BI2025		
+desarrollo	development	BI2025		
+partidas del desarrollo	development batches         	BI2025		
+genética del desarrollo	Development Genetics	BI2025		
+Desarrollo Farmacéutico	Development Pharmaceutics	BI2025		
+dispositivo	device	BI2025		
+retinopatía diabética	diabetic retinitis	BI2025		
+mutágeno de diagnóstico	diagnostic mutagen	BI2025		
+diamina	diamine 	BI2025		
+tensión arterial diastólica	diastolic arterial pressure			
+TAD	DAP	BI2025		
+ingesta alimentaria de referencia	dietary reference intake			
+DRI	DRI	BI2025		
+medidor de diferencia de presión	differential pressure meter	BI2025		
+mezcladora por difusión	diffusion mixer	BI2025		
+digoxina	digoxin	BI2025		
+dihidrato	dihydrate	BI2025		
+dilución	dilution	BI2025		
+diluyente	diluent	BI2025		
+dimetilamina	dimethyl amine	BI2025		
+detector de matriz de diodos	diode array detector			
+detector de matriz de diodos	diode-array detector			
+DAD	DAD	BI2025		
+descargar al aire	discharge to waste	BI2025		
+decoloración	discolouration	BI2025		
+	discontinuation	interrupción	BI2025	
+detector de matriz de diodos	diode-array detector			
+DAD	DAD	BI2025		
+descargar al aire	discharge to waste	BI2025		
+decoloración	discolouration	BI2025		
+	discontinuation	interrupción	BI2025	
+interrumpir	discontinue	(referido a un tratamiento)	BI2025BI2025	
+consideraciones finales	discussion	(si no es un subtítulo de un artículo científico)	BI2025	
+discusión	discussion	(si es un subtítulo de un artículo centífico)	BI2025	
+consideraciones finales y conclusión	discussion and conclusion	BI2025		
+disgregación	disintegration	BI2025		
+desintegración	disintegration	BI2025		
+desintegración	disintegration	BI2025		
+puede ser según el contexto: disgregación	disintegration	BI2025		
+edetato disódico	disodium edetate	BI2025		
+disolución	disolution	BI2025		
+suministrado	dispense	BI2025		
+dispersabilidad	dispersibility	BI2025		
+dispersable	dispersible	BI2025		
+dispositivo de dispersión 	dispersing device 	BI2025		
+vesícula biliar desplazada	displaced gall bladder	BI2025		
+predisposición	disposition	(a padecer una enfermedad)	BI2025	
+disposición	disposition	(distribución, metabolismo y eliminación) (en farmacocinética)	BI2025	
+índice de disposición	disposition index	(distribución, metabolismo y eliminación) (en farmacocinética)	BI2025	
+constante de disociación 	dissociation constant 	BI2025		
+equipo de disolución	dissolution apparatus	BI2025		
+cinética de disolución	dissolution kinetics	BI2025		
+velocidad de disolución	dissolution rate	BI2025		
+agua destilada	distilled water	BI2025		
+distribución en sangre	distribution in blood	BI2025		
+dosis	dosage	BI2025		
+posología	dosage	BI2025		
+dosificación 	dosage	BI2025		
+posología y administración	dosage and administration	BI2025		
+forma farmacéutica	dosage form	BI2025		
+presentación	dosage form	BI2025		
+intervalo de administración	dosage interval	BI2025		
+intervalo de administración	dosing interval 	BI2025		
+concentración	dosage strength	BI2025		
+dosis	dose	BI2025		
+toma	dose	BI2025		
+aumento de la dosis	dose escalation	BI2025		
+posología	dose regimen	BI2025		
+ajuste de la dosis	dose titration	BI2025		
+absorción rápida	dose-dumping	(referido a un medicamento de liberación prolongada)	BI2025	
+dosier	dossier	BI2025		
+estudio clínico doble ciego	double blind clinical study	BI2025		
+estudio clínico con doble simulación	double dummy	BI2025		
+estudio clínico con doble simulación	double-dummy clinical study	BI2025		
+envase de plástico de pared doble	double walled plastic container	BI2025		
+ajuste descendiente de la dosis	down titration	BI2025		
+descenso	downregulate	BI2025		
+posterior	downstream	BI2025		
+en fases posteriores	downstream	(referido a la activación de las vías proinflamatorias y profibróticas)	BI2025	
+activación en las fases posteriores	downstream activation	BI2025		
+equivalentes de vía descendente	downstream equivalents	BI2025		
+transformación de vía descendente 	downstream fate 	BI2025		
+versión preliminar	draft	BI2025		
+reactivo de Dragendorff	Dragendorff reagent	BI2025		
+Dräger	Dräger	(volúmetro)	BI2025	
+desecada/o	dried 	(referido a sustancias orgánicas)	BI2025	
+deshidratada/o	dried 	(referido a químicos)	BI2025	
+deriva	drift	BI2025		
+velocidad de goteo	dripping speed	BI2025		
+gota	droplet	BI2025		
+gotero	dropper	BI2025		
+embudo de goteo	dropping funnel	BI2025		
+análisis de electroquimioluminescencia de extrapolación del medicamento	drug bridging electrochemiluminescence assay 	BI2025		
+fármaco potencial	drug candidate	BI2025		
+farmacodependencia	drug dependence	BI2025		
+Equipo Complementario de Descubrimiento de Medicamentos 	Drug Discovery Support	BI2025		
+bomba de eflujo de medicamentos	drug efflux pump	BI2025		
+concentración	drug load	BI2025		
+Archivo general del medicamento	Drug Master File			
+DMF	DMF	BI2025		
+pacientes sin tratamiento farmacológico previo	drug naive patients	BI2025		
+pacientes sin tratamiento farmacológico previo	drug näive patients	BI2025		
+producto farmacéutico	drug product [DP]	BI2025		
+producto medicinal /medicamento [DP] 	drug product [DP]	BI2025		
+producto farmacéutico	drug	BI2025		
+producto medicinal /medicamento [DP] 	drug	BI2025		
+exantema medicamentoso	drug rash	BI2025		
+síndrome de reacción al fármaco con eosinofilia y síntomas sistémicos [DRESS] 	drug reaction with eosinophilia and systemic symptoms [DRESS] syndrome	BI2025		
+solicitud de registro sanitario	drug registration application	BI2025		
+soluciones medicamentosas	drug solutions	BI2025		
+principio activo [DS]	drug substance [DS] 	BI2025		
+farmacovigilancia	drug surveillance	BI2025		
+farmacovigilancia	pharmacovigilance	BI2025		
+interacción medicamentosa 	drug-drug interaction	BI2025		
+asociada/o a la ingesta del medicamento	drug-induced 	BI2025		
+provocado/a por el medicamento 	drug-induced 	BI2025		
+relación fármaco/excipiente	drug-to-excipient ratio	BI2025		
+granulación en seco	dry granulation	BI2025		
+inhalador de polvo seco	dry powder inhalator	BI2025		
+gel de sílice seco	dry silica gel	BI2025		
+secador 	dryer 	BI2025		
+amarillo opaco 	dull-yellow 	BI2025		
+espectro simulado	dummy scan	BI2025		
+capuchón	dust cap 	(de un inhalador)	BI2025	
+permanencia	dwell	BI2025		
+tiempo de permanencia	dwell time	BI2025		
+volumen de permanencia	dwell volume	BI2025		
+fuga mediante tinción	dye leakage	BI2025		
+colorante	dyer	BI2025		
+absorción dinámica de vapor	dynamic vapor absorption	BI2025		
+índice de disnea	dyspnea index	BI2025		
+índice de disnea	dyspnoea index	BI2025		
+Impurezas individuales	Each individual impurity	BI2025		
+ensayo clínico de fase I temprana	early phase I clinical trial 	BI2025		
+ensayo clínico de fase II temprana	early phase II clinical trial	BI2025		
+pasos iniciales	early steps	BI2025		
+edetato	edetate	BI2025		
+eficacia 	efficacy	BI2025		
+criterio de valoración de la eficacia	efficacy endpoint	BI2025		
+Ensayo Effisayil‑1	Effisayil-1 trial	BI2025		
+transportador de eflujo glicoproteína P	efflux transporter P-glycoprotein	BI2025		
+derrame	effusion	BI2025		
+elastómero	elastomer	BI2025		
+electrocardiograma	electrocardiogram			
+ECG	ECG	BI2025		
+ionización por electrospray	electrospray ionization			
+ESI	ESI	BI2025		
+análisis elemental	elemental analysis	BI2025		
+paciente que cumple con los criterios de inclusión	eligible patient	BI2025		
+eluido	eluate	BI2025		
+eluyente	eluent	BI2025		
+fase móvil	eluent	(referido a cromatografía)	BI2025	
+toxicidad embriofetal	embryo-fetal toxicity	BI2025		
+toxicidad embriofetal	embryo-foetal toxicity	BI2025		
+desarrollo embrionario	embryonic development	BI2025		
+emulsionante 	emulsifier	BI2025		
+pureza enantiomérica	enantiomeric purity	BI2025		
+etapa de encapsulado	encapsulation step	BI2025		
+IgG endógena	endogenous IgG	BI2025		
+endotermia	endotherm	BI2025		
+	endpoint	criterio de valoración	(referido a estudios clínicos)	BI2025
+punto final (en química). También: parámetros, objetivo, conclusión (de un estudio clínico o de un período de observación)	end-point	BI2025BI2025		
+valor extremo	end-point	(en un rango de valores).	BI2025BI2025	
+tiempo de resistencia	endurance time	BI2025		
+consumo de energía	energy uptake 	(en la molienda)	BI2025	
+inclusión	enrolment	BI2025		
+incorporación	enrolment	(referido a los sujetos de un estudio clínico)	BI2025	
+alimentación por sonda nasogástrica	enteral nutrition	BI2025		
+alimentación por sonda nasogástrica	tube feeding	BI2025		
+recirculación enterohepática	enterohepatic recycling	BI2025		
+entalpía	enthalpy	BI2025		
+catálisis enzimática	enzymatic catalysis	BI2025		
+autoinducción enzimática	enzyme autoinduction	BI2025		
+complejo enzima-inhibidor	enzyme-inhibitor complex	BI2025		
+ensayo de inmunoadsorción enzimática	enzyme-linked immunosorbent assay			
+ELISA	ELISA	BI2025		
+complejo enzima-sustrato	enzyme-substrate complex	BI2025		
+receptor del factor de crecimiento epidérmico - inhibidor de la cinasa de tirosina	epidermal growth factor receptor - tyrosine kinase inhibitor			
+EGFR-TKI	EGFR-TKI	BI2025		
+receptor del factor de crecimiento epidérmico	epidermal growth factor receptor			
+EGFR	EGFR	BI2025		
+carcinoma epidermoide	epidermoid carcinoma	BI2025		
+epididimo	epididymis	BI2025		
+epímero	epimer	BI2025		
+clorhidrato de epinastina	epinastine hydrochloride	BI2025		
+atrofia epitelial	epithelial atrophy	BI2025		
+tiempo de equilibrio	equilibration time	BI2025		
+solubilidad de equilibrio	equilibrium solubility	BI2025		
+matraz de Erlenmeyer	Erlenmeyer flask	BI2025		
+erlotinib	erlotinib	BI2025		
+resistente al erlotinib	erlotinib-resistant	BI2025		
+eritropoyesis	erythropoiesis	BI2025		
+Escherichia coli	Escherichia coli	BI2025		
+esofágico	esophageal	BI2025		
+requisitos esenciales del desempeño	essential performance requirements	BI2025		
+creación del sistema de banco de células	establishment of Cell Bank System	BI2025		
+éster	ester	BI2025		
+sulfonato de etano	ethane sulfonate	BI2025		
+acetato de etilo	ethyl acetate 	BI2025		
+grupo éster etílico	ethyl ester group	BI2025		
+ácido etilendiaminotetraacético	ethylenediamine tetraacetic acid	BI2025		
+Agencia Europea de Evaluación de los Productos Farmacéuticos	European Agency for the Evaluation of Medicinal Products [EMEA] 	(European Agency for the Evaluation of Medicinal Products) [EMEA]	BI2025	
+Espacio Económico Europeo	European Economic Area			
+EEA	EEA	BI2025		
+Federación Europea de Asociaciones de Pacientes Psoriásicos (European Federation of Psoriasis Patient Associations - EUROPSO ) 	European Federation of Psoriasis Patient Associations (EUROPSO)	BI2025		
+Agencia Europea de Medicamentos	European Medicines Agency	(European Medicines Agency)		
+EMA	EMA	BI2025		
+Farmacopea europea	European Pharmacopeia			
+Ph. Eur.	Ph. Eur.	BI2025		
+evaluabilidad	evaluability	BI2025		
+excipientes	excipients	BI2025		
+excreción	excretion 	(sentido estricto)	BI2025	
+eliminación	excretion 	(sentido amplio)	BI2025	
+vías de excreción	excretion pathways	BI2025		
+resumen	executive summary	BI2025		
+tiempo de resistencia al ejercicio	exercise endurance time	BI2025		
+temperatura de aire de salida	exhaust air temperature	BI2025		
+agotamiento	exhaustion	BI2025		
+expandir las células 	expand the cells	BI2025		
+resultado esperado	expected outcome	BI2025		
+informe del experto	expert report	BI2025		
+vencimiento	expiration	(referido a la vida útil de un producto)	BI2025	
+espiración	expiration	BI2025		
+exhalación	expiration	(referido a la respiración)	BI2025	
+fallecimiento	expiration	BI2025		
+volumen espiratorio de reserva	expiratory reserve volume	BI2025		
+ampliación	exploded view	BI2025		
+estudios exploratorios farmacocinéticos	exploratory pharmacokinetics 	BI2025		
+datos de estabilidad exploratorios	exploratory stability data	BI2025		
+exposición	exposure	BI2025		
+plásmido de expresión 	expression plasmid	BI2025		
+vector de expresión	expression vector	BI2025		
+liberación prolongada	extended release	BI2025		
+matriz de liberación prolongada	extended-release controlling matrix	BI2025		
+prolongación de la vida útil del producto 	extension of the shelf life of the drug product	BI2025		
+distribución amplia	extensive distribution	BI2025		
+grado de absorción	extent of absorption	BI2025		
+método estándar externo	external standard method	BI2025		
+disolvente de extracción	extraction solvent	BI2025		
+hematopoyesis extramedular	extramedullary haemopoiesis			
+HEM	EMH	BI2025		
+distribución extravascular 	extravascular distribution	BI2025		
+extrusión	extrusion	BI2025		
+instalaciones	facilities	BI2025		
+mezclador vertical 	fall mixer	BI2025		
+ácidos grasos	fatty acids			
+AG	FA	BI2025		
+aceites grasos	fatty oils	BI2025		
+Ley Federal de Alimentos, Medicamentos y Cosméticos	Federal Food, Drug, and Cosmetic Act	(de los EE.UU.)	BI2025	
+FDCA	FDCA			
+Instituto Federal de Medicamentos y Dispositivos Médicos	Federal Institute for Drugs and Medical Devices	(de Alemania)	BI2025	
+BfArM	BfArM			
+toma 	feed	BI2025		
+hembra	female [f]	BI2025		
+serie de fermentación	fermentation runs	BI2025		
+casquete	ferrule	(de un envase)	BI2025	
+contenedor de fibra para transporte de muestras	fiber shipping container	BI2025		
+contenedor de fibra para transporte de muestras	fibre shipping container	BI2025		
+tambor de fibra	fibre board drum	BI2025		
+tambor de fibra	fibre drum	BI2025		
+tambor de fibra	fiber drum	BI2025		
+				
+receptor del factor de crecimiento fibroblástico	fibroblast growth factor receptor			
+FGFR	FGFR	BI2025		
+generación filial 	filial generation	BI2025		
+llenar	fill	BI2025		
+completar	fill up 	BI2025		
+volumen de llenado	fill volume	BI2025		
+relleno 	filler	BI2025		
+cartucho a granel lleno 	filled bulk cartridge	BI2025		
+cabezal de llenado	fill-head	BI2025		
+material de relleno	filling mass	BI2025		
+material de relleno	fill mass	BI2025		
+masa de relleno del tanque de reserva	filling mass of the reservoir	BI2025		
+espesor de la película	film thickness 	(referido a cromatografía)	BI2025	
+comprimido recubierto 	film-coated tablet	BI2025		
+comprimido recubierto 	coated tablet	BI2025		
+filtro	filter 	BI2025		
+portafiltros	filter holder	BI2025		
+filtro de la membrana	filter membrane	BI2025		
+papel de filtro	filter paper	BI2025		
+bandeja de filtrado	filter plate	BI2025		
+coadyuvante de filtrado	filter-aide	BI2025		
+coadyuvante de filtrado	filter aide	BI2025		
+	filtration	filtración	BI2025	
+filtrado	filtrate	BI2025BI2025		
+versión final del diseño	final art	(referido a un envase)	BI2025	
+mezcla final	final blend	BI2025		
+etapa final	final stage 	BI2025		
+hallazgo	finding	BI2025		
+material de grano fino	fine material	BI2025		
+dosis de partículas finas	fine particle dose			
+FPD	FPD	BI2025		
+partículas finas	fines	BI2025		
+lengüeta de apoyo	finger grip	(de una jeringa)	BI2025	
+lengüeta de apoyo	finger flange	(de una jeringa)	BI2025	
+producto terminado	finished product	BI2025		
+fabricante del producto terminado	finished product manufacturer	BI2025		
+primera generación 	first generation	BI2025		
+metabolismo en el primer paso	first pass metabolism	BI2025		
+metabolismo en el primer paso	first-pass metabolism	BI2025		
+fijador	fixative	BI2025		
+combinación a dosis fija [CDF]	fixed-dose combination [FDC] 	BI2025		
+brote	flare	BI2025		
+brote de PPG de intensidad entre moderada y grave	flare of GPP of moderate-to-severe intensity	BI2025		
+brote de PPG de intensidad entre moderada y grave	flare of GPP of moderate to severe intensity	BI2025		
+punto de inflamación	flash point	BI2025		
+monoxigenasas que contienen flavinas	flavin-containing monooxygenases			
+FMO	FMO	BI2025		
+flavonoide 	flavonoid	BI2025		
+saborizante	flavouring agent	BI2025		
+saborizante	flavoring agent	BI2025		
+beige claro 	flesh	BI2025		
+beige claro 	flesh-coloured	BI2025		
+dolor fluctuante	flickering pain	BI2025		
+medidor de flujo de tipo flotante	float-type flow meter	BI2025		
+regulador de flujo	flow control unit	BI2025		
+flujograma	flow diagram	BI2025		
+flujograma	flow chart	BI2025		
+velocidad de flujo	flow rate	BI2025		
+propiedad de fluidez	flowing property	BI2025		
+lecho fluido	fluid bed 	BI2025		
+prueba de sobrecarga líquida	fluid challenge test	BI2025		
+fluoruro	fluoride	BI2025		
+costilla lumbar	flying rib	BI2025		
+discromía focal	focal discolouration	BI2025		
+distancia focal	focal length	BI2025		
+puntuación focal	focal score	BI2025		
+caja plegable	folding box	BI2025		
+caja plegable	carton	BI2025		
+ácido fólico	folic acid	BI2025		
+foliculitis	folliculitis	BI2025		
+aditivo alimentario	food additive	BI2025		
+Administración de Alimentos y Medicamentos	Food and Drug Administration	(Food and Drug Administration) 	BI2025	
+FDA	FDA			
+producto alimenticio	foodstuff	BI2025		
+para analizar	for analysis	BI2025		
+estudio de degradación forzada	forced degradation study	BI2025		
+volumen espiratorio máximo (VEF)	forced expiratory volume (FEV)	BI2025		
+cuerpos extraños	foreign bodies	BI2025		
+impurezas	foreign matter 	BI2025		
+factor de forma	form factor	BI2025		
+lámina cavitada	forming foil	BI2025		
+formoterol	formoterol	BI2025		
+fumarato de formoterol	formoterol fumarate	BI2025		
+fórmula	formulation	BI2025		
+composición	formulation	(del medicamento)	BI2025	
+prueba de flujo directo	forward flow test	BI2025		
+cuatro veces al día	four times a day [q.i.d.]	BI2025		
+cuatro veces al día	[qid]	BI2025		
+espectroscopía infrarroja por transformada de Fourier	Fourier transformed infrared spectroscopy [FT-IR]	BI2025		
+estudio cruzado de cuatro vías	four-way cross-over study	BI2025		
+estudio cruzado de cuatro vías	four-way crossover study	BI2025		
+fracción absorbida	fraction absorbed			
+Fa	Fa	BI2025		
+fracción biodisponible	fraction bioavailable	BI2025		
+cambio del marco de lectura	frameshift change	BI2025		
+mutágeno que desplaza el marco de lectura del código genético	frameshift mutagen	BI2025		
+base libre	free base	BI2025		
+ácido graso libre	free fatty acid	BI2025		
+fácilmente soluble	freely soluble	BI2025		
+congelar y descongelar	freeze and thaw	BI2025		
+distribución de frecuencias 	frequency distribution	BI2025		
+soluciones recién preparadas	freshly prepared solutions	BI2025		
+friabilidad	friability	BI2025		
+gases combustibles	fuel gases	BI2025		
+grupo completo de análisis	full analysis set			
+GCA	FAS	BI2025		
+método de evaporación total	full evaporation technique	BI2025		
+escala de producción completa	full production scale	BI2025		
+escala completa 	full scale  	BI2025		
+campana extractora de vapores	fume hood	BI2025		
+Evaluación Funcional del Tratamiento de Enfermedades Crónicas - Fatiga [FACIT]	Functional Assessment of Chronic Illness Therapy - Fatigue [FACIT-F] 	BI2025		
+capacidad residual funcional	functional residual capacity			
+FRC	FRC	BI2025		
+furafilina	furafylline	BI2025		
+gamma glutamil transferasa	gamma glutamyl transferase	BI2025		
+gammagrafía	gamma scintigraphy	BI2025		
+gamma globulina	gamma-globulin	BI2025		
+cromatógrafo de gases	gas chromatograph	BI2025		
+cromatografía de gases	gas chromatography 	BI2025		
+tránsito gastrointestinal	gastrointestinal transit	BI2025		
+calibrador de perno	gauge pin	BI2025		
+alimentación por sonda nasogástrica	gavage	BI2025		
+constructo génico	gene construct	BI2025		
+notas generales	general notes	BI2025		
+psoriasis pustulosa generalizada	generalized pustular psoriasis			
+PPG	GPP	BI2025		
+Evaluación global del médico de la psoriasis pustulosa generalizada	Generalized Pustular Psoriasis Physician Global Assessment			
+GPPGA	GPPGA	BI2025		
+Generalmente reconocidos como seguros	Generally recognised as safe			
+GRAS	GRAS	BI2025		
+efecto genotóxico	genotoxic effect	BI2025		
+media geométrica	geometric mean	(en estadística)	BI2025	
+día de gestación	gestation day			
+DG	GD	BI2025		
+glándula	gland [gl]	BI2025		
+electrodo de vidrio	glass electrode	BI2025		
+pipeta de vidrio 	glass pipette	BI2025		
+varilla de vidrio	glass rod	BI2025		
+ampolla de vidrio	glass vial	BI2025		
+frasco de vidrio	glass vial	BI2025		
+con tapón de vidrio	glass-stoppered	BI2025		
+utensilios de vidrio	glassware	BI2025		
+deslizante	glidant	(referido a los comprimidos)	BI2025	
+Base de Datos de Seguridad Farmacológica Global 	Global Drug Safety Database	BI2025		
+Iniciativa global de la enfermedad pulmonar obstructiva crónica	Global initiative for chronic Obstructive Lung Disease 			
+GOLD	GOLD	BI2025		
+glucocorticoide	glucocorticoid	BI2025		
+glucosinasa	glucokinase	BI2025		
+péptido insulinotrópico dependiente de la glucosa	glucose dependent insulinotropic peptide	BI2025		
+glutamato deshidrogenasa	glutamate dehydrogenase			
+GLDH	GLDH	BI2025		
+glutamina	glutamine	BI2025		
+control glucémico	glycaemic control	BI2025		
+glicerina	glycerol	BI2025		
+glicerofosfato	glycerophosphate	BI2025		
+glicina	glycin 	BI2025		
+glicosilación	glycosylation	BI2025		
+Buenas Prácticas Clínicas	Good Clinical Practices			
+GCP	GCP	BI2025		
+Buenas Prácticas de Laboratorio	Good Laboratory Practices			
+GLP	GLP	BI2025		
+estudio que cumple con las Buenas Prácticas de Laboratorio	Good Laboratory Practices study	BI2025		
+Buenas Prácticas de Fabricación	Good Manufacturing Practices			
+GMP	GMP	BI2025		
+grados de libertad	grades of freedom	BI2025		
+calidades de reactivos	grades of reagents 	BI2025		
+elución en gradiente	gradient elution	BI2025		
+probeta graduada	graduated cylinder	BI2025		
+precolumna	grand column	(en el contexto de cromatografías)	BI2025	
+precolumna	grand-column	(en el contexto de cromatografías)	BI2025	
+precolumna	pre-column	(en el contexto de cromatografías)	BI2025	
+precolumna	precolumn	(en el contexto de cromatografías)	BI2025	
+				
+granulado/granulación	granulate	BI2025		
+punto de granulación	granulate point	BI2025		
+granulación	granulation	BI2025		
+tubo de grafito con plataforma	graphite tube with platform	BI2025		
+rejilla	grid	(de un filtro)	BI2025	
+	grind	moler	BI2025	
+por molienda	by grinding	BI2025BI2025		
+junta	grommet	BI2025		
+molido	ground	BI2025		
+tapón de vidrio esmerilado	ground glass stopper	BI2025		
+diafragma de junta esmerilada	ground-joint diaphragm	BI2025		
+cobayo	Guinea pig	BI2025		
+vida media	half life	BI2025		
+media vida /semivida	half life	BI2025		
+concentración inhibitoria máxima al 50%	half maximal inhibitory concentration			
+IC50	IC50	BI2025		
+analizador halógeno de la humedad	halogen moisture analyzer	BI2025		
+válvula manual	hand valve	BI2025		
+manivela	handwheel	BI2025		
+cápsula dura	hard capsule 	BI2025		
+dureza	hardness	BI2025		
+durómetro	hardness tester	BI2025		
+rinitis alérgica	hay fever	BI2025		
+cociente de riesgos instantáneos	hazard ratio	(en epidemiología)	BI2025	
+HR	HR			
+jefe/a	head	BI2025		
+director/a	head	BI2025		
+head	head	(consultar a la coordinadora)	BI2025	
+procesador de muestras automático con espacio libre	headspace autosampler 	BI2025		
+voluntarios sanos 	healthy volunteers	BI2025		
+solicitud de registro sanitario	health registration application	BI2025		
+frecuencia cardíaca 	heart rate [HR]	BI2025		
+acidez	heartburn	BI2025		
+flujo térmico	heat flow	BI2025		
+sellado por termoinducción	heat induction sealing	BI2025		
+termosellar	heat seal	BI2025		
+laca de termosellado	heat seal lacquer	BI2025		
+recubrimiento termosellado	heatseal coating 	BI2025		
+cadena pesada	heavy chain			
+HC	HC	BI2025		
+pruebas para la determinación de metales pesados	heavy metals testing 	BI2025		
+altura	height [H]	(referido a los envases)	BI2025	
+helicobacter pylori	helicobacter pylori	BI2025		
+investigación hematológica	hematological investigation	BI2025		
+hemihidrato	hemihydrate	BI2025		
+forma hemihidratada	hemihydrate form	BI2025		
+hemodinámico/a	hemodynamic	BI2025		
+factor de crecimiento de unión a la heparina	heparin-binding growth factor	BI2025		
+deterioro hepático 	hepatic impairment	BI2025		
+trastornos hepatobiliares	hepatobiliary disorders	BI2025		
+hepatocito	hepatocyte	BI2025		
+medicamento de origen vegetal	herbal medicine	BI2025		
+preparado de origen vegetal	herbal preparation	BI2025		
+sustancia de origen vegetal	herbal substance	BI2025		
+hexametilentetramina	hexamethylenetetramine	BI2025		
+alto peso molecular 	high molecular weight [hmw]	BI2025		
+cromatografía líquida de alta resolución	high performance liquid chromatography			
+HPLC	HPLC	BI2025		
+cromatografía de exclusión por tamaño de alta resolución	high performance size exclusion chromatography			
+HPSEC	HPSEC	BI2025		
+mezclador de alta velocidad	high shear mixer	BI2025		
+mezclador granulador de alta velocidad	high shear mixer granulator	BI2025		
+	high-density polyethylene bottle	frasco de polietileno de alta densidad	BI2025	
+ frasco de HDPE	HDPE bottle	BI2025BI2025		
+técnica de cribado de alto rendimiento 	high-throughput screening	BI2025		
+conejo de Himalaya	Himalayan rabbit	BI2025		
+diclorhidrato de histamina	histamine dihydrochloride	BI2025		
+examen histopatológico	histopathological examination	BI2025		
+histopatología	histopathology	BI2025		
+tasa de coincidencia	hit rate 	(referida al cribado de alto rendimiento) 	BI2025	
+tiempo de espera	hold time	BI2025		
+anticonceptivos hormonales 	hormonal contraceptives 	BI2025		
+células hospedadoras	host cells	BI2025		
+hora	hour [h]	BI2025		
+sistema HP-1100	HP-1100 system	(referido a cromatografía)	BI2025	
+línea celular de carcinoma colónico humano	human colon carcinoma derived cell line	BI2025		
+dosis equivalente a la humana	human equivalent dose 			
+DEH	HED	BI2025		
+virus de la inmunodeficiencia humana	human immunodeficiency virus			
+VIH	HIV	BI2025		
+metabolito humano de fase II	human phase II metabolite	BI2025		
+(IgG1) antibody	humanised antagonistic monoclonal immunoglobulin G1	anticuerpo monoclonal humanizado de tipo inmunoglobulina G1 (IgG1) antagonista	BI2025	
+anticuerpo monoclonal humanizado IgG1	humanized IgG1 monoclonal antibody	BI2025		
+humidificador	humidifier	BI2025		
+hidracina	hydrazine	BI2025		
+sulfato de hidracina	hydrazine sulphate	BI2025		
+ácido clorhídrico	hydrochloric acid	BI2025		
+sal clorhidrato	hydrochloride salt	BI2025		
+hidrofluoroalcano 	hydrofluoroalkane 	BI2025		
+hidrogenar	hydrogenate	BI2025		
+hidrólisis	hydrolysis	BI2025		
+hidrolítico	hydrolytic	BI2025		
+hidróxido	hydroxide	BI2025		
+hidroxipropilmetilcelulosa	hydroxypropylmethylcellulose	BI2025		
+hidroxitriptamina	hydroxytryptamine	BI2025		
+hidroxicina	hydroxyzine	BI2025		
+higroscópico	hygroscopic	BI2025		
+hiperglucemia	hyperglycaemia	BI2025		
+hiperlipidemia 	hyperlipidemias	BI2025		
+hipersensibilidad	hypersensibility	BI2025		
+hipertensión	hypertension 	BI2025		
+hipromelosa	hypromellose	BI2025		
+efecto histéresis	hysteresis effect	BI2025		
+lineamiento de la ICH 	ICH guideline 	BI2025		
+identificación	identity	BI2025		
+iditol	Iditol	BI2025		
+unión al IL-36R mediante el sistema Octet 	IL36R binding by Octet              	BI2025		
+envase primario	immediate pack	BI2025		
+material de acondicionamiento primario	immediate packaging material	BI2025		
+liberación inmediata	immediate release	BI2025		
+inmunocompetencia	immunocompetence	BI2025		
+inmunoglobulina A	immunoglobulin A			
+IgA	IgA	BI2025		
+Inmunoglobulina G	immunoglobulin G			
+IgG	IgG	BI2025		
+parámetro inmunológico	immunologic parameter	BI2025		
+efecto inmunomodulador	immunomodulating effect	BI2025		
+investigación inmunotoxicológica	Immunotoxicological investigation	BI2025		
+propulsor	impeller	BI2025		
+opaco	impenetrable to light	BI2025		
+zona de implantación	implantation site	BI2025		
+inscripción (por ejemplo: una cara del comprimido lleva la inscripción… )	impression (e.g.: one face of the tablet is impressed with...)	BI2025		
+inscripción	imprint	(referido a un comprimido)	BI2025	
+impureza 	impurity 	BI2025		
+in extremis	in extremis	BI2025		
+estabilidad durante el uso	In use stability	BI2025		
+	in vitro	correlación in vitro	BI2025	
+in vivo 	in vivo correlation	BI2025BI2025		
+velocidad de liberación in vitro 	in vitro release rate	BI2025		
+estudio in vitro 	in vitro study	BI2025		
+firma del/de la apoderado/a	in Vollmacht [i.v.]	BI2025		
+excipiente	inactive ingredient	BI2025		
+criterio de inclusión 	inclusion criteria	BI2025		
+diseño en bloques incompletos	incomplete block design	BI2025		
+reanálisis de muestras	Incurred sample reanalysis [ISR]	BI2025		
+índice de contracción ventricular	index for cardiac contractility	BI2025		
+método indicador de oxidación de aminoácidos [IOAA]	Indicator Amino Acid Oxidation [IOAA] method	BI2025		
+solución indicadora	indicator solution	BI2025		
+controles de deriva individuales 	individual drift controls	BI2025		
+valor individual	individual value			
+IV	IV	BI2025		
+mutación provocada	induced mutation	BI2025		
+espectrometría de emisión óptica con plasma de acoplamiento inductivo	inductive coupled plasma optical emission spectroscopy			
+ICP-OES	ICP-OES	BI2025		
+infiltración inflamatoria	inflammatory infiltration	BI2025		
+liberación de mediadores inflamatorios	inflammatory mediator release	BI2025		
+enfermedad inflamatoria de la piel	inflammatory skin disease	BI2025		
+consentimiento informado	informed consent	BI2025		
+secado infrarrojo   	infrared drying	BI2025		
+secado infrarrojo   	IR drying	BI2025		
+espectómetro infrarrojo	infrared spectrometer [IR]	BI2025		
+espectrofotometría infrarroja	infrared spectrophotometry	BI2025		
+espectrofotometría infrarroja	IR spectrophotometry	BI2025		
+espectroscopía infrarroja	infrared spectroscopy	BI2025		
+espectroscopía infrarroja	IR spectroscopy	BI2025		
+espectro infrarrojo	infrared spectrum	BI2025		
+espectro infrarrojo	IR spectrum	BI2025		
+infusión	infusion	BI2025		
+componente	ingredient	(de un comprimido)	BI2025	
+fabricante de los componentes	Ingredient manufacturer	BI2025		
+polvo inhalatorio	inhalation power	BI2025		
+corticoesteroides inhalados	inhaled corticosteroids			
+ICS	ICS	BI2025		
+inhalador	inhaler	BI2025		
+cierre a presión del buje de leva del inhalador	inhaler cam bushing snap fit	BI2025		
+potencial inhibitorio	inhibition potential	BI2025		
+efecto inhibitorio 	inhibitory effect 	BI2025		
+vías inhibitorias	inhibitory pathways	BI2025		
+de uso interno	in-house	BI2025		
+	initiate treatment	inicio del tratamiento	BI2025	
+iniciar el tratamiento 	initiating treatment	BI2025BI2025		
+principio de inyección	injection principle	BI2025		
+reacción en la zona de inyección	injection site reaction 	BI2025		
+ampolla para inyección	injection vial	BI2025		
+inyector	injector	BI2025		
+lesión	injury	BI2025		
+entrada	inlet	(cromatografía)	BI2025	
+filtro de membrana en la vía	in-line filter membrane	BI2025		
+tapa interna	inner cap	BI2025		
+productos inoculados	inoculated products	BI2025		
+tren de inóculo 	inoculum train	BI2025		
+efecto inotrópico	inotropic effect	BI2025		
+controles intermedios del proceso	in-process controls	BI2025		
+parámetros intermedios del proceso	in-process parameters	BI2025		
+pruebas intraproceso	in-process tests	BI2025		
+materia insoluble	insoluble matter	BI2025		
+capacidad inspiratoria	inspiratory capacity	BI2025		
+instilación	instillation	BI2025		
+instrucciones para la manipulación y modo de empleo	instructions for handling and use	BI2025		
+modo de empleo	instructions for use	BI2025		
+control glucémico insuficiente	insufficient glycaemic control	BI2025		
+picos integrables	integrable peaks	BI2025		
+análisis integrado de eficacia	integrated analysis of efficacy	BI2025		
+integrador	Integrator	BI2025		
+unidades de integración	integrator units	BI2025		
+integrina	integrin 	BI2025		
+equipo para prueba de integridad	integrity tester	BI2025		
+tegumento	integument	BI2025		
+cobertura	integument	BI2025		
+tegumentario	integumentary	BI2025		
+fórmula comercial prevista	intended commercial formulation	BI2025		
+fórmula final prevista	intended final formulation			
+IFF	IFF	BI2025		
+partidas previstas de estabilidad primaria 	intended primary stability batches	BI2025		
+	intention-to-treat analysis	análisis por intención de tratar	BI2025	
+análisis IDT	[ITT] analysis	BI2025BI2025		
+estudios para establecer interacciones	interaction studies	BI2025		
+interacciones	interactions	BI2025		
+Interacciones medicamentosas y de otro tipo	Interactions with other medicinal products and other forms of interaction	BI2025		
+intercambiabilidad	interchangeabilty	BI2025		
+pico de interferencia	interfering peak	BI2025		
+isoterma intermedia	interim isotherm	BI2025		
+interindividual	interindividual	BI2025		
+variabilidad entre individuos	inter-individual variability	BI2025		
+interleucina 6	interleukin 6			
+IL-6	IL 6	BI2025		
+inhibidor de la interleucina 	interleukin inhibitor 	BI2025		
+interleucina 36	interlukin 36			
+IL-36	IL36	BI2025		
+señalización del receptor de la interleucina 36 [IL-36R]	interlukin 36 receptor [IL36R] signalling	BI2025		
+compuesto intermedio	intermediate 	(durante el proceso de fabricación)	BI2025	
+precisión intermedia	intermediate precision	BI2025		
+asma intermitente	intermittent asthma	BI2025		
+código interno	internal code 	(de un producto)	BI2025	
+revestimiento interno	internal liner	(de un obturador)	BI2025	
+fecha de la primera autorización a nivel internacional	international birth date	(de un medicamento)	BI2025	
+Conferencia Internacional sobre Armonización de Requisitos Técnicos del Registro de Productos Farmacéuticos para Consumo Humano	International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use	(International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use)		
+ICH	ICH	BI2025		
+Consejo Internacional sobre Armonización de Requisitos Técnicos del Registro de Productos Farmacéuticos para Uso Humano	International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use	(International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use)		
+ICH	ICH	BI2025		
+Denominación común internacional	International Nonproprietary Name			
+DCI	INN	BI2025		
+procedimiento intervencionista	interventional procedure 	BI2025		
+intrapartida	intrabatch	BI2025		
+intraduodenal	intraduodenal			
+i.d.	i.d.	BI2025		
+administración intraduodenal	intraduodenal administration	BI2025		
+neoplasia intraepitelial 	intraepithelial neoplasia 	BI2025		
+variabilidad en un mismo individuo	intra-individual variability	BI2025		
+inyección por vía intramuscular 	intramuscular injection	BI2025		
+variabilidad intraindividuo	intra-subject ratio	BI2025		
+intravenoso	intravenous			
+i.v.	i.v.	BI2025		
+vía intravenosa	intravenous line	BI2025		
+vía de administración intravenosa 	intravenous route of administration	BI2025		
+por vía intravenosa	intravenously	BI2025		
+velocidad de disolución intrínseca	intrinsic dissolution rates	BI2025		
+estudios durante el uso 	in-use studies	BI2025		
+yoduro	iodide	BI2025		
+yodimetría	iodimetry	BI2025		
+yodo	iodine	BI2025		
+yodometría	iodometric assay	BI2025		
+yodometría	iodometry	BI2025		
+cromatografía de intercambio iónico	ion exchange chromatography	BI2025		
+par iónico	ion pair	BI2025		
+reactivo de pares iónicos	ion pairing reagent	BI2025		
+grupos ionizables	ionizable groups	BI2025		
+ionómero	ionomer	BI2025		
+cromatografía de pares de iones	ion-pair chromatography	BI2025		
+cromatografía de pares de iones	ion pair chromatography	BI2025		
+inhibidor irreversible	irreversible inhibitor	BI2025		
+test de Irwin	Irwin study	BI2025		
+test de Irwin	Irwin Test	BI2025		
+test de Irwin	Irwin-test	BI2025		
+				
+cardiopatía isquémica	ischemic heart disease	BI2025		
+isoforma	isoform	BI2025		
+compuesto intermedio aislado	isolated intermediate	BI2025		
+aislador	isolator 	BI2025		
+acetato de isopropilo	isopropyl acetate	BI2025		
+gráfico de isoterma	isotherm plot	BI2025		
+transductor isotónico	isotonic transducer	BI2025		
+picazón 	itching	BI2025		
+molino de chorro	jet mill 	BI2025		
+unión	joint	(referido a rollo de aluminio)	BI2025	
+justificación de los controles en los pasos críticos	justification of controls at critical steps	BI2025		
+	Kaufman Assessment Battery for Children	Batería de evaluación de Kaufman para niños	BI2025	
+Test K-ABC 	K-ABC Test	BI2025BI2025		
+inflamación mediada por queratinocitos	keratinocyte-mediated inflammation	BI2025		
+ácidos cetónicos	ketone acids	BI2025		
+criterio de valoración secundario clave	key secondary endpoint	BI2025		
+criterio de valoración secundario clave	key secondary end-point	BI2025		
+criterio de valoración secundario clave	key outcome measure	BI2025		
+				
+kilogramo	kilogram			
+kg	kg	BI2025		
+kilopondio	kilopond	BI2025		
+cinasa	kinase	BI2025		
+gráfico de cinética	kinetic plot	BI2025		
+ratones con knockout	knockout rats	(deficiencia genética inducida)	BI2025	
+dominio Kringle	Kringle domain	BI2025		
+a escala de laboratorio	lab scale	BI2025		
+etiqueta	label	BI2025		
+información técnica	label	BI2025		
+ficha técnica 	label insert 	BI2025		
+contenido declarado 	labelled claim	BI2025		
+contenido declarado 	label claim	BI2025		
+sistema de datos de laboratorios 	laboratory data system	BI2025		
+precio de venta del laboratorio	laboratory sale price			
+PVL	LSP	BI2025		
+lactato deshidrogenasa	lactate dehydrogenase	BI2025		
+latencia	lag	BI2025		
+campana de flujo laminar	laminar flow cabin	BI2025		
+estudio de referencia	landmark study	BI2025		
+tamaño de partícula grande	large particle size	BI2025		
+difracción de rayos láser	laser diffraction	BI2025		
+difracción de rayos láser	laser-beam diffraction 	BI2025		
+fluorescencia inducida por láser	laser-induced fluorescence			
+LIF	LIF	BI2025		
+detección por fluorescencia inducida por láser 	laser-induced fluorescence detection	BI2025		
+imputación de la última observación realizada	last observation carried forward			
+LOCF	LOCF	BI2025		
+etapas posteriores de desarrollo	late development	BI2025		
+estudio clínico de fase I tardía 	late phase I clinical study	BI2025		
+estudio clínico de fase II tardía 	late phase II clinical study	BI2025		
+secuencia de poliadenilación tardía (“poli A”) 	late polyadenylation (“poly A”) sequence	BI2025		
+infección de tuberculosis latente 	latent tuberculosis infection	BI2025		
+comprimidos multicapa 	layered tablets	BI2025		
+proceso de recubrimiento en forma de capas 	layering process 	BI2025		
+lixiviables	leachables	(cromatografía)	BI2025	
+solución estándar de plomo 	lead standard solution	BI2025		
+solución madre de plomo	lead stock solution	BI2025		
+ensayo de fugas	leak test	BI2025		
+tasa de fuga 	leakage rate	BI2025		
+tasa de fuga 	leaking rate	BI2025		
+fracción de eyección ventricular izquierda	left ventricular ejection fraction			
+FEVI	LVEF	BI2025		
+presión ventricular izquierda	left ventricular pressure			
+PVI	LVP	BI2025		
+cinasa de tirosina específica del leucocito	leukocyte-specific protein tyrosine kinase			
+LcK	LcK	BI2025		
+cucharada al ras	level scoop	BI2025		
+hemorragia potencialmente mortal	life threatening bleeding 	VER		
+ligando	ligand	BI2025		
+cabina de luz	light cabinet	BI2025		
+cadena liviana	light chain			
+LC	LC	BI2025		
+oscurecimiento de luz	light obscuration	BI2025		
+prueba de recuento de partículas por oscurecimiento	light obscuration particle count test	BI2025		
+dispersión de luz	light scattering	BI2025		
+(sometido a) condiciones extremas de luz	light stressed conditions	BI2025		
+resistente a la luz	light-tight	BI2025		
+solución para determinar el límite de cuantificación	limit of quantification solution	BI2025		
+límite de cuantificación	limit of quantitation			
+LOQ	LOQ	BI2025		
+análisis de límite	limit test	BI2025		
+ajuste tipo lineal	linear type fit	BI2025		
+linealidad	linearity	BI2025		
+gráfico de linealidad	linearity plot	BI2025		
+revestimiento	lining	BI2025		
+función de enlace 	link function	BI2025		
+ácido linoleico	linoleic acid	BI2025		
+ácido linolénico	linolenic acid	BI2025		
+medicamento lipófilo	lipophilic drug	BI2025		
+lipofilia	lipophilicity	BI2025		
+lipofobicidad	lipophobicity	BI2025		
+lipooxigenasa	lipoxygenase	BI2025		
+licuefacción	liquefaction	BI2025		
+cromatografía líquida  	liquid chromatography	BI2025		
+cromatografía líquida de alta resolución acoplada a espectrometría de masas en tándem	liquid chromatography coupled to tandem mass spectrometry			
+HPLC - MS/MS	HPLC - MS/MS	BI2025		
+chorros de líquido	liquid jets	BI2025		
+anillo líquido	liquid ring	BI2025		
+centelleo líquido	liquid scintillation 	BI2025		
+medios líquidos de condiciones extremas	liquid stress media	BI2025		
+medios líquidos de condiciones extremas	liquid stress medium	BI2025		
+Lista de tablas	List of tables	BI2025		
+camada	litter	BI2025		
+vacunas con organismos vivos 	live vaccines	BI2025		
+dosis de carga	loading dose	BI2025		
+actividad motriz	locomotor activity	BI2025		
+reducción logarítmica	log reduction	BI2025		
+escala logarítmica	log scale	BI2025		
+ácidos grasos poliinsaturados de cadena larga 	long chain polyunsaturated fatty acids  	BI2025		
+agonistas-beta de acción prolongada	long-acting beta-adrenergic agonist			
+LABA	LABA	BI2025		
+tratamiento de mantenimiento a largo plazo	long-term maintenance treatment	BI2025		
+estudios de estabilidad a largo plazo	long-term stability studies	BI2025		
+agregado incohesivos	loose aggregate	BI2025		
+pérdida por desecación	loss on drying			
+LOD	LOD	BI2025		
+lote (a diferencia de "batch", suele referirse al producto individual, terminado, que es producto de la partida)	lot	BI2025		
+unión a las proteínas plasmáticas baja e independiente de la concentración 	low and concentration independent plasma protein binding	BI2025		
+impureza de bajo nivel	low level impurity	BI2025		
+especies de bajo peso molecular	low molecular weight species			
+LMW	LMW	BI2025		
+de bajo contenido proteico	low protein	BI2025		
+de baja unión a proteínas	low protein binding	BI2025		
+filtro de baja unión a proteínas 	low protein binding filter 	BI2025		
+hidroxipropilcelulosa de baja sustitución	low substituted hydroxypropylcellulose	BI2025		
+límite normal inferior	lower limit of normal			
+LLN	LLN	BI2025		
+límite inferior de cuantificación	lower limit of quantification			
+LLOQ	LLOQ	BI2025		
+vías respiratorias superiores	lower respiratory tract	BI2025		
+disolvente con un pH más bajo	lower solvent pH	BI2025		
+azul de baja intensidad	low-intensity blue 	BI2025		
+pastilla	lozenge	BI2025		
+lubricante	lubricant	BI2025		
+lumiflavina	lumiflavin	BI2025		
+grumos	lumps	BI2025		
+adenocarcinoma pulmonar	lung adenocarcinoma	BI2025		
+función pulmonar	lung function	BI2025		
+licopeno	lycopene	BI2025		
+ganglios linfáticos	lymph nodes	BI2025		
+macrogol	macrogol	BI2025		
+macrófago	macrophage	BI2025		
+óxido de magnesio extra ligero	magnesium oxide, extra light	BI2025		
+estearato de magnesio	magnesium stearate	BI2025		
+índice de disnea de Mahler	Mahler Dyspnoea Indices	BI2025		
+pico principal	main peak 	BI2025		
+Maguncia	Mainz	BI2025		
+almidón de maíz	maize starch	BI2025		
+complicación cardíaca grave	major adverse cardiac event [MACE], major adverse cardiological event			
+MACE	MACE	BI2025		
+complicación hemorrágica grave	major bleeding event			
+MBE	MBE	BI2025		
+pasos principales de operación de la unidad	major unit operation steps	BI2025		
+llevar a enrase	make up to the mark	BI2025		
+llevar a enrase	take up to the mark	BI2025		
+llevar a enrase	fill to the mark	BI2025		
+llevar a enrase	fill up to the mark	BI2025		
+				
+macho	male [m]	BI2025		
+ácido maleico	maleic acid	BI2025		
+maltitol	maltitol	BI2025		
+maltodextrina	maltodextrin	BI2025		
+ensayo de aberraciones cromosómicas de mamíferos	mammalian chromosome aberration test	BI2025		
+manganeso	manganese	BI2025		
+manitol líquido	manitol liquid	BI2025		
+fabricabilidad	manufacturability	BI2025		
+fabricación y comercialización 	manufacture and market	BI2025		
+fabricación	manufacturing [mfg]	BI2025		
+fecha de fabricación	manufacturing date	BI2025		
+proceso de fabricación	manufacturing process 	BI2025		
+valores atípicos marcados	marked outliers	BI2025		
+solicitud de registro	marketing authorization application			
+MAA	MAA	BI2025		
+titular de la autorización de la comercialización	marketing authorization holder	BI2025		
+equilibrio de masas	mass balance	BI2025		
+base de datos de espectros de masas	mass spectral database	BI2025		
+espectrometría de masa 	mass spectrometry	BI2025		
+espectrometría de masas	mass spectrometry	BI2025		
+mastocito	mast cell	BI2025		
+mastocitoma	mast cell tumor	BI2025		
+mastocitoma	mast cell tumour	BI2025		
+registro maestro de partidas	master batch record	BI2025		
+banco de células maestro	master cell bank			
+BCM	MCB	BI2025		
+valores emparejados	matched values	BI2025		
+aparearse, apareamiento 	mate, mating 	BI2025		
+planilla de datos	material data sheet			
+MDS	MDS	BI2025		
+materiales de elaboración 	materials of construction 	BI2025		
+apareamiento	mating	BI2025		
+diseño de análisis de matriz	matrixing	BI2025		
+velocidad máxima	maximal velocity			
+Vmáx	Vmax	BI2025		
+concentración máxima [Cmáx ]	maximum concentration [Cmax] 	BI2025		
+concentración máxima en condiciones de equilibrio	maximum concentration at steady state conditions			
+C(máx,ss)	C(max,ss)	BI2025		
+concentración plasmática, sanguínea y tisular máxima del analito	maximum concentration of analyte in plasma/blood/tissue			
+Cmáx	Cmax	BI2025		
+dosis máxima recomendada en humanos	maximum recommended human dose			
+DMRH	MRHD	BI2025		
+dosis máxima tolerada [DMT] 	maximum tolerated dose [MTD] 	BI2025		
+células que expresan el gen MDR1	MDR1-expressing cells	BI2025		
+porcentaje de error medio absoluto (PEMA)	mean absolute percentage error (MAPE)	BI2025		
+tiempo medio de residencia [MRT] 	mean residence time [MRT] 	BI2025		
+error cuadrático medio (ECM)	mean square error (MSE)	BI2025		
+media aritmética	mean value (MV) 	BI2025		
+medición	measurement	BI2025		
+vaso dosificador	measuring cap	BI2025		
+vaso dosificador	measuring dish	BI2025		
+inhibición basada en el mecanismo	mechanism-based inhibition	BI2025		
+dispositivo médico	medical device	BI2025		
+Diccionario Médico de Actividades Regulatorias	Medical Dictionary for Regulatory Activities	(Medical Dictionary for Regulatory Activities)		
+MedDRA	MedDRA	BI2025		
+criterios médicos de selección para el uso de anticonceptivos	medical eligibility criteria for contraceptive use	BI2025		
+antecedentes	medical history	BI2025		
+historia clínica	medical record	BI2025		
+historia clínica	case history	BI2025		
+medicamento	medicinal product	BI2025		
+medicamento	medicine	BI2025		
+triglicéridos de cadena media	medium-chain triglycerides			
+TCM	MCT	BI2025		
+meglumina	meglumine	BI2025		
+fusión-cristalización	melt-crystallized	BI2025		
+punto de fusión	melting point	BI2025		
+rango de fusión	melting range	BI2025		
+filtración de la membrana	membrane filtration	BI2025		
+índice de desarrollo mental	mental development index			
+IDM	MDI	BI2025		
+abertura de la malla	mesh opening	(de un tamiz)	BI2025	
+malla	mesh screen	(de un tamiz)	BI2025	
+ácido ribonucleico mensajero [ARNm] 	messenger ribonucleic acid [mRNA] 	BI2025		
+expresión del ácido ribonucleico mensajero	messenger ribonucleic acid expression	BI2025		
+metabisulfito	metabisulphite 	BI2025		
+vía metabólica	metabolic pathway	BI2025		
+producto metabólico	metabolic product	BI2025		
+producto metabólico	metabolism product	BI2025		
+metabolismo 	metabolism	BI2025		
+sistema metabolizante	metabolizing system	BI2025		
+metafase	metaphase	BI2025		
+inhalador con válvula dosificadora	metered dose inhaler (MDI)	BI2025		
+inhalador con válvula dosificadora	metered-dose inhalator	BI2025		
+cámara dosificadora	metering chamber	BI2025		
+válvula dosificadora	metering valve	BI2025		
+metanol R	methanol R	BI2025		
+metanólico	methanolic	BI2025		
+solución metanólica de dióxido de azufre en piridina	methanolic pyridine-sulphur dioxide solution	BI2025		
+metenamina	methenamine	BI2025		
+sección metodológica	methodology section	BI2025		
+acetato de metilo	methyl acetate	BI2025		
+metilmetanosulfonato	methyl methanesulfonate	BI2025		
+metilparabeno	methyl paraben	BI2025		
+miligramo por comprimido	mg/tablet	BI2025		
+análisis microbiológico	microbial assay	BI2025		
+contaminación microbiana	microbial contamination	BI2025		
+carga microbiana	microbial load	BI2025		
+pureza microbiológica	microbiological purity	BI2025		
+calidad microbiológica	microbiological quality	BI2025		
+microcristalino	microcrystalline	BI2025		
+celulosa microcristalina	microcrystalline cellulose	BI2025		
+microgramo	microgram			
+µg	µg	BI2025		
+micromolar	micromolar			
+µM	µM	BI2025		
+sucralosa micronizada	micronized sucralose	BI2025		
+micronutriente	micro-nutrient	BI2025		
+mircoorganismos	micro-organisms	BI2025		
+microproteína	microprotein	BI2025		
+proteína microsómica	microsomal protein	BI2025		
+placa de microtitulación	microtiter plate	BI2025		
+midazolam	midazolam	BI2025		
+migraña	migraine	BI2025		
+evento adverso leve	mild adverse event	BI2025		
+reacción leve o moderada (presentar una)	mild or moderate reaction (to develop)	BI2025		
+moler	mill	BI2025		
+miligramo	milligram			
+mg	mg	BI2025		
+mililitro	milliliter	BI2025		
+mililitro	millilitre	BI2025		
+ml	ml	BI2025		
+molienda	milling 	BI2025		
+diferencia mínima clínicamente importante 	Minimal clinical important change			
+MCID	MCID	BI2025		
+carga microbiana mínima	minimal microbial load	BI2025		
+cerdo miniatura	minipig	BI2025		
+minuto	minute			
+min	min	BI2025		
+	miscibility	miscibilidad	BI2025	
+miscible	miscible	BI2025BI2025		
+error en la dosis	misdosing	BI2025		
+dosis omitida	missed dose	BI2025		
+datos perdidos	missing data	BI2025		
+cinasa de proteína activada por mitógenos	mitogen-activated protein kinase			
+MAPK	MAPK	BI2025		
+índice mitótico	mitotic index	BI2025		
+mezclar	mix	BI2025		
+modelo de efectos mixtos con medidas repetidas	mixed model for repeated measures			
+MMRM	MMRM	BI2025		
+reactor	mixing reactor	BI2025		
+vaso mezclador	mixing vessel	BI2025		
+fase móvil	mobile phase	(cromatografía)	BI2025	
+modo de acción	mode of action	BI2025		
+evento adverso moderado	moderate adverse event	BI2025		
+mezcla de HAM F12/DMEM modificada	modified HAM´s F12/DMEM mixture	BI2025		
+denominación internacional de genéricos modificada [mINN] 	modified international non-proprietary name [mINN] 	BI2025		
+medidor de humedad	moisture meter	BI2025		
+molar	molar [M]	BI2025		
+tamiz molecular	molecular sieve	BI2025		
+compuesto de azul de molibdeno‑fosfato	molybdenum-blue-phosphate complex	BI2025		
+monocatión	monocation	BI2025		
+monocitos	monocytes	BI2025		
+monografía	monograph	BI2025		
+monómero	monomer	BI2025		
+cinetosis	motion sickness	BI2025		
+actividad motriz	motor activity	BI2025		
+moho	mould	BI2025		
+ratón	mouse	BI2025		
+boquilla	mouthpiece	(de un aerosol)	BI2025	
+resorte móvil	moving spring	BI2025		
+pasta 	mull	BI2025		
+estudio multicéntrico 	multicenter	BI2025		
+estudio multicéntrico 	multicentre trial /study	BI2025		
+frasco multidosis	multi-dose bottle	BI2025		
+transportador de proteínas de extrusión de toxinas y múltiples fármacos	multidrug and toxin extrusion transporter			
+MATE	MATE	BI2025		
+proteína de resistencia a múltiples fármacos	multidrug resistance protein			
+MRP	MRP	BI2025		
+sistema de cierre plástico de rosca articulado con secante	multipart plastic screw closure containing desiccant	BI2025		
+estudio con dosis múltiples	multiple dose study	BI2025		
+receptor muscarínico colinérgico	muscarinic cholinergic receptor	BI2025		
+mialgia	muscle pain	BI2025		
+estudio de mutagenicidad	mutagenicity study	BI2025		
+célula mutante	mutant cell	BI2025		
+hocico	muzzle	BI2025		
+mielopoyesis	myelopoiesis	BI2025		
+infarto de miocardio	myocardial infarction			
+IM	MI	BI2025		
+dolor persistente	nagging pain	BI2025		
+nanogramo	nanogram			
+ng	ng	BI2025		
+nanómetro	nanometer			
+nm	nm	BI2025		
+nanomolar	nanomolar			
+nM	nM	BI2025		
+descripción detallada del proceso de fabricación	narrative description of the manufacturing process	BI2025		
+solución acuosa nasal	nasal aqueous solution	BI2025		
+Administración Nacional de Medicamentos, Alimentos y Tecnología Médica	National Drug, Food and Medical Technology Agency	(ANMAT) 	BI2025	
+N-desmetilación	N-demethylation	BI2025		
+espectroscopía de infrarrojo cercano	near-infrared spectroscopy	BI2025		
+puro	neat	BI2025		
+gas de nebulización	nebuliser gas	BI2025		
+necrótico	necrotic	BI2025		
+aguja 	needle 	BI2025		
+lavado de la aguja	needle wash	BI2025		
+control negativo	negative control	BI2025		
+insignificante	negligible 	BI2025		
+nefelómetro	nephelometer	BI2025		
+unidad nefelométrica de turbidez	nephelometric turbidity unit			
+UNT	NTU	BI2025		
+nefelometría	nephelometry	BI2025		
+nefropatía	nephropathy	BI2025		
+beneficio clínico neto	net clinical benefit			
+NCB	NCB	BI2025		
+neuropatía	neuropathy	BI2025		
+captación del rojo neutro	neutral red uptake			
+NRU	NRU	BI2025		
+neutrófilo	neutrophil	BI2025		
+neutrofilia	neutrophilia	BI2025		
+mediadores neutrófilos	neutrophilic mediators	BI2025		
+nevirapina anhidra 	nevirapine anhydrous	BI2025		
+hemihidrato de nevirapina	nevirapine hemihydrate	BI2025		
+solicitud de registro [NDA]	new drug application [NDA] 	BI2025		
+cepa de conejo New Zealand White	New Zealand White rabbit strain	BI2025		
+niacinamida	niacinamide	BI2025		
+nada por vía oral	nil per os [n.p.o.]	BI2025		
+nitrilo 	nitril 	BI2025		
+clorhidrato de N-metil ciclohexilamina	n-methylcyclohexylammonium hydrochloride	BI2025		
+sin crecimiento	no growth	BI2025		
+dosis máxima sin efecto adverso observado	no observed adverse effect level / non-observed adverse effect level / non observed adverse effect level			
+NOAEL	NOAEL	BI2025		
+sin muestra	no sample	BI2025		
+(pacientes) sin pústulas visibles 	no visible pustules (patients with) 	BI2025		
+preclínico	non clinical	BI2025		
+preclínico	non-clinical	BI2025		
+fracción de radioactividad no extraíble	non extractable fraction of radioactivity 	BI2025		
+estudio que no cumple con las Buenas Prácticas de Laboratorio   [GLP] 	non Good Laboratory Practices study	BI2025		
+estudio que no cumple con las Buenas Prácticas de Laboratorio   [GLP] 	non GLP study	BI2025		
+infarto de miocardio sin elevación del segmento ST	non ST-segment elevation myocardial infarction			
+IMSEST	NSTEMI	BI2025		
+resumen preclínico	non-clinical overview	BI2025		
+resumen preclínico	nonclinical overview	BI2025		
+estudio no comparativo	non-comparative study	BI2025		
+condiciones de desnaturalización	nondenatured conditions	BI2025		
+aminoácidos no esenciales	non-essential amino acids	BI2025		
+recubrimiento no funcional	non-functional film-coat	BI2025		
+estómago no glandular	nonglandular stomach	BI2025		
+no halogenado	non-halogenated	BI2025		
+producto que no está en fase de investigación clínica	non-investigational product	BI2025		
+medicamento de venta libre 	non-prescription drug	BI2025		
+medicamento de venta libre 	nonprescription drug	BI2025		
+apirógeno	non-pyrogenic	BI2025		
+persona que no responde	non-respondent	(a las preguntas de un cuestionario)	BI2025	
+persona que no responde	nonrespondent	(a las preguntas de un cuestionario)	BI2025	
+persona que no responde	non-responder	(al tratamiento)	BI2025	
+persona que no responde	nonresponder	(al tratamiento)	BI2025	
+válvula de retención	non-return valve	BI2025		
+carcinoma no microcítico de pulmón 	non-small cell lung cancer	BI2025		
+antinflamatorio no esteroide	non-steroidal anti-inflammatory drug			
+AINE	NSAID	BI2025		
+residuo no volátil 	nonvolatile residue	BI2025		
+residuo no volátil 	non-volatile residue	BI2025		
+normalidad	normality	BI2025		
+eritrocito normocromático	normochromatic erythrocytes			
+NCE	NCE	BI2025		
+no corresponde	not applicable			
+No corr.	N/A	BI2025		
+no determinado	not determined			
+no det.	N/D	BI2025		
+como mínimo	not less than [NLT]	BI2025		
+como máximo 	not more than	BI2025		
+como máximo 	no more than [NMT]	BI2025		
+no especificado	not reported			
+n/e	NR	BI2025		
+sin evaluar	not tested			
+s.e.	n.t.	BI2025		
+nota orientativa	note for guidance	BI2025		
+N-oxidación	N-oxidation	BI2025		
+resonancia magnética nuclear	nuclear magnetic resonance			
+RMN	NMR	BI2025		
+nucleofílico	nucleophilic	BI2025		
+cantidad de pacientes	number of patients	BI2025		
+aro de nylon	nylon loop	BI2025		
+aro de sello (o-ring)	o ring	BI2025		
+oscurecimiento	obscuration	BI2025		
+prueba de recuento de partículas por oscurecimiento	obscuration Particle Count Test	BI2025		
+estudio de observación	observational study	BI2025		
+gel de octadecilsilil sílice	octadecylsilyl silica gel	BI2025		
+cociente de probabilidades	odds ratio			
+OR	OR	BI2025		
+O-desalquilación	O-dealkylation	BI2025		
+enantato de estradiol 	oestradiol enanthate 	BI2025		
+cría	offspring	BI2025		
+mutagénesis dirigida por oligonucleótidos 	oligonucleotide-directed mutagenesis	BI2025		
+mapeo de los oligosacáridos	oligosaccharide mapping	BI2025		
+clorhidrato de olodaterol	olodaterol hydrochloride	BI2025		
+el día de su utilización	on the day of use	BI2025		
+fenómeno on/off	on/off phenomenon	(Parkinson)	BI2025	
+una vez al día	once daily [q.d.]	BI2025		
+una vez al día	[qd]	BI2025		
+adicción oncogénica	oncogene addiction	BI2025		
+prueba unilateral	one-sided testing	BI2025		
+método de inicio	onset method 	(referido a cromatografía)	BI2025	
+opalescente	opalescent 	BI2025		
+método de capilar abierto	open capillary method	BI2025		
+estudio abierto	open label study	BI2025		
+almacenamiento al descubierto	open storage 	BI2025		
+estudio de diseño abierto	open study	BI2025		
+boca	opening	(de un frasco)	BI2025	
+esfuerzo de apertura	opening stress	BI2025		
+Área operativa	Operational Area (of testing specification)	BI2025		
+enantiómero	optical isomer	BI2025		
+microscopía óptica	optical microscopy	BI2025		
+camino óptico 	optical path	BI2025		
+pureza óptica	optical purity	BI2025		
+adaptador bucal	oral adaptor	BI2025		
+anticoagulante oral	oral anticoagulant			
+OAC	OAC	BI2025		
+vía de administración oral	oral delivery route	BI2025		
+tolerancia oral a la glucosa	oral glucose tolerance	BI2025		
+prueba de tolerancia oral a la glucosa	oral glucose tolerance test			
+PTOG	oGTT	BI2025		
+pedidos	orders	BI2025		
+distribución de los órganos	organ distribution	BI2025		
+transportador de aniones orgánicos	organic anion transporter [OAT]	BI2025		
+polipéptido transportador de aniones orgánicos	organic anion transporting-polypeptide			
+OATP	OATP	BI2025		
+transportador de cationes orgánicos	organic cation transporter			
+OCT	OCT	BI2025		
+Organización para la Cooperación y el Desarrollo Económico	Organization for Economic Co-operation and Development	(Organization for Economic Co-operation and Development)		
+OECD	OECD	BI2025		
+organoléptico	organoleptic	BI2025		
+medicamento huérfano	orphan drug	BI2025		
+cirugía ortopédica	orthopaedic surgery	BI2025		
+ácido ortofosfórico	Ortho-phosphoric acid 	BI2025		
+osmolalidad	osmolality	BI2025		
+desenlace del estudio clínico	outcome	(es la correcta, pero no se usa)	BI2025	
+criterio de valoración	outcome	(referida al estudio)	BI2025	
+resultado 	outcome	BI2025		
+desenlaces y resultados	outcome and results	BI2025		
+tapa externa	outer cap	BI2025		
+embalaje exterior	outer carton	BI2025		
+valor atípico	outlier	BI2025		
+que no cumple con la especificación	out-of-specification / out of specification			
+OOS	OOS	BI2025		
+resultados que no cumplen con las especificaciones [OOS]	out-of-specification [OOS] results	BI2025		
+resultados que no cumplen con las especificaciones [OOS]	out of specification [OOS] results 	BI2025		
+ovalado	oval shaped	BI2025		
+escalada de temperatura del horno	oven temperature ramp  	BI2025		
+tiempo de calentamiento 	oven time	BI2025		
+producto de venta libre 	over the counter product [OTC product]	BI2025		
+excedente	overage	BI2025		
+sobrellenado	overfill	BI2025		
+cromatograma superpuesto	overlay chromatogram	BI2025		
+de rápida acción	overnight	BI2025		
+hasta el día siguiente (por ejemplo: dejar la disolución en reposo hasta el día siguiente) 	overnight (e.g. allow the solution to stand overnight)	BI2025		
+sobrepresión	overpressure	BI2025		
+análisis exhaustivo	overread	BI2025		
+resumen	overview 	BI2025		
+oxalato	oxalate	BI2025		
+ácido oxálico 	oxalic acid	BI2025		
+desmetilación oxidativa	oxidative demethylation	BI2025		
+sometido a condiciones de agresión oxidativa	oxidative stressed	BI2025		
+agente oxidante	oxidizing agent	BI2025		
+valor p	p value	BI2025		
+acondicionamiento	package	BI2025		
+contenido del envase	package fill	BI2025		
+prospecto	package insert	BI2025		
+empaque	packaging 	BI2025		
+volumen de células empaquetadas	packed cell volume			
+PCV	PCV	BI2025		
+columna de relleno	packed column	(cromatografía)	BI2025	
+material de acondicionamiento	packing material	BI2025		
+aparato de paleta	paddle apparatus	BI2025		
+método de paleta	paddle method	BI2025		
+cromatografía líquida con método de paletas	paddle method liquid chromatography	BI2025		
+dolor	pain	(por lo general, todo tipo de dolor y en cualquier localización cuando no es continuo y fijo en la cabeza, la espalda, los oídos, las muelas ni el estómago; ver "ache").	BI2025	
+Escala visual analógica del dolor	Pain Visual Analog Scale			
+EVA	EVA	BI2025		
+emparejar	pair	BI2025		
+paladio 	palladium 	BI2025		
+equipo para pruebas de integridad de filtros Palltronic	Palltronic tester	BI2025		
+ácido palmítico	palmitic acid	BI2025		
+bandeja 	pan	BI2025		
+pancitopenia	pancytopenia	BI2025		
+pantoprazol sódico 	pantoprazole-sodium	BI2025		
+pantoprazol magnésico 	pantoprozole-magnesium	BI2025		
+paquímetro	paquimeter	BI2025		
+parahidroxibenzoato	parahydroxybenzoate	BI2025		
+grupos paralelos	parallel group 	(referido a estudios clínicos)	BI2025	
+partidas originales	parent batches	BI2025		
+línea celular parental 	parent cell line	BI2025		
+compuesto original	parent compound	BI2025		
+fármaco original	parent drug  	BI2025		
+distribución de las partículas según su tamaño	particle size distribution	BI2025		
+contaminación por partículas	particulate contamination	BI2025		
+partículas 	particulate matter	BI2025		
+coeficiente de reparto 	partition coefficient	BI2025		
+partes por millón	parts per million			
+ppm	ppm	BI2025		
+longitud de recorrido	path length	BI2025		
+patógeno	pathogen	BI2025		
+patogenia	pathogenesis	BI2025		
+patogénico	pathogenic	BI2025		
+trastornos hipersecretorios patológicos	pathological hypersecretory conditions	BI2025		
+fisiopatología	pathophysiology	BI2025		
+grupos de análisis de pacientes	patient analysis sets	BI2025		
+folleto para el paciente	patient information leaflet			
+PIL	PIL	BI2025		
+años-paciente	patient-years	BI2025		
+color durazno	peach-coloured	BI2025		
+área del pico	peak area	BI2025		
+respuesta del área del pico	peak area response	BI2025		
+flanco del pico	peak flank	BI2025		
+concentraciones máximas	peak levels	BI2025		
+resolución del pico	peak resolution 	BI2025		
+coeficiente de correlación de Pearson	Pearson correlation coefficient	BI2025		
+molino de paletas	peg mill 	BI2025		
+gránulo	pellet	BI2025		
+penicilina	penicillin-streptomycin [pen/strep]	BI2025		
+estreptomicina 	penicillin-streptomycin [pen/strep]	BI2025		
+pentobarbital sódico	pentobarbital sodium	BI2025		
+aceite esencial de menta piperita	peppermint oil	BI2025		
+pepstatina	pepstatin	BI2025		
+por vía oral	per os			
+v.o.	p.o.	BI2025		
+porcentaje de materiales finos	percent fines	BI2025		
+percentil	percentile	BI2025		
+intervención coronaria percutánea	percutaneous coronary intervention			
+ICP	PCI	BI2025		
+rinitis alérgica	perennial rhinitis	BI2025		
+bomba de perfusión	perfusion pump	BI2025		
+Informe Periódico de Seguridad	Periodic Safety Update Report			
+PSUR	PSUR	BI2025		
+períodos de inactividad	periods of nonuse	BI2025		
+períodos de inactividad	periods of non-use	BI2025		
+períodos de inactividad	non-use period	BI2025		
+				
+sangre periférica	peripheral blood	BI2025		
+estudio de permeabilidad	permeability study	BI2025		
+peroxidasa	peroxidase	BI2025		
+peróxido	peroxide	BI2025		
+perpetrador	perpetrator	BI2025		
+análisis por protocolo	per-protocol analysis	BI2025		
+persistir	persist	(referido a síntomas)	BI2025	
+personal interviniente 	personnel involved	BI2025		
+placa de Petri	Petri dish	BI2025		
+glycoproteína P	P-glycoprotein	BI2025		
+ratas con glycoproteína P inhibida	P-glycoprotein inhibited rats	BI2025		
+peachímetro	pH meter	BI2025		
+ajustar a un determinado pH	pH-adjusted	BI2025		
+Convención de Inspección Farmacéutica	Pharmaceutical Inspection  Convention	BI2025		
+producto farmacéutico	pharmaceutical product	BI2025		
+farmacodinámica	pharmacodynamic	BI2025		
+farmacodinamia	pharmacodynamics	BI2025		
+datos farmacocinéticos	pharmacokinetic data	BI2025		
+parámetros farmacocinéticos 	pharmacokinetic parameters	BI2025		
+farmacocinética	pharmacokinetics	BI2025		
+perfil farmacológico	pharmacology profiling	BI2025		
+calidad farmacopeica	pharmacopoeial	BI2025		
+ensayo clínico de fase I	phase I clinical trial	BI2025		
+solubilidad dependiente del pH	pH-dependent solubility	BI2025		
+fracción de fenol	phenol moiety	BI2025		
+fenolftaleína	phenolphthalein	BI2025		
+fenilalanina	phenylalanine	BI2025		
+fenilcetonuria 	phenylketonuria 	BI2025		
+solución salina amortiguadora de fosfatos	phosphate buffered saline	BI2025		
+inhibidor de la fosfodiesterasa-4 	phosphodiesterase-4 inhibitor	BI2025		
+receptor fosforilado del factor de crecimiento epidérmico	phosphorylated epidermal growth factor receptor			
+pEGFR	pEGFR	BI2025		
+matriz de fotodiodos 	photodiode array	BI2025		
+barrido espectral de matriz de fotodiodos	photodiode array spectral scanning	BI2025		
+fotoinducción	photo-induction	BI2025		
+factor de fotoirritación	photo-irritation factor	BI2025		
+fotolitos	photoliths	BI2025		
+determinación fotométrica	photometric determination	BI2025		
+fotoestabilidad	photostability	BI2025		
+prueba de fotoestabilidad	photostability testing	BI2025		
+sometido a condiciones extremas de luz	photostressed	BI2025		
+parámetros físico-químicos  	physical and chemical parameters	BI2025		
+prueba física	physical test	BI2025		
+perforadora	piercing device	BI2025		
+dolor punzante	piercing pain	BI2025		
+mezcla de pigmentos	pigment blend	BI2025		
+tapa inviolable 	pilfer-proof cap	BI2025		
+píldora	pill	BI2025		
+piloerección	piloerection	BI2025		
+pioglitazona	pioglitazone	BI2025		
+piperidina	piperidine	BI2025		
+pipetear 	pipette	BI2025		
+estudio pivote	pivotal study	BI2025		
+comparativo con placebo	placebo controlled 	(referido a estudios clínicos)	BI2025	
+placebo del mismo aspecto que la linagliptina 	placebo matching linagliptin	BI2025		
+unidades formadoras de placa	plaque-forming units			
+UFP	PFU	BI2025		
+esterasas hepáticas y plasmáticas	plasma and hepatic esterases	BI2025		
+transportador de monoaminas por la membrana plasmática	plasma Membrane Monoamine Transporter			
+PMMT	PMMT	BI2025		
+plastificante	plasticizer	(de un comprimido)	BI2025	
+método de incorporación en placa	plate incorporation method	BI2025		
+meseta	plateau	(de una curva)	BI2025	
+meseta de eficacia	plateau level of effectiveness 	BI2025		
+agregación plaquetaria	platelet aggregation	BI2025		
+receptor del factor de crecimiento derivado de plaquetas	platelet derived growth factor receptor			
+PDGFR	PDGFR	BI2025		
+plasma con escasas plaquetas	platelet-poor plasma			
+ppp	ppp	BI2025		
+plasma rico en plaquetas	platelet-rich plasma	BI2025		
+preparación de cultivos en placas	plating	BI2025		
+pletismografía	plethysmography	BI2025		
+plexos coroideos	plexus choroideus	BI2025		
+émbolo	plunger rod	(de una jeringa)	BI2025	
+descargador neumático móvil	pneumatic mobile exit	BI2025		
+p-nitrofenilfosfato	p-nitrophenylphosphate	BI2025		
+mutación puntual	point mutation	BI2025		
+puntos por segundo	points per second [pt/sec]	BI2025		
+filtro polarizador	polarized light filter	BI2025		
+pulido	polishing	(referido a comprimidos)	BI2025	
+polietileno	polyethylene [PE]	BI2025		
+bolsas de polietileno con precintos 	polyethylene bags with binders 	BI2025		
+cierre inviolable de polietileno	polyethylene evident closure	BI2025		
+polietilenglicol	polyethylene glycol	BI2025		
+bolsa Whirl-Pak de polietileno para toma de muestras 	polyethylene Whirl-Pak sample bag	BI2025		
+caracterización de polimorfos	polymorphism screening	BI2025		
+polimorfos	polymorphs	BI2025		
+poliol	polyol	BI2025		
+polioximetileno	polyoxymethylene	BI2025		
+oligómeros de polipropileno 	polypropylene oligomers 	BI2025		
+polisorbato	polysorbate	BI2025		
+polisorbato 20 	polysorbate 20 	BI2025		
+poliestireno	polystyrol	BI2025		
+policloruro de vinilo	polyvinyl chloride			
+PVC	PVC	BI2025		
+	polyvinyl chloride forming foil	lámina cavitada de policloruro de vinilo	BI2025	
+lámina cavitada de PVC 	PVC forming foil	BI2025BI2025		
+	polyvinyl chloride transparent foil	lámina transparente de policloruro de vinilo	BI2025	
+lámina transparente de PVC 	PVC transparent foil 	BI2025BI2025		
+mezcla	pool	BI2025		
+unión	pool	BI2025		
+conjunto	pool	BI2025		
+grupo	pool	BI2025		
+reserva	pool	BI2025		
+depósito	pool	BI2025		
+análisis conjunto	pooled analysis	BI2025		
+solución conjunta 	pooled solution	BI2025		
+platillo de porcelana 	porcelain dish	BI2025		
+tamaño del poro	pore size	BI2025		
+agente formador de poros 	pore-forming agent	BI2025		
+filtro de inmersión de vidrio sinterisado de porosidad G2	porosity G2 sintered glass immersion filter 	BI2025		
+prueba de precipitación positiva	positive precipitation test	BI2025		
+índice positivo de riesgo/beneficio	positive risk/benefit ratio	BI2025		
+Protocolo de estabilidad y compromisos de estabilidad posteriores a la aprobación	Post-Approval Stability Protocol and Stability Commitment	BI2025		
+período posterior al tratamiento	post-treatment period	BI2025		
+yoduro de potasio	potassium iodide	BI2025		
+fosfato monobásico de potasio	potassium-dihydrogen phosphate	BI2025		
+impurezas potenciales	potential impurities 	BI2025		
+valoración potenciométrica	potentiometric titration	BI2025		
+método potenciométrico	potentiometric titration method	BI2025		
+povidona	povidone	BI2025		
+flujo del polvo	powder flow	BI2025		
+precipitar	precipitate	BI2025		
+placa de precipitación	precipitation plate	BI2025		
+precisión	precision	BI2025		
+preclínico/a	preclinical 	(referido a estudios clínicos)	BI2025	
+asintomático/a	preclinical 	(referido a una enfermedad)	BI2025	
+ion precursor	precursor ion	(en espectrometría de masas)	BI2025	
+ion precursor	progenitor ion	(en espectrometría de masas)	BI2025	
+ion precursor	parent ion	(en espectrometría de masas)	BI2025	
+				
+intervalo de predicción	prediction interval	(referido a estadística)	BI2025	
+previo al ejercicio	pre-exercise	BI2025		
+término preferente	preferred term			
+TP	PT	(referido al MedDRA)	BI2025	
+jeringa prellenada	pre-filled syringe	BI2025		
+jeringa prellenada	prefilled syringe	BI2025		
+pregelatinizado	pregelatinized	BI2025		
+método de preincubación	preincubation method	BI2025		
+premezclado	pre-blending	BI2025		
+premezcla	pre-mixing	BI2025		
+antes de la dosis matutina	pre-morning dose	BI2025		
+prellenada	pre-packed	(referido a la columna de HPLC)	BI2025	
+cómo preparar la toma	preparing the feed	BI2025		
+volumen previo a la ejecución	pre-run volume	BI2025		
+prospecto profesional	prescribing information	BI2025		
+receta	prescription	BI2025		
+prescripción médica	prescription	BI2025		
+conservante	preservative 	BI2025		
+solución para inhalación con conservantes	preserved inhalation solution	BI2025		
+prensa	pressing tool	BI2025		
+caída de presión	pressure drop	BI2025		
+aerosol presurizado	pressurized aerosol	BI2025		
+valor inicial previo al tratamiento	pre-treatment baseline	BI2025		
+pacientes con tratamiento previo	previously treated patients	BI2025		
+criterio de valoración primario 	primary endpoint	BI2025		
+criterio de valoración primario 	primary end-point	BI2025		
+criterio de valoración primario 	primary outcome measure	BI2025		
+				
+acondicionamiento primario /envase primario	primary packaging	BI2025		
+componentes del acondicionamiento primario	primary packaging components	BI2025		
+estudios de estabilidad primaria	primary stability studies	BI2025		
+prevención primaria de la tromboembolia venosa	primary venous thromboembolism prevention			
+pVTEp	pVTEp	BI2025		
+cebar	prime	BI2025		
+limpiar 	prime	BI2025		
+cebado	priming	BI2025		
+distribución probabilística 	probability distribution	BI2025		
+controles del proceso	process controls	BI2025		
+datos del proceso	process data	BI2025		
+ingeniería de procesos 	process engineering	BI2025		
+impureza resultante del proceso	process impurity	BI2025		
+Calificación del funcionamiento del proceso	Process Performance Qualification			
+PPQ	PPQ	BI2025		
+esquema de validación del proceso	process validation scheme	BI2025		
+coadyuvante de elaboración	processing aid	BI2025		
+método de procesamiento	processing method	BI2025		
+profármaco	prodrug	BI2025		
+identificación de la composición del producto	product composition identification	BI2025		
+ficha técnica	product data sheet	BI2025		
+ficha técnica	product documentation sheet [PDS]	BI2025		
+prospecto	product leaflet	BI2025		
+prospecto	product insert 	BI2025		
+línea celular de producción 	production cell line	BI2025		
+cultivo de producción	production culture	BI2025		
+vías profibróticas	pro-fibrotic pathways	BI2025		
+citocinas proinflamatorias 	proinflammatory cytokines 	BI2025		
+vías proinflamatorias  	pro-inflammatory pathways	BI2025		
+proliferación de microorganismos	proliferation of microorganisms	BI2025		
+sin propelentes	propellant-free	BI2025		
+Propiedad de Boehringer lngelheim - Confidencial	Property of Boehringer Ingelheim - treat confidentially	BI2025		
+criterios de aceptación propuestos 	proposed acceptance criteria	BI2025		
+proceso de fabricación comercial propuesto	proposed commercial manufacturing process	BI2025		
+Información confidencial protegida por derechos de propiedad intelectual. © 2024 Boehringer Ingelheim International GmbH o sus empresas afiliadas. Todos los derechos reservados.	Proprietary confidential information. Copyright 2009 Boehringer Ingelheim International GmbH or one or more of its affiliated companies. All rights reserved.	BI2025		
+propilenglicol 	propylene glycol	BI2025		
+hidroxibenzoato de propilo	propylhydroxybenzoate	BI2025		
+envase protector	protective packaging 	BI2025		
+interacciones de desplazamiento durante la unión a las proteínas	protein binding displacement interactions	BI2025		
+concentración de proteínas por barrido UV	protein concentration by UV-scan	BI2025		
+fragmento de protrombina	prothrombin fragment			
+PF	PF	BI2025		
+tiempo de protrombina	prothrombin time			
+PT	PT	BI2025		
+inhibidor de la bomba de protones	proton pump inhibitor			
+PPI	PPI	BI2025		
+correlación heteronuclear de enlaces múltiples entre protones y carbono	proton-carbon heteronuclear multiple-bond correlation	BI2025		
+Índice de la severidad del área de psoriasis pustulosa generalizada	Psoriasis Area and Severity Index for Generalized Pustular Psoriasis			
+GPPASI 75	GPPASI 75	BI2025		
+puntuación de la Escala de síntomas de psoriasis	Psoriasis Symptom Scale score	BI2025		
+puntuación de la Escala de síntomas de psoriasis	PSS score	BI2025		
+aplicación /pulsación /nube de suave dispersión	puff	BI2025		
+fecha de muestreo	pull date	BI2025		
+embolia pulmonar	pulmonary embolism			
+EP	PE	BI2025		
+examen de la función pulmonar	pulmonary function testing [PFT]	BI2025		
+medicación pulmonar	pulmonary medication	BI2025		
+pulpa	pulp	BI2025		
+ancho del pulso	pulse width	BI2025		
+bomba	pump	BI2025		
+velocidad de bombeo	pump rate	BI2025		
+punzón	punch surface	BI2025		
+orden de compra	purchase order	BI2025		
+agua purificada	purified water	BI2025		
+blíster de apertura a presión	push-through blister	BI2025		
+aclaramiento pustular 	pustular clearance	BI2025		
+subpuntuación de pustulación 	pustulation sub score 	BI2025		
+clorhidrato de piridoxina	pyridoxine hydrochloride	BI2025		
+pirólisis	pyrolysis	BI2025		
+piruvato	pyruvate	BI2025		
+personal idóneo	qualified person [QP]	BI2025		
+director técnico	qualified person [QP]	(si se tiene esa información)	BI2025	
+composición cuali-cuantitativa	qualitative and quantitative composition	BI2025		
+Gestión de Registros y Gestión de Calidad	Quality and Records Management	(Quality and Records Management) 	BI2025	
+aseguramiento de la calidad	quality assurance	BI2025		
+control de calidad	quality control			
+QC	QC	BI2025		
+Gestión de calidad	Quality Management	(Quality Management)	BI2025	
+límite de cuantificación	quantitation limit			
+QL	QL	BI2025		
+cuantitativo	quantitative	BI2025		
+composición cuantitativa	quantitative composition	BI2025		
+cuádruple  [c] 	quartet [q] 	(referido a espectroscopía)	BI2025	
+quinazolina	quinazoline	BI2025		
+sector de soporte	rack section	BI2025		
+pureza radioquímica	radiochemical purity	BI2025		
+radiomarcado	radiolabelled	BI2025		
+radioligando	radioligand	BI2025		
+tasa de calentamiento	ramp	(cromatografía)	BI2025	
+estudio clínico aleatorizado	randomised clinical study	BI2025		
+estudio clínico aleatorizado	randomized clinical study	BI2025		
+rango	range 	BI2025		
+correlación por rangos	rank order correlation	BI2025		
+evaluador rápido de humedad	rapid moisture tester	BI2025		
+enfermedad rara	rare disease	BI2025		
+tamiz de rejilla	rasp screen	BI2025		
+rata	rat	BI2025		
+polímero que controla la velocidad de liberación	rate controlling polymer	BI2025		
+	ratio signal	relación señal	BI2025	
+ruido	noise	BI2025BI2025		
+datos preliminares	raw data 	BI2025		
+archivo de datos preliminares	raw data storage 	BI2025		
+materia prima	raw materials	BI2025		
+reacción de sulfatos	reaction of sulphates	BI2025		
+velocidad de reacción	reaction rate	BI2025		
+metabolitos intermedios reactivos	reactive metabolite intermediates	BI2025		
+paso de lectura	read step	BI2025		
+paso de lectura	reading step	BI2025		
+sustancias fácilmente carbonizables	readily carbonisable substances	BI2025		
+bolsas de infusión listas para usar 	ready to use infusion bags	BI2025		
+reaireación	reaeration	(referido a un compuesto)	BI2025	
+criar	rear	BI2025		
+programa de renovación de imagen	rebranding program	BI2025		
+análisis de fijación a receptores	receptor binding assay	BI2025		
+cantidades diarias recomendadas	recommended daily allowance			
+CDR	RDA	BI2025		
+dosis recomendada	recommended dose	BI2025		
+tiempo de reacondicionamiento 	reconditioning time 	BI2025		
+tiempo de reconsitución	reconstitution time	BI2025		
+cuaderno de registros	records log book	BI2025		
+recuperación	recovery			
+recup.	recov.	BI2025		
+identificación, búsqueda, selección e incorporación	recruitment	(de los sujetos para participar en un estudio clínico)	BI2025	
+objetivo de inclusión	recruitment goal	(referido a los sujetos de un estudio clínico)	BI2025	
+plazo de inclusión	recruitment period	BI2025		
+período de inclusión	recruitment period	(referido a los sujetos de un estudio clínico)	BI2025	
+brotes agudos recurrentes 	recurring flares	BI2025		
+glóbulos rojos	red blood cells [RBC]	BI2025		
+masa eritrocitaria	red cell mass	BI2025		
+óxido de hierro rojo	red iron oxide	BI2025		
+castaño rojizo	red-brown	BI2025		
+enrojecimiento	redness	BI2025		
+etapas de reducción – carboximetilación	reducing – carboxymethylation [RCM] steps	(referido al almacenamiento de las muestras) 	BI2025	
+agente de reducción	reducing agent	BI2025		
+carretel	reel	(de un rollo)	BI2025	
+tiempo de reequilibrado	re-equilibration time	BI2025		
+espectro de referencia	reference spectrum	BI2025		
+estándar de referencia 	reference standard 	BI2025		
+sustancia de referencia	reference substance	BI2025		
+reflujo esofágico	reflux oesophagitis	BI2025		
+índice de refracción	refractive index	BI2025		
+refrigerador	refrigerator	BI2025		
+isómero posicional	regioisomer	BI2025		
+registrar	register	(un producto)	BI2025	
+sede social	registered office	(de la compañía)	BI2025	
+especificación analítica para registro	registration testing specification	BI2025		
+regresión	regression	(en estadística)	BI2025	
+Asuntos Regulatorios	Regulatory Affairs	BI2025		
+eliminación relativa	relative excretion	BI2025		
+humedad relativa	relative humidity			
+h.r.	r.h.	BI2025		
+humedad relativa	relative humidity			
+HR	RH	BI2025		
+tiempo de retención relativo	relative retention time			
+RRT	RRT	BI2025		
+desviación estándar relativa	relative standard deviation	BI2025		
+volumen relativo	relative volume			
+vol. rel.	V rel	BI2025		
+liberar	release 	(por ejemplo, partidas)	BI2025	
+polímero que controla la velocidad de liberación	release-controlling polymer	BI2025		
+deterioro renal	renal impairment	BI2025		
+repetibilidad	repeatability	BI2025		
+estudio de dosis repetidas	repeat-dose study	BI2025		
+análisis de repetibilidad	repeatibility testing	BI2025		
+informe	report	BI2025		
+resultado que debe informarse	reportable result	BI2025		
+nivel de informe	reporting level 	BI2025		
+umbral de informe	reporting threshold	BI2025		
+reproducibilidad	reproducibility	BI2025		
+medicación de rescate	rescue medication	BI2025		
+grado de investigación	research grade	BI2025		
+tanque de reserva	reservoir	BI2025		
+catalizador residual	residual catalyst	BI2025		
+humedad residual	residual moisture	BI2025		
+disolventes residuales	residual solvents	BI2025		
+desviación estándar residual	residual standard deviation	BI2025		
+suma de los cuadrados debidos al error	residual sum of squares	BI2025		
+residuo de ignición	residue on ignition	BI2025		
+mutación de resistencia 	resistance mutation	BI2025		
+se resuelve (una infección)	resolve (an infection)	BI2025		
+resonancia	resonance	BI2025		
+mecanismo de cierre Respimat	Respimat locking mechanism	BI2025		
+Respimat Soft Mist	Respimat Soft Mist	BI2025		
+ritmo respiratorio	respiration rate	BI2025		
+volumen respiratorio	respiration volume	BI2025		
+vías respiratorias	respiratory tract	BI2025		
+infección respiratoria 	respiratory tract infection [RTI]	BI2025		
+sensibilidad	responsiveness	(a un medicamento)	BI2025	
+dolor en reposo	rest pain	BI2025		
+picos restantes	rest peaks	BI2025		
+gasto energético en reposo	resting energy expenditure			
+GER	REE	BI2025		
+potencial de membrana en reposo	resting membrane potential 	BI2025		
+máxima similitud restringida	restricted maximum likelihood			
+REML	REML	BI2025		
+resultado	result	(matemático)	BI2025	
+código de identificación del resultado	result identification	BI2025		
+código de identificación del resultado	result-ID	BI2025		
+reanudar (por ejemplo: la administración debe reanudarse)	resume (e.g.: dosing should be resumed)	BI2025		
+retraso	retardation	BI2025		
+tiempo de retención	retention time  	BI2025		
+período de repetición del análisis 	re-test period	BI2025		
+período de repetición del análisis 	retest period	BI2025		
+período de repetición del análisis 	retesting period	BI2025		
+				
+reticulosarcoma	reticulum cell sarcoma	BI2025		
+estudio retrospectivo de cohortes	retrospective cohort study	BI2025		
+agua obtenida por ósmosis inversa	reverse osmosis water	BI2025		
+fase reversa	reverse phase 	(en cromatografía)	BI2025	
+método de gradiente de fase reversa	reverse-phase gradient method	(en cromatografía)	BI2025	
+inhibidor reversible	reversible inhibitor	BI2025		
+rabdomiólisis	rhabdomyolysis	BI2025		
+riboflavina	riboflavin	BI2025		
+ácido ribonucleico [ARN] 	ribonucleic acid [RNA] 	BI2025		
+velocidad de bomba de lavado	rinse pump rate	BI2025		
+madurez	ripeness	BI2025		
+Plan de gestión de riesgos	Risk Management Plan			
+RMP	RMP	BI2025		
+cociente de riesgos	risk ratio	(en epidemiología)	BI2025	
+robustez	robustness	(referido a un método)	BI2025	
+interruptor basculante	rocker switch	BI2025		
+rollo	roll	BI2025		
+temperatura ambiente	room temperature	BI2025		
+evaporador rotativo	rotary evaporator	BI2025		
+prensa rotativa	rotary press	BI2025		
+cuchilla giratoria	rotating blade	BI2025		
+platillo giratorio	rotating pan	BI2025		
+platillo giratorio	rotated pan	BI2025		
+higrómetro Rotronic	Rotronic hygrometer	BI2025		
+matraz de fondo redondo 	round-bottom flask	BI2025		
+matraz de fondo redondo 	round bottom flask	BI2025		
+sarcoma de Rous	Rous sarcoma 	BI2025		
+vía de eliminación	route of excretion	BI2025		
+procesamiento sistemático	routine processing	BI2025		
+analizada/o en un procedimiento de rutina	routinely analyzed	BI2025		
+corrida	run	BI2025		
+buffer de corrida	run buffer	BI2025		
+distancia recorrida por la muestra	run distance	(en HPLC)	BI2025	
+tiempo de ejecución	run time	BI2025		
+	run-in period	plazo de inclusión	BI2025	
+período de inclusión	lead-in period	(referido a los sujetos de un estudio clínico)	BI2025BI2025	
+período final de reposo farmacológico	run-out period	(referido a un estudio clínico)	BI2025	
+seguridad 	safety 	BI2025		
+umbral de seguridad	safety concern threshold	BI2025		
+protector de seguridad	safety cover	(de una jeringa)	BI2025	
+perfil de seguridad	safety profile	(de los medicamentos)	BI2025	
+pruebas de seguridad	safety testing	BI2025		
+salmonella	salmonella	BI2025		
+muestra	sample 	BI2025		
+haz de lectura de la muestra	sample beam	(espectrometría)	BI2025	
+blanco de muestra	sample blank	BI2025		
+obtención de muestras	sample collection	BI2025		
+tubo para toma de muestras	sample collection tube			
+TTM	SCT	BI2025		
+portamuestras	sample holder	BI2025		
+puerto de inducción de la muestra	sample induction port	BI2025		
+momento de muestreo	sample time point	BI2025		
+momento de muestreo	sampling time point	BI2025		
+frecuencia de muestreo	sampling rate	BI2025		
+estructura base 	scaffold structure	BI2025		
+adaptado a la escala de	scaled to	BI2025		
+proceso de incremento de escala 	scale-up	BI2025		
+partidas a escala comercial	scale-up batches	BI2025		
+piel descamada	scaly skin	BI2025		
+centellograma	scintillation	BI2025		
+cucharadas	scoops	BI2025		
+comprimido ranurado	scored tablet	BI2025		
+ranura	scoreline	(referido a un comprimido)	BI2025	
+ranura	break score	(referido a un comprimido)	BI2025	
+ranura	break mark	(referido a un comprimido)	BI2025	
+				
+ranura	break bar	(referido a un comprimido)	BI2025	
+ranura	breakline	(referido a un comprimido)	BI2025	
+				
+seleccionar (referido a estudios clínicos)	screen (subjects)	BI2025		
+prueba de detección de la carcinogenia	screening test for carcinogenicity	BI2025		
+frasco con tapa a rosca	screw-necked bottle	BI2025		
+mecha con punta roscada	screw-threaded spike	BI2025		
+tapa a rosca	screw-top 	(referido a un frasco)	BI2025	
+envase de vidrio sellado	sealed glass container 	BI2025		
+precinto de seguridad	sealing	BI2025		
+junta selladora	sealing gasket	BI2025		
+selladora	sealing machine	BI2025		
+rinitis alérgica estacional	seasonal allergic rhinitis			
+RAE	SAR	BI2025		
+segunda generación 	second generation 	BI2025		
+amina secundaria	secondary amine	BI2025		
+criterio de valoración secundario 	secondary endpoint	BI2025		
+criterio de valoración secundario 	secondary end-point	BI2025		
+criterio de valoración secundario 	secondary outcome measure	BI2025		
+				
+acondicionamiento secundario	secondary packaging	BI2025		
+tren de semillas	seed train	BI2025		
+sembrado	seeding 	BI2025		
+atrofia segmentaria	segmental atrophy	BI2025		
+selectividad	selectivity	BI2025		
+seleniato	seleniate	BI2025		
+selenio	selenium	BI2025		
+autosustentado/a 	self-sustained (to be)	BI2025		
+sensible al calor	sensitive to heat 	BI2025		
+sensible a la humedad 	sensitive to humidity  	BI2025		
+recuperación de la sensibilidad	sensitivity recovery	BI2025		
+embudo de decantación	separating funnel	BI2025		
+número de serie	serial number	BI2025		
+serio/grave (ver contexto). Evitar el uso de "severo" como sinónimo de grave ya que se trata de un anglicismo aún no definido.	serious	BI2025		
+evento adverso serio	serious adverse event	BI2025		
+reacción adversa grave	serious adverse reaction	BI2025		
+efecto secundario grave	serious side effect	BI2025		
+seroalbúmina 	serum albumin 	BI2025		
+concentración sérica	serum level	BI2025		
+medio de cultivo celular libre de suero y con bajo contenido de proteínas	serum-free, low-protein cell culture media	BI2025		
+aceite de sésamo 	sesame oil 	BI2025		
+sesquihidrato	sesquihydrate	BI2025		
+grave	severe	(referido a una patología o a una herida)	BI2025	
+intenso/a, fuerte	severe	(dolor), avanzado/a (también de una enfermedad) (ver contexto). Evitar el uso de "severo" como sinónimo de grave ya que se trata de un anglicismo aún no definido.	BI2025	
+evento adverso grave/considerable	severe adverse event	BI2025		
+intenso	severe adverse event	BI2025		
+reacción adversa grave/ considerable	severe adverse reaction	BI2025		
+intensa	severe adverse reaction	BI2025		
+(en) estado grave	severe condition	BI2025		
+efecto secundario considerable	severe side effect	BI2025		
+intenso	severe side effect	BI2025		
+puede ser: severo	severe side effect	BI2025		
+agitar	shake	BI2025		
+agitar	shaking	BI2025		
+platillo de balanza de vidrio de poca profundidad	shallow glass weighing dish	BI2025		
+recipiente para descartar agujas	sharps disposal container	BI2025		
+vida útil	shelf life	BI2025		
+vida útil	shelf life period	BI2025		
+recubrimiento	shell	(de una cápsula)	BI2025	
+goma laca 	shellac	BI2025		
+funda /capuchón	shield	BI2025		
+caja para envíos	shipping box	BI2025		
+desabastecimiento	shortage	BI2025		
+disnea	shortness of breath 	BI2025		
+estudio paralelo de comparabilidad	side by side comparability study	BI2025		
+efecto secundario 	side effect	BI2025		
+reacción secundaria	side reaction	BI2025		
+comparación directa	side-by-side comparison	BI2025		
+análisis granulométrico	sieve analysis	BI2025		
+fracción tamizada	sieve fraction	BI2025		
+columnas formadas por los tamices	sieve stacks	BI2025		
+sílice 	silica	BI2025		
+gel de sílice 	silica gel	BI2025		
+placa de gel de sílice	silica gel plate	BI2025		
+sílice coloidal anhidro	Silica, colloidal anhydrous	BI2025		
+dióxido de silicio	silicon dioxide	BI2025		
+cloruro de plata	silver chloride	BI2025		
+haz simple	single beam	(espectrometría)	BI2025	
+dosis única	single dose	BI2025		
+única dosis	single dose	BI2025		
+isómero simple	single isomer 	BI2025		
+estudio ciego	single-blind study	BI2025		
+centro	site	(referido a investigación clínica)	BI2025	
+inflamación de la piel	skin inflammation	BI2025		
+matadero	slaughterhouse	BI2025		
+Fuerza de desbloqueo de la funda	Sleeve unlocking forcé	BI2025		
+ligeramente soluble	slightly soluble	BI2025		
+ranura	slit	(referido a la celda de matriz de fotodiodos del cromatógrafo)	BI2025	
+suspensión	slurry	(en química)	BI2025	
+carcinoma microcítico de pulmón	small-cell lung cancer 	BI2025		
+frotis	smear	BI2025		
+cierre a presión	snap fit	BI2025		
+Sociedad anónima	Società per azioni  [S.p.A.] 	(Società per azioni)  [S.p.A.] 	BI2025	
+dodecil sulfato de sodio	sodium dodecyl sulphate	BI2025		
+fluoruro de sodio	sodium fluoride	BI2025		
+hidrogenocarbonato de sodio	sodium hydrogen carbonate	BI2025		
+selenito de sodio	sodium selenite	BI2025		
+almidón glicolato sódico	sodium starch glycolate	BI2025		
+sulfuro de sodio	sodium sulphide	BI2025		
+taurocolato de sodio	sodium taurocholate	BI2025		
+ablandar	soften	BI2025		
+blanda/o	soft-tempered	(referido a las láminas de aluminio)	BI2025	
+efecto solubilizante	solubilizing effect	BI2025		
+forma soluble 	soluble form 	BI2025		
+factor tisular soluble	soluble tissue factor			
+sTF	sTF	BI2025		
+solución	solution	BI2025		
+solución para inhalación	solution for inhalation	BI2025		
+solución inyectable	solution for injection	BI2025		
+disolvente	solvent	BI2025		
+blanco de disolvente	solvent blank	BI2025		
+disolvente para reconstitución	solvent for reconstitution	BI2025		
+solvente para reconstitución	solvent for reconstitution	BI2025		
+mezcla de disolventes	solvent mixture  	BI2025		
+tamizadora sónica 	sonic sifter	BI2025		
+exponer a ultrasonido	sonicate	BI2025		
+sorbitol	sorbitol	BI2025		
+sorción	sorption	BI2025		
+caldo digerido de caseína-soja 	soybean casein digest broth 	BI2025		
+espaciador	spacer 	BI2025		
+secado por rociado	spary dried	BI2025		
+límite de la especificación 	specification limit	BI2025		
+especificidad	specificity	BI2025		
+sin agentes patógenos especificados	specified pathogen free			
+SPF	SPF	BI2025		
+rango del espectro	spectral range	(referido a espectrofotometría)	BI2025	
+región espectral	spectral region	(referido a espectrofotometría)	BI2025	
+espectrofotometría	spectrophotometry	BI2025		
+espectro	spectrum 	(referido a espectrofotometría)	BI2025	
+gráfico del índice del espectro	spectrum index plot	(referido a espectrofotometría)	BI2025	
+enriquecer	spike 	(utilizar sólo si refiere a agregar más de un elemento que ya es parte de un compuesto)	BI2025	
+agregar	spike 	BI2025		
+nivel de enriquecimiento  	spike level	BI2025		
+matraz giratorio	spinner flask	BI2025		
+espirometría 	spirometry	BI2025		
+división de flujo	split	(referido a cromatografía)	BI2025	
+inserto para división de flujo	split liner	BI2025		
+Inserto de entrada sin división de flujo 	Splitless inlet liner	BI2025		
+fraccionamiento	splitting	BI2025		
+patrocinador	sponsor	BI2025		
+tiras de esporas	spore strips	BI2025		
+inspección al azar 	spot check	BI2025		
+aerosol	spray	(sustantivo)	BI2025	
+rociar - pulverizar	spray	(verbo)	BI2025	
+proceso de secado por rociado	spray drying process 	BI2025		
+reactivo en aerosol	spray reagent	BI2025		
+suspensión de rociado	spraying suspension	BI2025		
+fuerza de resorte	spring force	BI2025		
+carcinoma de células escamosas 	squamous cell carcinoma	BI2025		
+receptor ß2 adrenérgico	ß2-adrenergic receptor	BI2025		
+estabilidad	stability 	BI2025		
+perfil de estabilidad	stability profile	BI2025		
+protocolo de estabilidad	stability protocol	BI2025		
+muestras para análisis de estabilidad	stability samples	BI2025		
+resumen y conclusiones sobre estabilidad	stability summary and conclusions	BI2025		
+pruebas de estabilidad	stability testing	BI2025		
+pruebas de estabilidad de productos y principios activos nuevos	stability testing of new drug substances and products	BI2025		
+fase escalonada	staircase phase	BI2025		
+método estándar de adición	standard addition method	BI2025		
+disolución estándar de adición	standard addition solution	BI2025		
+desviación estándar	standard deviation [SD]	(referencia: estadística)	BI2025	
+disolución estándar	standard dilution	BI2025		
+error estándar	standard error			
+SE	SE	BI2025		
+error estándar de la media	standard error of the mean			
+SEM	SEM	BI2025		
+Procedimiento operativo estándar	Standard Operating Procedure			
+SOP	SOP	BI2025		
+disolución estándar	standard solution	BI2025		
+consulta normalizada del MedDRA	standardised MedDra query			
+SMQ	SMQ	BI2025		
+Consultas normalizadas de búsqueda	standardised search queries	(del MedDRA)	BI2025	
+SSQ	SSQ			
+Escala de somnolencia de Stanford	Stanford Sleepiness Scale	BI2025		
+Staphylococcus aureus	Staphylococcus aureus	BI2025		
+almidón	starch	BI2025		
+gránulos de partida	starter pellet	BI2025		
+material inicial	starting material	BI2025		
+estado estacionario	steady state	(referido a la administración de un producto por vía intravenosa)	BI2025	
+equilibrio	steady state	(referido a la administración de un producto por vía oral)	BI2025	
+ácido esteárico	stearic acid	BI2025		
+vástago	stem	BI2025		
+estereoisómero	stereo isomer	BI2025		
+estructura estereoquímica	stereochemical structure	(de un principio activo)	BI2025	
+filtro estéril	sterile filter	BI2025		
+ciclo de esterilización 	sterilizing cycle	BI2025		
+síndrome de Stevens-Johnson	Stevens-Johnson syndrome			
+SSJ	SJS	BI2025		
+alambique	still	BI2025		
+revolver	stir	BI2025		
+agitar 	stir	BI2025		
+revolver a mano	stir by hand	BI2025		
+agitar a mano	stir by hand	BI2025		
+placa agitadora	stirrer plate	BI2025		
+velocidad del agitador 	stirrer speed	BI2025		
+barra de agitación magnética	stirring bar	BI2025		
+período de agitación	stirring time	BI2025		
+solución madre	stock solution 	BI2025		
+solución estándar madre	stock standard solution	BI2025		
+detención de deriva	stop drift	BI2025		
+condiciones del almacenamiento	storage conditions	BI2025		
+recomendaciones para el almacenamiento 	storage recommendations	BI2025		
+mantener en lugar seco	store in a dry place	BI2025		
+cepa	strain	BI2025		
+condiciones de stress	stress conditions	BI2025		
+condiciones extremas	stress conditions	BI2025		
+en condiciones extremas	stress conditions	BI2025		
+condiciones de stress	under stress conditions	BI2025		
+condiciones extremas	under stress conditions	BI2025		
+en condiciones extremas	under stress conditions	BI2025		
+medios líquidos de condiciones extremas	stress liquid media	BI2025		
+parámetro de condiciones extremas	stress parameter	BI2025		
+estudios de estabilidad en condiciones extremas	stress stability testing	BI2025		
+estudios en condiciones extremas	stress studies	BI2025		
+muestra sometida a condiciones extremas 	stressed sample	BI2025		
+accidente cerebrovascular [ACV]	stroke	BI2025		
+volumen sistólico	stroke volume	BI2025		
+volumen sistólico	stroke output	BI2025		
+fórmula estructural	structural formula	BI2025		
+medicamento en estudio	study drug	BI2025		
+grupo de estudio	study group	BI2025		
+subpartida 	sub-batch 	BI2025		
+subclonar	subclone	BI2025		
+subconfluente	sub-confluent	BI2025		
+subcutáneo 	subcutaneous	BI2025		
+sujeto	subject	(de un estudio clínico)	BI2025	
+sublote	sublot	BI2025		
+sublote	sub-lot	BI2025		
+glándula submaxilar	submandibular gland	BI2025		
+presentación para el registro	submission	(de un producto ante las autoridades sanitarias)	BI2025	
+partículas subvisibles	sub-visible particles	BI2025		
+partículas subvisibles	subvisible particles	BI2025		
+sucralosa	sucralose	BI2025		
+sacarosa	sucrose	BI2025		
+gragea	sugar coated tablet	BI2025		
+sulfatación	sulfation	BI2025		
+sulfona	sulfone	BI2025		
+aminoácido sulfurado 	sulfur aminoacid	BI2025		
+sulfafenazol	sulphaphenazole	BI2025		
+ceniza sulfatada	sulphate ash	BI2025		
+ceniza sulfatada	sulphated ash	BI2025		
+conjugado con sulfato	sulphate conjugate	BI2025		
+determinación de ceniza sulfatada	sulphated ash test	BI2025		
+sulfito	sulphite	BI2025		
+sulfonilurea 	sulphonylurea	BI2025		
+resumen de eficacia clínica	summary of clinical efficacy [SCE]	BI2025		
+resumen de seguridad clínica	summary of clinical safety [SCS]	BI2025		
+Resumen de las características del producto [SmPC] 	Summary of Product Characteristics [SmPC] 	BI2025		
+Suntest	Suntest	BI2025		
+tromboflebitis superficial	superficial thrombophlebitis	BI2025		
+solución sobrenadante	supernatant solution	BI2025		
+solución sobresaturada	supersaturated solution	BI2025		
+sobresaturación	supersaturation	BI2025		
+solicitud complementaria del registro de un medicamento [sNDA] 	supplemental new drug application [sNDA] 	BI2025		
+ser propicio para el desarrollo de bacterias	support bacterial growth	BI2025		
+estudios respaldatorios de estabilidad	supporting stability studies 	BI2025		
+documentación respaldatoria	supportive documentation	BI2025		
+documentación respaldatoria	support documentation	BI2025		
+resonancia de plasmones superficiales	surface plasmon resonance			
+SPR	SPR	BI2025		
+superable	surmountable	BI2025		
+	surrogate	sustituto	BI2025	
+como sustituto	as surrogate	BI2025BI2025		
+anticuerpo monoclonal anti‑IL-36R específico sustituto de ratón 	surrogate, mouse specific anti-IL36R monoclonal antibody	BI2025		
+técnicas de cultivo en suspensión	suspension culture techniques	BI2025		
+ancho de barrido	sweep width	BI2025		
+limitación por síntomas	symptom limitation	BI2025		
+beneficio sintomático	symptomatic benefit	BI2025		
+criterio de valoración de síntomas	symptomatic endpoint	BI2025		
+impurezas de síntesis	synthesis impurities	BI2025		
+impureza sintética 	synthetic impurity	BI2025		
+vías de síntesis	synthetic pathways	BI2025		
+ruta sintética	synthetic route	BI2025		
+cuerpo de la jeringa	syringe body	BI2025		
+muestreo manual mediante el uso de una jeringa	syringe manual sampling	BI2025		
+jarabe	syrup	BI2025		
+clasificación por órganos y sistemas [SOC]	system organ class [SOC] 	(referido al MedDRA)	BI2025	
+adecuación del sistema	system suitability	BI2025		
+solución para adecuación del sistema	system suitability solution	BI2025		
+prueba de adecuación del sistema	system suitability test 			
+SST	SST	BI2025		
+lupus eritematoso sistémico	Systemic Lupus Erytthematosus			
+LES	SLE	BI2025		
+tensión arterial sistólica	systolic arterial pressure			
+TAS	SAP	BI2025		
+citocinas mediadas por linfocitos T colaboradores 	T helper cell mediated cytokines			
+Th1/Th17	Th1/Th17	BI2025		
+valor t	t value	(estadística)	BI2025	
+índice	Table of Contents [TOC]	BI2025		
+comprimido	tablet	BI2025		
+resistencia del comprimido al aplastamiento	tablet crushing strength	BI2025		
+prensa para comprimidos	tablet press	BI2025		
+herramienta de compresión	tablet tooling	(para la formación de comprimidos)	BI2025	
+comprimido dentro del comprimido 	tablet-in-tablet	BI2025		
+resumen tabulado	tabulated summary	BI2025		
+cola de cromatografía	tailing	BI2025		
+factor de cola	tailing factor	BI2025		
+talco	talc 	BI2025		
+precinto de seguridad	tamper protection seal	BI2025		
+tapa con precinto de seguridad	tamper-evident cap	BI2025		
+tapa con precinto de seguridad	tamper evident cap	BI2025		
+cierre con precinto de seguridad	tamper-evident closure	BI2025		
+tamsulosina	tamsulosin 	BI2025		
+espectrometría de masas en tándem	tandem mass spectrometry			
+MS/MS	MS/MS	BI2025		
+detección por espectrometría de masa en tándem	tandem mass spectrometry detection	BI2025		
+método de la tangente	tangent method 	(cromatografía)	BI2025	
+saturación de la cámara	tank saturation	BI2025		
+calcular la tara	tare	BI2025		
+objetivo	target	BI2025		
+dosis del estudio	target dose	BI2025		
+grupo objetivo	target group	BI2025		
+órgano blanco	target organ	BI2025		
+diana	target organ	BI2025		
+órganos afectados	target organs	BI2025		
+peso objetivo del comprimido	target tablet weight	BI2025		
+disposición del fármaco mediada por la diana	target-mediated drug disposition			
+TMDD	TMDD	BI2025		
+tapones forrados con teflón	teflon lined caps	BI2025		
+variación cíclica de la temperatura	temperature cycling	BI2025		
+perfil de temperatura	temperature profile	BI2025		
+plantilla	template 	BI2025		
+estar sensible	tender	(referido a la piel)	BI2025	
+dolorido	tender	BI2025		
+doloroso a la palpación	tender	BI2025		
+dolor a la palpación	tenderness	BI2025		
+dolor leve	tenderness	BI2025		
+vida media terminal	terminal half-life	BI2025		
+procedimiento analítico del estudio	test analytical procedure	BI2025		
+artículo en estudio	test article	BI2025		
+cámara de prueba	test chamber	BI2025		
+medicación en estudio 	test drug	BI2025		
+centro	test facility	(de realización del estudio)	BI2025	
+análisis del desprendimiento de partículas	test for particle shedding	BI2025		
+sustancia en estudio	test item	BI2025		
+análisis de la fórmula de la sustancia en estudio	test item formulation analysis 	BI2025		
+método analítico	test method	BI2025		
+parámetro analítico	test parameter	BI2025		
+producto experimental	test product 	BI2025		
+muestra de prueba 	test sample	BI2025		
+sustancia en estudio	test substance	BI2025		
+sistema experimental	test system	BI2025		
+especificación analítica	testing specification 	BI2025		
+tetrahidrato	tetrahydrate	BI2025		
+tetrametilsilano	tetramethylsilane	BI2025		
+talasemia	thalassemia	BI2025		
+descongelación	thawing	BI2025		
+peso teórico	theoretical weight 	BI2025		
+clasificación terapéutica 	therapeutic classification	BI2025		
+fracaso terapéutico	therapeutic failure	BI2025		
+monitor de actividad térmica	thermal activity monitor	BI2025		
+lámina térmica	thermofoil	BI2025		
+termogravimetría	thermogravimetry	BI2025		
+termogravimetría	thermo-gravimetry	BI2025		
+tiamina	thiamin	BI2025		
+mononitrato de tiamina	thiamine mononitrate	BI2025		
+nitrato de tiamina	thiamine nitrate	BI2025		
+tiacida	thiazide	BI2025		
+diuréticos tiacídicos	thiazide diuretics	BI2025		
+engrosamiento blancuzco del tronco pulmonar	thickened whitish truncus pulmonalis	BI2025		
+agente espesante	thickening agent 	BI2025		
+espesor	thickness	BI2025		
+cromatografía de capa fina	thin layer chromatography			
+TLC	TLC	BI2025		
+placa de cromatografía de capa fina	thin layer chromatography plate 	BI2025		
+reductor	thinner	BI2025		
+diluyente	thinner	(según el contexto)	BI2025	
+tioacetamida	thioacetamide	BI2025		
+ácido tioglicólico	thioglycolic acid	BI2025		
+Quedan prohibidas la transmisión, reproducción, publicación y toda otra utilización, total o parcial, de este documento sin autorización previa por escrito.	This document may not -in full or in part- be passed on, reproduced, published, or otherwise used without prior written permission. 	BI2025		
+nitrato de torio	thorium nitrate	BI2025		
+tres veces al día	three times a day [t.i.d.]	BI2025		
+tres veces al día	[tid]	BI2025		
+blíster de aluminio trilaminado	three-ply aluminium blister	BI2025		
+estudio cruzado en tres vías	three-way crossover trial	BI2025		
+umbral de toxicidad	threshold of toxicological concern [TTC]	BI2025		
+inhibidor de la trombina	thrombin inhibitor	BI2025		
+trastornos tromboembólicos 	thromboembolic disorders 	BI2025		
+tromboplastina	thromboplastin 	BI2025		
+apoyo del émbolo	thumb pad	(de una jeringa)	BI2025	
+glándula tiroidea 	thyroid gland	BI2025		
+volumen de aire durante la respiración normal	tidal volume	BI2025		
+volumen de aire en reposo	tidal volume during quiet breathing	BI2025		
+materiales de acondicionamiento hermético	tight packaging materials	BI2025		
+hermeticidad	tightness	BI2025		
+tiempo (expresado en meses)	time (months)	BI2025		
+curso cronológico	time course	BI2025		
+tiempo en el rango terapéutico	time in therapeutic range			
+TTR	TTR	BI2025		
+momento de medición 	time point	BI2025		
+tiempo transcurrido hasta la disolución total	time to complete dissolution	BI2025		
+tiempo transcurrido hasta la aparición del evento	time to event			
+TIMEV	TIMEV	BI2025		
+tiempo hasta alcanzar la concentración máxima	time to reach Cmax			
+tmáx	tmax	BI2025		
+patrón de distribución tisular	tissue dissolution pattern	BI2025		
+activador de plasminógeno tisular natural	tissue plasminogen activator	BI2025		
+dióxido de titanio	titanium dioxide	BI2025		
+óxido de titanio	titanium oxide	BI2025		
+portada	title page	BI2025		
+titulador	titrant 	(referido a un equipo) 	BI2025	
+valorar 	titrate	BI2025		
+valoración	titration	(volumétrica	BI2025	
+cuantitativa)	titration	BI2025		
+reactivo de valoración	titration reagent	BI2025		
+análisis volumétrico	titrimetric assay	BI2025		
+procedimiento volumétrico	titrimetric procedure	BI2025		
+volumetría	titrimetry	BI2025		
+tocoferol	tocopherol	BI2025		
+tocoferilo	tocopheryl	BI2025		
+tolerabilidad	tolerability	BI2025		
+tolueno	toluene	BI2025		
+proceso en lecho fluido con pulverización superior	top spray fluid bed process	BI2025		
+local	topical	BI2025		
+destornillador dinamométrico	torque screw	BI2025		
+recuento de microorganismos aerobios totales [TAMC] 	total aerobic microbial count [TAMC] 	BI2025		
+recuento bacteriano total 	total bacterial count	BI2025		
+depuración total del analito en plasma 	total clearance of the analyte in plasma 	BI2025		
+ácidos grasos totales	total fatty acids			
+AGT	TFA	BI2025		
+recuento fúngico total	total fungal count	BI2025		
+tiempo total de infusión	total infusion time	BI2025		
+impurezas totales	total of all impurities	BI2025		
+depuración plasmática total	total plasma clearance	BI2025		
+(which ranges from 0 to 4 of at least 3 in which 0 = clear, 3 = moderate, 4 = severe)	total score	puntuación total (en el intervalo de 0 a 4 de un mínimo de 3 en el cual 0 equivale a "leve", 3 a "moderado", y 4 a "grave") (referido a los brotes - espesolimab)	BI2025	
+toxicocinética	toxicokinetics	BI2025		
+toxidermia	toxidermia	BI2025		
+trazabilidad	traceability 	BI2025		
+nombre comercial	tradename	BI2025		
+factor de cola	trailing factor	BI2025		
+transferencia	transfer 	BI2025		
+línea de transferencia	transfer line	BI2025		
+puerto de transferencia 	transfer port	BI2025		
+factor de crecimiento transformante	transforming growth factor			
+FCT	TGF	BI2025		
+ataque isquémico transitorio	transient ischemic attack			
+AIT	TIA	BI2025		
+índice transicional de disnea	transition dyspnoea index	BI2025		
+metal de transición	transition metal	BI2025		
+transmitancia	transmittance	BI2025		
+tubo de grafito calentado en forma transversal 	transversely heated graphite tube	BI2025		
+grupo de tratamiento	treatment arm	BI2025		
+pacientes sin tratamiento previo	treatment-näive patients	BI2025		
+pacientes sin tratamiento previo	treatment-naive patients	BI2025		
+respuesta al tratamiento orientado al objetivo	treat-to-target response	BI2025		
+fórmula del estudio	trial formulation			
+TR	TR	BI2025		
+centro del ensayo	trial site	BI2025		
+triaminopiridina	triaminopyrimidin	BI2025		
+tridodecilamina	tridodecylamine	BI2025		
+espectómetro de masas de triple cuadrupolo	triple-stage quadrupole mass spectrometer	BI2025		
+trituración	trituration	BI2025		
+sustancia triturada	trituration	BI2025		
+éster etílico del ácido trópico	tropic acid ethyl ester	BI2025		
+troponina T	troponin T	BI2025		
+concentración mínima	trough level	BI2025		
+mapeo de los péptidos obtenidos por hidrólisis con tripsina 	tryptic peptide mapping	BI2025		
+tubo de ensayo	tube	BI2025		
+tubo de ensayo	test tube	BI2025		
+cortatubos	tube cutter	BI2025		
+tuberculosis	tuberculosis			
+TB	TB	BI2025		
+	turbid	turbio	BI2025	
+turbidez	turbidity	BI2025BI2025		
+turbidímetro 	turbidimeter	BI2025		
+determinación turbidimétrica	turbidimetric determination	BI2025		
+recambio	turnover	BI2025		
+dos veces al día	twice daily			
+b.i.d.	b.i.d.	BI2025		
+estudio cruzado en dos períodos	two period crossover trial	BI2025		
+estudio cruzado en dos períodos	two period cross-over trial	BI2025		
+estudio cruzado en dos vías	two way crossover trial	BI2025		
+estudio cruzado en dos vías	two way cross-over trial	BI2025		
+pico de dos cadenas	two-chain peak	BI2025		
+intervalo de confianza del 95% bilateral 	two-sided 95% confidence interval	BI2025		
+intervalo de tolerancia bilateral	two-sided tolerance interval	BI2025		
+diabetes mellitus tipo 2	type 2 diabetes mellitus	BI2025		
+diabetes mellitus tipo 2	type II diabetes mellitus	BI2025		
+solución de Tyrode	Tyrode's solution	BI2025		
+actividad de la cinasa de tirosina	tyrosine kinase activity	BI2025		
+inhibidor de la cinasa de tirosina	tyrosine kinase inhibitor			
+TKI	TKI	BI2025		
+ultravioleta	ultraviolet			
+UV	UV	BI2025		
+barrido UV	ultraviolet scan	BI2025		
+por barrido UV	ultraviolet scan	BI2025		
+barrido UV	UV-scan	BI2025		
+por barrido UV	UV-scan	BI2025		
+barrido UV	by UV-scan	BI2025		
+por barrido UV	by UV-scan	BI2025		
+espectroscopía ultravioleta-visible	ultraviolet/visible spectroscopy			
+espectroscopía UV/VIS	UV/VIS spectroscopy	BI2025		
+desenmascaramiento	unblinding	BI2025		
+los niveles de dabigatrán completo no unido en el inicio	unbound sum dabigatran levels at baseline	BI2025		
+disolución inalterada	unchanged solution	BI2025		
+comprimidos no recubiertos 	uncoated tablets	BI2025		
+humedad no controlada	uncontrolled humidity	BI2025		
+tiempo bruto de retención	uncorrected retention time	BI2025		
+presión negativa	under-pressure	BI2025		
+enfermedad de base	underlying disease	BI2025		
+hidratado	undried	BI2025		
+atribución inequívoca de las impurezas	unequivocal attribution of the impurities 	BI2025		
+uniblock	uniblock	(referido a un atomizador)	BI2025	
+uniformidad de dosis liberada	uniformity of delivered dose	(si es de una boquilla) administrada (si no es de una boquilla)	BI2025	
+uniformidad de masa	uniformity of mass	BI2025		
+uniformidad del peso medido	uniformity of metered mass	BI2025		
+actividad de control no inhibida	uninhibited control activity	BI2025		
+tuerca de unión	union nut	BI2025		
+no ionizado	unionised	BI2025		
+Estados Unidos	United States			
+EE.UU.	US	BI2025		
+ficha técnica de los Estados Unidos	United States package insert	BI2025		
+ficha técnica de los Estados Unidos	US package insert [USPI]	BI2025		
+Farmacopea de los Estados Unidos	United States Pharmacopeia			
+USP	USP	BI2025		
+a menos que se especifique otra indicación 	unless otherwise mentioned	BI2025		
+a menos que se establezca otra indicación 	unless otherwise provided	BI2025		
+sin envasar	unpacked	BI2025		
+comprimidos sin protección	unprotected tablets	BI2025		
+sin especificar	unspecified 	BI2025		
+muestra en condiciones normales 	unstressed sample	BI2025		
+efecto no deseado	unwanted effect	BI2025		
+desenrollado	unwinding	BI2025		
+ajuste ascendente de la dosis	up titration	BI2025		
+límite normal superior	upper limit of normal			
+LNS	ULN	BI2025		
+límite de cuantificación superior	upper limit of quantitation			
+uLOQ	uLOQ	BI2025		
+vías respiratorias inferiores	upper respiratory tract	BI2025		
+la parte superior de los muslos	upper thighs	BI2025		
+cociente entre el límite superior y el inferior	upper-lower-ratio	BI2025		
+análisis de orina	urinalysis	BI2025		
+análisis de orina	urine analysis	BI2025		
+sedimento urinario	urinary sediment	BI2025		
+uso en poblaciones específicas	use in specific populations	BI2025		
+principio del tubo en U oscilante	u-tube principle	BI2025		
+determinación por UV	UV determination	BI2025		
+espectrofotometría UV	UV spectrophotometry	BI2025		
+secador al vacío	vacuum dryer	BI2025		
+horno de vacío	vacuum oven	BI2025		
+fuente de vacío	vacuum source	BI2025		
+análisis al vacío	vacuum testing	BI2025		
+validación	validation	BI2025		
+integración de valle a valle 	valley-to-valley integration	BI2025		
+valvulopatía	valvular heart disease [VHD]	BI2025		
+valvulopatía	VHD	BI2025		
+vainillina	vanillin	BI2025		
+variabilidad	variability	BI2025		
+detector UV de longitud de onda variable	variable wavelength UV detector	BI2025		
+variación	variation	BI2025		
+barniz	varnish	BI2025		
+enfermedad vascular	vascular disease 	BI2025		
+receptor del factor de crecimiento del endotelio vascular	vascular endothelial cell growth factor receptor			
+VEGFR 	VEGFR	BI2025		
+tromboembolia venosa	venous thromboembolism			
+VTE	VTE	BI2025		
+comunicación interventricular	ventricular septal defect	BI2025		
+verapamilo	verapamil	BI2025		
+versus	versus			
+vs.	vs	BI2025		
+muy ligeramente soluble	very slightly soluble	BI2025		
+cámara de recipientes	vessel chamber	BI2025		
+por las vías catabólicas 	via catabolic pathways 	BI2025		
+vial /ampolla	vial	Para Metalyse, Actilyse y Praxbind se deberá usa vial.		
+frasco /frasco-ampolla	vial	Para Metalyse, Actilyse y Praxbind se deberá usa vial.		
+molino de discos vibratorios	vibrating mill	(referido a granulometrías)	BI2025	
+espectroscopia vibracional	vibrational spectroscopy	BI2025		
+virus	viral pathogen	BI2025		
+potencial evocado visual	visual evoked potential			
+PEV	VEP	BI2025		
+inspección visual	visual test	BI2025		
+funciones fisiológicas vitales	vital physiological functions	BI2025		
+antagonista de la vitamina K	vitamin K antagonist			
+VKA	VKA	BI2025		
+volumen	volume			
+vol.	vol	BI2025		
+volumen de distribución en estado estacionario	volume of distribution at steady state			
+Vss	Vss	BI2025		
+volumen por volumen	volume per volume			
+v/v	v/v	BI2025		
+matraz aforado	volumetric flask	BI2025		
+solución volumétrica	volumetric solution	BI2025		
+valoración volumétrica /análisis volumétrico	volumetric titration	BI2025		
+valoración volumétrica /análisis volumétrico	titration	BI2025		
+sello	wafer	BI2025		
+flexión, flexión asimétrica fuera de plano	wag	(en espectrometría)  	BI2025	
+eximir del cumplimiento 	waive	BI2025		
+warfarina	warfarin	BI2025		
+lavado	wash	BI2025		
+solución de enjuague	wash solution	BI2025		
+período de depuración farmacológica	wash-out	BI2025		
+período de depuración farmacológica	washout	BI2025		
+contenido de agua	water content	BI2025		
+agua para inyectable	water for injection	BI2025		
+agua para inyectable	WFI	BI2025		
+absorción de agua	water uptake	BI2025		
+baño María	water-bath	BI2025		
+baño María	waterbath	BI2025		
+longitud de onda	wavelength 	BI2025		
+pesafiltro	weighing bottle	BI2025		
+platillo de balanza	weighing dish	BI2025		
+peso	weight	BI2025		
+pesaje	weight	BI2025		
+pesar los cartuchos con un margen de precisión de 1 mg	weight the cartidges to within 1 mg	(en cromatografía)	BI2025	
+peso/volumen	weight/volume			
+p/v	w/v	BI2025		
+peso/peso	weight/weight			
+p/p	w/w	BI2025		
+placa de pocillos	well plate	BI2025		
+número de onda	Wellenzahlen	BI2025		
+granulación húmeda	wet granulation	BI2025		
+área de humedad	wetness area	BI2025		
+roncha 	wheal	BI2025		
+leucocitos	white blood cells	BI2025		
+leucocitos	WBC	BI2025		
+blíster de aluminio de color blanco opaco	white opaque aluminium blister	BI2025		
+precinto de seguridad de polietileno blanco	white polyethylene tamper	BI2025		
+blanco a blanquecino	white to off white	(referido al color)	BI2025	
+sangre total	whole blood	BI2025		
+ratas silvestres	wildtype rats	BI2025		
+bobinado	winding	(de un rollo de aluminio)	BI2025	
+ventana	window	por ejemplo: ventana de pH 	BI2025	
+alambre	wire	(referido a las mallas de un tamiz)	BI2025	
+rata Wistar	Wistar rat	BI2025		
+extraer	withdraw 	(referido a un principio activo)	BI2025	
+retiro	withdraw 	(de una persona respecto de un estudio clínico)	BI2025	
+abstinencia y efecto rebote	withdrawal and rebound	BI2025		
+frutos del bosque	woodberry	(referido al sabor de un medicamento)	BI2025	
+frutos del bosque	wood berry	(referido al sabor de un medicamento)	BI2025	
+banco de células de trabajo	working cell bank			
+WCB	WCB	BI2025		
+norma de referencia de trabajo	working reference standard	BI2025		
+temperatura de trabajo	working temperature	BI2025		
+variación de trabajo compartido	worksharing variation	BI2025		
+procesamiento	workup 	BI2025		
+procesamiento del tubo de toma de muestras	workup of the sample collection tube	BI2025		
+en el peor de los casos	worst-case scenario	BI2025		
+en el peor de los casos	worst case scenario	BI2025		
+resumen descriptivo	written summary	BI2025		
+injerto heterólogo 	xenograft	BI2025		
+lámpara de xenón	xenon lamp	BI2025		
+difracción de rayos X	X-ray diffraction	BI2025		
+mohos y levaduras 	yeasts and moulds	BI2025		
+obtener de manera sistemática	yield routinely 	BI2025		
+ordenada al origen	y-intercept	(en un gráfico de coordenadas)	BI2025	
+zeaxantina	zeaxanthin	BI2025		
+cinética de orden cero	zero-order kinetics	BI2025		
+zinc	zinc	BI2025		
+sulfato de zinc	zinc sulphate 	BI2025		
+síndrome de Zollinger-Ellison 	Zollinger-Ellison-Syndrome	BI2025		
+Zorbax Bonus	Zorbax Bonus 	(cromatografía)	BI2025	
+rata Zucker obesa diabética 	Zucker Diabetic Fatty rat			
+ZOD	ZOD	BI2025		
