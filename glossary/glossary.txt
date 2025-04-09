@@ -233,3 +233,4 @@ VUE	Ecuadorian Single Entry Point System	Ventanilla única ecuatoriana (ver). 0 
 carro de paro	crash cart	https://images.app.goo.gl/V3YEFR342Ej7UjJd7 3 de 3 GT 10-24
 Life forward	Life forward	es un slogan 3 de 3 GT 10-24
 Matrícula	Board Certification	se dice también Board Certified with Number... GT 12-24 2 de 3
+CONPES	National Council of Economic and Social Policy	Consejo Nacional de Política Económica y Social. Colombia, 3 de 3 GT 04-25
