@@ -237,3 +237,4 @@ CONPES	National Council of Economic and Social Policy	Consejo Nacional de Polít
 estudio natural	long-term study	Colombia, Invima: Comprenden los estudios de estabilidad acelerados (envejecimiento acelerado)
 PFT	pharmaceutical finished product	productos farmacéuticos terminados. Resolución 525/25 INVIMA. GT 4-25 3 de 3
 NRA	ARN	nefropatía relacionada con la anticoagulación, previamente, ...relacionada con la warfarina. varias páginas en español. 3 de 3 GT 4-25
+PSUSA	PSUSA	Periodic Safety Update Report Single Update, dejamps PSUSA, Actualización Individual del PSUR, 2 de 3, GT 4-25
